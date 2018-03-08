@@ -1,442 +1,225 @@
-[{
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Livemint.com",
-        "Articles Author": "PTI",
-        "Articles Title": "Mukesh Ambani's son Akash Ambani to wed Shloka Mehta this year?",
-        "Articles Description": "Akash is the eldest son of India’s richest man Mukesh Ambani, and Shloka Mehta is the daughter of Russell Mehta, the head of Rosy Blue Diamonds",
-        "Articles Url": "http://www.livemint.com/Companies/o4IEIEBQYgn866IhMfFirL/Mukesh-Ambanis-son-Akash-Ambani-to-wed-Shloka-Mehta-this-ye.html",
-        "Articles Urltoimage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/03/06/Photos/Processed/Akashambani-kTeF--621x414@LiveMint.JPG",
-        "Articles Publishedat": "2018-03-05T11:04:27Z",
-        "Articles Source Id": ""
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [{
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "BS Web Team",
+        "title": "Statue vandalism issue: Gandhi bust attacked in Kerala; top 10 developments",
+        "description": "Statue vandalism issue started with Communist icon Lenin's statue in Tripura by BJP workers and now Mahatma Gandhi was found defaced in Kannur district's Taliparamba town. Know more on Statue vandalism row.",
+        "url": "http://www.business-standard.com/article/current-affairs/statue-vandalism-gandhi-s-bust-attacked-in-kerala-top-10-developments-118030800584_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-03/08/full/1520502858-5363.JPG",
+        "publishedAt": "2018-03-08T10:16:51Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Livemint.com",
-        "Articles Author": "PTI",
-        "Articles Title": "Aurobindo Pharma unit gets 9 observations from USFDA",
-        "Articles Description": "Aurobindo Pharma shares fall nearly 4% to Rs600.80 after the company says USFDA issues Form 483 with nine observations to the company’s unit 4 in Hyderabad",
-        "Articles Url": "http://www.livemint.com/Money/8SQ2XbhxdhBxsdRKSY64rI/Aurobindo-Pharma-shares-fall-5-on-reports-of-USFDA-observat.html",
-        "Articles Urltoimage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/03/06/Photos/Processed/fda-kTXF--621x414@LiveMint.jpg",
-        "Articles Publishedat": "2018-03-05T10:41:15Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": null,
+            "name": "Zeebiz.com"
+        },
+        "author": "IANS",
+        "title": "Aadhaar card linking deadline: Relief coming for public? Here is what govt said",
+        "description": "Aadhaar: “If required, we can do it again,” Venugopal said after petitioners challenging the constitutional validity of the Aadhaar scheme sought an extension of the deadline to link the 12-digit unique identity number with various government schemes and serv…",
+        "url": "http://www.zeebiz.com/india/news-aadhaar-card-linking-deadline-relief-coming-for-public-here-is-what-govt-said-38663",
+        "urlToImage": "http://stz.india.com/sites/default/files/2018/03/08/30926-aadhaar-card-reuters.jpg",
+        "publishedAt": "2018-03-08T09:53:19Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "The Times of India",
-        "Articles Author": "PTI",
-        "Articles Title": "UIDAI asks telcos to provide facility for users to know SIMs linked to Aadhaar",
-        "Articles Description": "The decision was taken after the UIDAI came to know about some retailers, operators and agents of telecom companies allegedly misusing Aadhaar authentication facility to issue new SIMs.",
-        "Articles Url": "https://economictimes.indiatimes.com/news/politics-and-nation/uidai-asks-telcos-to-provide-facility-for-users-to-know-sims-linked-to-aadhaar/articleshow/63171158.cms",
-        "Articles Urltoimage": "https://img.etimg.com/thumb/msid-63171160,width-672,resizemode-4,imgsize-64398/aadhaar-sim-bccl.jpg",
-        "Articles Publishedat": "2018-03-05T10:41:00Z",
-        "Articles Source Id": "the-times-of-india"
+        "source": {
+            "id": null,
+            "name": "Financialexpress.com"
+        },
+        "author": "FE Online",
+        "title": "OnePlus 5T has a hefty cashback offer for ICICI Bank customers; here is how to avail discount",
+        "description": "Onelus 5T, the smartphone that has managed to create quite a stir in the market, has finally got a discount from its official online seller - Amazon India.  On the e-commerce platform, the smartphone is listed at Rs 32,999 for the 64 GB variant with 6GB RAM. …",
+        "url": "http://www.financialexpress.com/industry/technology/oneplus-5t-has-a-hefty-cashback-offer-for-icici-bank-customers-here-is-how-to-avail-discount/1091559/",
+        "urlToImage": "http://images.financialexpress.com/2018/03/oneplus-5t-new.jpg",
+        "publishedAt": "2018-03-08T09:46:31Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Businesstoday.in",
-        "Articles Author": "PTI",
-        "Articles Title": "Anil Ambani's Reliance Infra slaps Rs 5440 crore arbitration notice against Pipavav Defence promoters",
-        "Articles Description": "The agreements were signed by both the companies during the acquisition Pipavav Defence in March 4, 2014. Reliance Infrastructure's subsidiary Reliance Defence Systems Private Ltd had initially bought about 18 per cent stake in Pipavav Defence and Engineer",
-        "Articles Url": "https://www.businesstoday.in/current/corporate/anil-ambani-reliance-infra-rs-5440-crore-arbitration-notice-to-pipavav-defence/story/271942.html",
-        "Articles Urltoimage": "https://smedia2.intoday.in/btmt/images/stories/anil-reliance_505_030415075905_030518034010.jpg",
-        "Articles Publishedat": "2018-03-05T10:13:49Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "All About Neiphiu Rio, Nagaland's Chief Minister For Fourth Term",
+        "description": "Neiphiu Rio, Nationalist Democratic People's Party chief, took oath today as the Chief Minister of Nagaland at its capital Kohima. The BJP's Y Patton also took oath as the state's deputy chief minister. Before the Nagaland assembly elections, the Nationalist …",
+        "url": "https://www.ndtv.com/india-news/know-all-about-incumbent-neiphiu-rio-the-new-chief-minister-of-nagaland-1821287",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-03/neiphiu-rio_650x400_71520502056.jpg",
+        "publishedAt": "2018-03-08T09:45:04Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Moneycontrol.com",
-        "Articles Author": "PTI",
-        "Articles Title": "Top officials likely to share all details of 80:20 gold scheme with PAC",
-        "Articles Description": "The move comes after BJP members of the panel alleged that the scheme, which was started during the tenure of Congress leader P Chidambaram as finance minister, was misused by jewellers including fugitive Mehul Choksi for money laundering.",
-        "Articles Url": "https://www.moneycontrol.com/news/business/economy/top-officials-likely-to-share-all-details-of-8020-gold-scheme-with-pac-2520919.html",
-        "Articles Urltoimage": "https://static-news.moneycontrol.com/static-mcnews/2018/02/gold_720-1-770x433.jpg",
-        "Articles Publishedat": "2018-03-05T09:49:00Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": null,
+        "title": "SC allows Karti Chidambaram to withdraw plea seeking interim relief, asks him to approach Delhi HC",
+        "description": "The Supreme Court has asked Karti Chidambaram, the son of senior Congress leader P Chidambaram, to approach the Delhi High Court on Thursday for seeking any interim relief in the INX Media money laundering case.",
+        "url": "http://www.firstpost.com/india/sc-allows-karti-chidambaram-to-withdraw-plea-seeking-interim-relief-asks-him-to-approach-delhi-hc-4381801.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/03/karti_chidambaram_social-11.jpg",
+        "publishedAt": "2018-03-08T09:21:14Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Livemint.com",
-        "Articles Author": "Maulik Vyas",
-        "Articles Title": "Aircel seeks appointment of IRP to expedite process of clearing employee dues",
-        "Articles Description": "Aircel, which has filed for bankruptcy, approaches Mumbai bench of National Company Law Tribunal for the appointment of an IRP",
-        "Articles Url": "http://www.livemint.com/Companies/LkiEORV0FsPC4uWkpPO2qL/Aircel-seeks-appointment-of-IRP-to-expedite-process-of-clear.html",
-        "Articles Urltoimage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/03/06/Photos/Processed/aircel-knGF--621x414@LiveMint.jpg",
-        "Articles Publishedat": "2018-03-05T09:32:30Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "'Love jihad' case: SC sets aside Kerala high court order that annulled Hadiya's marriage",
+        "description": "India News: NEW DELHI: The Supreme Court (SC) on Thursday set aside the Kerala high court (HC) order that had annulled alleged 'love jihad' victim Hadiya aka Akhi.",
+        "url": "https://timesofindia.indiatimes.com/india/kerala-love-jihad-case-sc-sets-aside-kerala-hc-order-that-annulled-hadiyas-marriage/articleshow/63215330.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-63216249,width-1070,height-580,imgsize-179741,resizemode-1,overlay-toi_sw,pt-32/photo.jpg",
+        "publishedAt": "2018-03-08T09:12:59Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Business-standard.com",
-        "Articles Author": "Subhayan Chakraborty",
-        "Articles Title": "Indian industry braces for flood of Chinese steel following US tariff hike",
-        "Articles Description": "US trade deficit with China is $375 bn, or 46% of its total; If Trump forces his way, China could look at markets such as India to offload its products",
-        "Articles Url": "http://www.business-standard.com/article/economy-policy/indian-industry-braces-for-flood-of-chinese-steel-following-us-tariff-hike-118030500491_1.html",
-        "Articles Urltoimage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-02/09/full/1518119213-9076.jpg",
-        "Articles Publishedat": "2018-03-05T09:28:39Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "AFP",
+        "title": "Won't give an inch of South China Sea: China to US",
+        "description": "China's foreign minister Wang Yi said the Asian nation's path \"is totally different than the one that has already been taken by traditional major powers\".",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/wont-give-an-inch-of-south-china-sea-china-to-us/articleshow/63215874.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63216009,width-672,resizemode-4,imgsize-37354/untitled-1.jpg",
+        "publishedAt": "2018-03-08T08:59:14Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Businesstoday.in",
-        "Articles Author": "Subhayan Chakraborty",
-        "Articles Title": "TDS scam: 447 companies robbed taxman of Rs 3200 crore, says report",
-        "Articles Description": "Tax season is yet to really pick up pace in the country but tax scams are already hogging the headlines. Last month it was a refund fraud totalling Rs 5 crore in Bangalore.",
-        "Articles Url": "https://www.businesstoday.in/current/economy-politics/tds-scam-447-companies-robbed-taxman/story/271936.html",
-        "Articles Urltoimage": "https://smedia2.intoday.in/btmt/images/stories/income-tax-reuters_505_083115124540_022218071408_030518025209.jpg",
-        "Articles Publishedat": "2018-03-05T09:25:00Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "Rohit Kumar Singh",
+        "title": "Lalu's dig at Nitish: Why don't you ask your 'boss' to grant special status to Bihar?",
+        "description": "RJD chief Lalu Prasad Yadav has taken pot-shots at Bihar Chief Minister Nitish Kumar questioning why didn't he pressu",
+        "url": "https://www.indiatoday.in/india/story/lalu-s-dig-at-nitish-why-don-t-you-ask-your-boss-to-grant-special-status-to-bihar-1184575-2018-03-08",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/lalu_nitish.jpeg?3jj90n4PtxDBvipFUHfatdFAWctKn5k_",
+        "publishedAt": "2018-03-08T08:57:51Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Ndtv.com",
-        "Articles Author": "Subhayan Chakraborty",
-        "Articles Title": "Services Industry Contracts In February As Inflation Hits Demand, Says Survey",
-        "Articles Description": "In February, manufacturers also faced accelerating inflation, pushing overall input prices to rise at their quickest pace in three and a half years.",
-        "Articles Url": "https://www.ndtv.com/business/services-industry-contracts-in-february-as-inflation-hits-demand-says-survey-1819769",
-        "Articles Urltoimage": "https://i.ndtvimg.com/i/2018-02/inflation_650x400_81518456994.jpg",
-        "Articles Publishedat": "2018-03-05T09:09:00Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": null,
+            "name": "Moneycontrol.com"
+        },
+        "author": null,
+        "title": "Full text: I am being threatened by people who I had business relations with, Mehul Choksi writes to CBI",
+        "description": "He further added that he can't come back to India because his passport has been suspended",
+        "url": "https://www.moneycontrol.com/news/business/companies/full-text-i-am-being-threatened-by-people-who-i-had-business-relations-with-mehul-choksi-writes-to-cbi-2523847.html",
+        "urlToImage": "https://static-news.moneycontrol.com/static-mcnews/2018/03/Mehul-1-770x433.jpg",
+        "publishedAt": "2018-03-08T08:57:00Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Livemint.com",
-        "Articles Author": "Maulik Vyas",
-        "Articles Title": "Bhushan Power, Jyoti Structures resolution to be delayed as IRPs dragged to court",
-        "Articles Description": "BDO Restructuring Advisory moves court against IRPs Vandana Garg and Mahender Khandelwal to ensure they complete resolution process of Bhushan Power, Jyoti Structures before they leave the firm",
-        "Articles Url": "http://www.livemint.com/Companies/6h8GgaHfAlc6XWU96nwH8J/Bhushan-Power-Jyoti-Structures-resolution-to-be-delayed-as.html",
-        "Articles Urltoimage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/03/06/Photos/Processed/bombayHC-khoC--621x414@LiveMint.jpg",
-        "Articles Publishedat": "2018-03-05T08:25:11Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": "espn-cric-info",
+            "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "Selecting Kohli in 2008 cost me my job - Vengsarkar",
+        "description": "The former chairman of selectors has accused N Srinivasan and MS Dhoni of favouring the Chennai Super Kings player S Badrinath",
+        "url": "http://www.espncricinfo.com/india/content/story/1139338.html",
+        "urlToImage": "http://a3.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F360361_1296x1296.jpg",
+        "publishedAt": "2018-03-08T08:28:51Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Dnaindia.com",
-        "Articles Author": "DNA Web Team",
-        "Articles Title": "Good news: Railways may cut ticket prices of luxury trains by 50%",
-        "Articles Description": "The revenue for two of the luxury trains – Palace of Wheels and Royal Rajasthan – which are operated by both Indian Railways and Rajasthan Tourism, have reportedly declined by more than 24 per cent and 63 per cent respectively.",
-        "Articles Url": "http://www.dnaindia.com/business/report-good-news-railways-may-cut-ticket-prices-of-luxury-trains-by-50-2590885",
-        "Articles Urltoimage": "http://static.dnaindia.com/sites/default/files/styles/half/public/2018/03/05/657693-maharaja.jpg",
-        "Articles Publishedat": "2018-03-05T08:21:00Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": null,
+            "name": "News18.com"
+        },
+        "author": "D P Satish",
+        "title": "Karnataka Cabinet Approves State Flag, 'Tricolour' Awaits Centre's Nod",
+        "description": "The committee to decide the design of the flag headed by Kannada Development Authority (KDA) chairman S G Siddaramaiah submitted the new design to Chief Minister Siddaramaiah at the Vidhana Soudha on Thursday morning.",
+        "url": "https://www.news18.com/news/india/karnataka-cabinet-approves-state-flag-tricolour-awaits-centres-approval-1682947.html",
+        "urlToImage": "https://images.news18.com/ibnlive/uploads/2018/03/Karnataka-Flag.jpeg",
+        "publishedAt": "2018-03-08T08:10:18Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "India.com",
-        "Articles Author": "India.com News Desk",
-        "Articles Title": "7th Pay Commission: Will The Government Increase Minimum Basic Pay to Rs 21000 With Fitment Factor 3 Times?",
-        "Articles Description": "Seventh Pay Commission: 7th pay commission's recommendations had not gone down well with the employees. They were demanding that the minimum salary under 7th CPC must be spiked to Rs 26,000 with a fitment factor of 3.68 times.",
-        "Articles Url": "http://www.india.com/news/india/7th-pay-commission-will-the-government-increase-minimum-basic-pay-to-rs-21000-with-fitment-factor-3-times-2926297/",
-        "Articles Urltoimage": "http://www.india.com/wp-content/uploads/2018/02/7th-pay-commission-Budget.jpg",
-        "Articles Publishedat": "2018-03-05T07:42:00Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": null,
+            "name": "Deccanchronicle.com"
+        },
+        "author": "AP",
+        "title": "Trapped in mosques: Despite Sri Lanka emergency, Buddhists burn Muslim homes",
+        "description": "At least 20 Muslim homes appeared badly damaged and flames engulfed one two-story home.",
+        "url": "https://www.deccanchronicle.com/world/neighbours/080318/trapped-in-mosques-despite-sri-lanka-emergency-buddhists-burn-muslim.html",
+        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-0aepihhnv9j7mquqndufm6pp37-20180308133040.Medi.jpeg",
+        "publishedAt": "2018-03-08T08:08:01Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Moneycontrol.com",
-        "Articles Author": "India.com News Desk",
-        "Articles Title": "Essar Steel auction: A perception game plays out in the public",
-        "Articles Description": "Both ArcelorMittal and Numetal push their cases as an all-important meeting in the auction takes place this week",
-        "Articles Url": "https://www.moneycontrol.com/news/business/essar-steel-auction-a-perception-game-plays-out-in-the-public-2520739.html",
-        "Articles Urltoimage": "https://static-news.moneycontrol.com/static-mcnews/2018/02/essarsteel_1280_720-770x433.jpg",
-        "Articles Publishedat": "2018-03-05T07:31:00Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": null,
+        "title": "Andhra Pradesh LIVE: Modi's BJP made false promises to Chandrababu to make TDP an ally, claims Congress",
+        "description": "Andhra Pradesh chief minister N Chandrababu Naidu on Wednesday night asked his party's two central ministers to resign amid the growing strain in ties between his TDP and the BJP. Watch LIVE News, Latest Updates, Live blog, Highlights and Live coverage online…",
+        "url": "http://www.firstpost.com/india/andhra-pradesh-special-status-row-live-updates-bharatiya-janata-party-telugu-desam-party-andhra-pradesh-chief-minister-chandrababu-naidu-asks-ministers-ashok-gajapathi-raju-ys-chowdary-to-resign-from-4381181.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/01/chandrababu-naidu_3_cr.jpg",
+        "publishedAt": "2018-03-08T08:01:06Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Ndtv.com",
-        "Articles Author": "India.com News Desk",
-        "Articles Title": "EESL To Invest Over ₹ 10000 Crore In Andhra Pradesh; Produce 1 Lakh Electric Vehicles",
-        "Articles Description": "Once the MoU is signed between EESL and the Andhra Pradesh state government, the move could see employment to over 1.05 lakh persons in state.",
-        "Articles Url": "https://auto.ndtv.com/news/eesl-to-invest-over-rs-10-000-crore-in-andhra-pradesh-produce-1-lakh-electric-vehicles-1819686",
-        "Articles Urltoimage": "https://i.ndtvimg.com/i/2017-08/eesl-electric-cars-fame-scheme_827x510_51502863943.jpg",
-        "Articles Publishedat": "2018-03-05T07:12:55Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Janhvi Kapoor And Sisters Trolled For Posting Birthday Pics After Sridevi's Death",
+        "description": "A section of the Internet found it insensitive on Janhvi's part to celebrate her birthday within just a few days of her mother's death",
+        "url": "https://www.ndtv.com/entertainment/janhvi-kapoor-and-sisters-trolled-for-posting-birthday-pics-after-sridevis-death-1821212",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-03/janhvi-instagram_650x400_61520494814.jpg",
+        "publishedAt": "2018-03-08T07:43:55Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Businesstoday.in",
-        "Articles Author": "India.com News Desk",
-        "Articles Title": "PNB, Canara and three other banks likely to be put under RBI's prompt corrective action: ICRA",
-        "Articles Description": "Having posted mounting losses during the last three years, 11 out of the 21 public-sector banks (PSBs) have already been placed under the Prompt Corrective Action (PCA) framework by the Reserve Bank of India.",
-        "Articles Url": "https://www.businesstoday.in/sectors/banks/pnb-canara-three-banks-under-rbi-prompt-corrective-action/story/271883.html",
-        "Articles Urltoimage": "https://smedia2.intoday.in/btmt/images/stories/rbi24-505_010317070427_012317094005_030518120044.jpg",
-        "Articles Publishedat": "2018-03-05T06:36:00Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": null,
+            "name": "Thenewsminute.com"
+        },
+        "author": null,
+        "title": "TN cops face people's wrath as pregnant woman dies after Tiruchy cop kicks bike",
+        "description": "In yet another shocking case of police brutality, a 34-year-old pregnant woman was killed after a traffic policeman kicked the two wheeler she was riding on with her husband at Thuvakudi near Tiruchy. The deceased, Usha, was travelling with her husband on Wed…",
+        "url": "https://www.thenewsminute.com/article/tn-cops-face-people-s-wrath-pregnant-woman-dies-after-trichy-cop-kicks-bike-77605",
+        "urlToImage": "https://www.thenewsminute.com/sites/default/files/who%20killed%20usha.jpg",
+        "publishedAt": "2018-03-08T07:25:20Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "The Times of India",
-        "Articles Author": "Bloomberg",
-        "Articles Title": "View: With Bollywood lost, banks can't stop mobile juggernaut",
-        "Articles Description": "A recent Bernstein survey has some sobering news for India's banks: They may have already lost Bollywood, and they can't hope to win the neighborhood grocer.",
-        "Articles Url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/view-with-bollywood-lost-banks-cant-stop-mobile-juggernaut/articleshow/63167440.cms",
-        "Articles Urltoimage": "https://img.etimg.com/thumb/msid-63167686,width-672,resizemode-4,imgsize-349086/mobile-banking-bccl.jpg",
-        "Articles Publishedat": "2018-03-05T06:25:26Z",
-        "Articles Source Id": "the-times-of-india"
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Happy International Women's Day 2018: Wishes, Best Quotes, Whatsapp status, Messages & Images",
+        "description": "The 8th of this month is celebrated as International Women’s Day (IWD). To help you select the most beautiful & warm wishes for someone, we bring to you the perfect messages, images & whatsapp status.",
+        "url": "https://timesofindia.indiatimes.com/life-style/events/international-womens-day-2018-wishes-best-quotes-whatsapp-status-messages-images/articleshow/63201698.cms",
+        "urlToImage": "https://static.toiimg.com/photo/msid-63201844/63201844.jpg?175385",
+        "publishedAt": "2018-03-08T07:22:00Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Financialexpress.com",
-        "Articles Author": "Pragya Srivastava",
-        "Articles Title": "How India beat China to regain top slot among fastest growing economies",
-        "Articles Description": "India's Gross Domestic Product (GDP) grew at 7.2%, rebounding sharply from a three-year low just six months ago, and beating China to regain the fastest growing economy spot in the October-December period of the year 2017. Here's why",
-        "Articles Url": "http://www.financialexpress.com/economy/how-india-beat-china-to-regain-top-slot-among-fastest-growing-economies-gdp-growth-7-2/1087582/",
-        "Articles Urltoimage": "http://images.financialexpress.com/2018/03/ind-chin-620x413.jpg",
-        "Articles Publishedat": "2018-03-05T05:53:00Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "OnePlus 6 Tipped to Sport iPhone X-Like Notch on 19:9 Display, Snapdragon 845 SoC",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/mobiles/news/oneplus-6-snapdragon-845-soc-screenshots-antutu-score-notch-specifications-1821137",
+        "urlToImage": "https://i.gadgets360cdn.com/large/oneplus_6_leaked_image_ithome_1520487043592.jpg",
+        "publishedAt": "2018-03-08T05:35:20Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Moneycontrol.com",
-        "Articles Author": "Pragya Srivastava",
-        "Articles Title": "Closing Bell: Sensex falls 300 pts, Nifty ends below 10400; Tata Motors top loser",
-        "Articles Description": "Hindalco, Tata Motors, Tata Steel, Aurobindo Pharma, Ambuja Cements, Reliance Industries, Vedanta, HUL, ITC and L&T were down 1-4 percent.",
-        "Articles Url": "https://www.moneycontrol.com/news/business/markets/closing-bell-sensex-falls-300-pts-nifty-ends-below-10400-tata-motors-top-loser-2520489.html",
-        "Articles Urltoimage": "https://static-news.moneycontrol.com/static-mcnews/2017/12/Sensex_BSE_Market_Nifty1-770x433.jpg",
-        "Articles Publishedat": "2018-03-05T04:57:07Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "Sanket Vijayasarathy",
+        "title": "Android P developer preview now available and Google is embracing the notch",
+        "description": "We knew that the first developer preview of Android P was supposed to come out",
+        "url": "https://www.indiatoday.in/technology/android-os/story/android-p-developer-preview-now-available-features-1184423-2018-03-08",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/android_p.png?.2coKU24J6d6P25mFYADbwidpVzWfLmD",
+        "publishedAt": "2018-03-08T05:32:12Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "Businesstoday.in",
-        "Articles Author": "Pragya Srivastava",
-        "Articles Title": "PNB fraud: NCLT bars Nirav Modi, Mehul Choksi from selling assets",
-        "Articles Description": "The NCLT has issued orders restraining Nirav Modi, Mehul Choksi and 60-dd entities from selling their assets so that the government can recover funds siphoned off by them in the Rs 12,600 crore PNB fraud.",
-        "Articles Url": "https://www.businesstoday.in/current/corporate/pnb-fraud-nirav-modi-mehul-choksi-firms-cant-sell-assets-nclt/story/271877.html",
-        "Articles Urltoimage": "https://smedia2.intoday.in/btmt/images/stories/collage_505_030518090022.jpg",
-        "Articles Publishedat": "2018-03-05T03:34:00Z",
-        "Articles Source Id": ""
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "BS Web Team",
+        "title": "Dawood aide Takla deported by UAE, back in India: Why his return matters",
+        "description": "Dawood Ibrahim's aide Yasin Mansoor Mohamed Farooq alias Farooq Takla wanted in 1993 Mumbai blasts brought to India after being arrested in Dubai. Who is Farooq Takla, and know Dawood Ibrahim latest news.",
+        "url": "http://www.business-standard.com/article/current-affairs/dawood-aide-takla-deported-by-uae-back-in-india-why-his-return-matters-118030800185_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-03/07/full/1520399967-6379.jpg",
+        "publishedAt": "2018-03-08T05:27:03Z"
     }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Name": "The Times of India",
-        "Articles Author": "Rajat Arora",
-        "Articles Title": "Railways plans Rs 10 lakh-crore high-speed train corridors",
-        "Articles Description": "Indian Railways has set rolling the mother of all overhauls. The jumbo plan, to be rolled out in April, will give all big cities a 200 km an hour lifeline.",
-        "Articles Url": "https://economictimes.indiatimes.com/industry/transportation/railways/railways-plan-rs-10-lakh-crore-high-speed-train-corridors/articleshow/63164348.cms",
-        "Articles Urltoimage": "https://img.etimg.com/thumb/msid-63164355,width-672,resizemode-4,imgsize-346052/railway-lines-.jpg",
-        "Articles Publishedat": "2018-03-05T01:23:29Z",
-        "Articles Source Id": "the-times-of-india"
-    }
-, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "time",
-        "Articles Source Name": "Time",
-        "Articles Author": "Rachel La Corte / AP",
-        "Articles Title": "Washington Becomes the First State to Approve Its Own Net Neutrality Rules",
-        "Articles Description": "",
-        "Articles Url": "http://time.com/5187117/washington-net-neutrality-rules/",
-        "Articles Urltoimage": "https://timedotcom.files.wordpress.com/2018/03/gettyimages-925024198.jpg?quality=85",
-        "Articles Publishedat": "2018-03-06T02:16:20Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "cnbc",
-        "Articles Source Name": "CNBC",
-        "Articles Author": "Patti Domm",
-        "Articles Title": "OPEC wants to talk with rival US shale drillers to learn lessons of downturn",
-        "Articles Description": "OPEC wants an open dialogue with U.S. shale drillers after the most painful downturn in six oil price cycles.",
-        "Articles Url": "https://www.cnbc.com/2018/03/05/opec-wants-to-talk-with-rival-u-s-shale-drillers-to-learn-lessons-of-downturn.html",
-        "Articles Urltoimage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/03/07/104326628-20161130_17h07m44s_IMG_3968_cmarkuszahradnik.com_8Bit_sRGB.1910x1000.jpg",
-        "Articles Publishedat": "2018-03-06T00:34:00Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "the-wall-street-journal",
-        "Articles Source Name": "The Wall Street Journal",
-        "Articles Author": "Jess Bravin",
-        "Articles Title": "Trump Administration Joins States in Push to Expand Online Sales-Tax Collections",
-        "Articles Description": "The Trump administration urged the Supreme Court to expand states’ authority to collect sales tax on internet transactions, joining a chorus of state officials seeking to overrule a 1992 precedent exempting many online retailers from having to add taxes to",
-        "Articles Url": "https://www.wsj.com/articles/trump-administration-joins-states-in-push-to-expand-online-sales-tax-collections-1520296131",
-        "Articles Urltoimage": "https://si.wsj.net/public/resources/images/BN-XT055_NETTAX_SOC_20180305201031.jpg",
-        "Articles Publishedat": "2018-03-06T00:29:18Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "the-wall-street-journal",
-        "Articles Source Name": "Usnews.com",
-        "Articles Author": "Jess Bravin",
-        "Articles Title": "Qualcomm Takeover Battle Intervention Shows US Security Panel's Expanding Reach",
-        "Articles Description": "The Trump administration urged the Supreme Court to expand states’ authority to collect sales tax on internet transactions, joining a chorus of state officials seeking to overrule a 1992 precedent exempting many online retailers from having to add taxes to",
-        "Articles Url": "https://www.usnews.com/news/top-news/articles/2018-03-05/qualcomm-takeover-battle-intervention-shows-us-security-panels-expanding-reach",
-        "Articles Urltoimage": "https://si.wsj.net/public/resources/images/BN-XT055_NETTAX_SOC_20180305201031.jpg",
-        "Articles Publishedat": "2018-03-06T00:18:19Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "usa-today",
-        "Articles Source Name": "USA Today",
-        "Articles Author": "Jefferson Graham",
-        "Articles Title": "Flippy the robot is now cooking up burgers near LA; is this the end to the short-order cook?",
-        "Articles Description": "The burger chain says it can't keep burger flippers employed, so it's planning to place the machine in its 50 locations.",
-        "Articles Url": "https://www.usatoday.com/story/tech/talkingtech/2018/03/05/flippy-robot-now-cooking-up-burgers-near-l/390179002/",
-        "Articles Urltoimage": "https://www.gannett-cdn.com/-mm-/9a0629bb9384864ef713eb243b19b9c340befc47/c=0-278-5472-3370&r=x1683&c=3200x1680/local/-/media/2018/03/02/USATODAY/USATODAY/636556048875416579-DSC04442.jpg",
-        "Articles Publishedat": "2018-03-06T00:13:22Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "cbs-news",
-        "Articles Source Name": "CBS News",
-        "Articles Author": "Kris Van Cleave",
-        "Articles Title": "Woman restrained after trying to open airplane cabin door during flight",
-        "Articles Description": "Passengers on United Express Flight 5449 subdued woman who was heard screaming \"I am God, I am God\"",
-        "Articles Url": "https://www.cbsnews.com/news/flight-scare-woman-tries-opening-door-united-express-flight-5449-today-2018-03-05/",
-        "Articles Urltoimage": "https://cbsnews1.cbsistatic.com/hub/i/r/2018/03/05/08473f74-842c-4716-8d7b-9d396f8bbc9b/thumbnail/1200x630/9d505bff02efe14d8ffc26bafe76dee3/180305-en-van-cleave-passenger-plane-door-01.jpg",
-        "Articles Publishedat": "2018-03-06T00:07:00Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "the-wall-street-journal",
-        "Articles Source Name": "The Wall Street Journal",
-        "Articles Author": "The Editorial Board",
-        "Articles Title": "Warren Democrats for Wall Street",
-        "Articles Description": "A modest Senate reform would help regional and small banks compete.",
-        "Articles Url": "https://www.wsj.com/articles/warren-democrats-for-wall-street-1520294174",
-        "Articles Urltoimage": "https://images.wsj.net/im-3160/social",
-        "Articles Publishedat": "2018-03-05T23:56:00Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "reuters",
-        "Articles Source Name": "Reuters",
-        "Articles Author": "Jan  Wolfe",
-        "Articles Title": "IBM settles legal dispute with diversity officer hired by Microsoft",
-        "Articles Description": "International Business Machines Corp on Monday said it settled a trade secrets lawsuit it brought against its former chief diversity officer who left for a similar job at Microsoft Corp.",
-        "Articles Url": "https://www.reuters.com/article/us-ibm-microsoft-data/ibm-settles-legal-dispute-with-diversity-officer-hired-by-microsoft-idUSKBN1GH3B9",
-        "Articles Urltoimage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20180305&t=2&i=1237811370&w=1200&r=LYNXMPEE241XN",
-        "Articles Publishedat": "2018-03-05T22:57:11Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "wired",
-        "Articles Source Name": "Wired",
-        "Articles Author": "WIRED Staff",
-        "Articles Title": "Uber 'Surprised' by Totally Unsurprising Pennsylvania Data Breach Lawsuit",
-        "Articles Description": "Pennsylvania’s attorney general filed a lawsuit against the ride-hailing giant Monday for failing to disclose a massive hack for over a year—and may not be the last",
-        "Articles Url": "https://www.wired.com/story/uber-pennsylvania-data-breach-lawsuit/",
-        "Articles Urltoimage": "https://media.wired.com/photos/5a9d6d6d8e71085604e0274a/191:100/pass/GettyImages-699405098.jpg",
-        "Articles Publishedat": "2018-03-05T22:52:46Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "the-wall-street-journal",
-        "Articles Source Name": "The Wall Street Journal",
-        "Articles Author": "Andrew Tangel",
-        "Articles Title": "3M Appoints Michael Roman CEO, Inge Thulin to Become Executive Chairman",
-        "Articles Description": "3M Co. Chief Executive Inge G. Thulin will become executive chairman, and Chief Operating Officer Michael F. Roman take over as chief executive, a move that puts two company veterans at the helm of the conglomerate.",
-        "Articles Url": "https://www.wsj.com/articles/3m-appoints-michael-roman-ceo-inge-thulin-to-become-executive-chairman-1520290079",
-        "Articles Urltoimage": "https://images.wsj.net/im-3152/social",
-        "Articles Publishedat": "2018-03-05T22:48:42Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "the-new-york-times",
-        "Articles Source Name": "The New York Times",
-        "Articles Author": "Christina Caron",
-        "Articles Title": "United Airlines Pauses Lottery for Bonuses After Employees Rebel Online",
-        "Articles Description": "The airline has walked back from a plan to replace modest monthly incentives with a chance to win a few large awards.",
-        "Articles Url": "https://www.nytimes.com/2018/03/05/business/united-airlines-employee-bonuses-lottery.html",
-        "Articles Urltoimage": "https://static01.nyt.com/images/2018/03/05/business/06xp-united/06xp-united-facebookJumbo.jpg",
-        "Articles Publishedat": "2018-03-05T22:22:00Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "bloomberg",
-        "Articles Source Name": "Bloomberg",
-        "Articles Author": "Lindsey Rupp",
-        "Articles Title": "Nordstrom's Spurned $8.4 Billion Buyout Sends Family Scrambling",
-        "Articles Description": "A rejected takeover bid that valued Nordstrom Inc. at about $8.4 billion is pitting the department-store chain’s board against its top executives.",
-        "Articles Url": "https://www.bloomberg.com/news/articles/2018-03-05/nordstrom-rejects-takeover-proposal-from-chain-s-founding-family",
-        "Articles Urltoimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioHcG6olPqZ4/v0/1200x815.jpg",
-        "Articles Publishedat": "2018-03-05T22:19:36Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "bloomberg",
-        "Articles Source Name": "Bloomberg",
-        "Articles Author": "Anders Melin, Dana Hull",
-        "Articles Title": "Tesla's $2.6 Billion Musk Award Too Costly, Glass Lewis Says",
-        "Articles Description": "Tesla Inc. shareholders should turn down a plan to grant Elon Musk a $2.6 billion award, the world’s second-biggest proxy adviser recommended, potentially sapping the company’s effort to assure investors that the co-founder isn’t leaving anytime soon.",
-        "Articles Url": "https://www.bloomberg.com/news/articles/2018-03-05/tesla-s-2-6-billion-award-to-musk-too-costly-glass-lewis-says",
-        "Articles Urltoimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKPylmXSwOJE/v1/1200x800.jpg",
-        "Articles Publishedat": "2018-03-05T21:53:00Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "business-insider",
-        "Articles Source Name": "Business Insider",
-        "Articles Author": "Daniel Alpert, Westwood Capital",
-        "Articles Title": "Steel tariffs are a great start — but US trade policy needs a bigger fix",
-        "Articles Description": "OPINION: US trade policy needs a bigger fix, and tariffs on aluminum and steel merely constitute a start.",
-        "Articles Url": "http://www.businessinsider.com/alpert-us-trade-policy-needs-a-bigger-fix-than-just-steel-tariffs-2018-3",
-        "Articles Urltoimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKPylmXSwOJE/v1/1200x800.jpg",
-        "Articles Publishedat": "2018-03-05T20:20:41Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "business-insider",
-        "Articles Source Name": "Yahoo.com",
-        "Articles Author": "Daniel Alpert, Westwood Capital",
-        "Articles Title": "New gun restrictions are a win for Walmart and Dick's",
-        "Articles Description": "Some conservatives are upset by new restrictions on gun sales at Walmart and Dick's, but the general public approves.",
-        "Articles Url": "https://finance.yahoo.com/news/new-gun-restrictions-win-walmart-dicks-182836884.html",
-        "Articles Urltoimage": "https://s.yimg.com/uu/api/res/1.2/VtCZaxw6mykPBTJz7we2bQ--~B/aD0zMzQxO3c9NTM0MjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/creatr-images/GLB/2018-03-05/312f7a30-20b3-11e8-b2d7-b3cbf0dbc48d_dicks.jpg",
-        "Articles Publishedat": "2018-03-05T19:49:48Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "cnbc",
-        "Articles Source Name": "CNBC",
-        "Articles Author": "Kate Rooney",
-        "Articles Title": "Cryptocurrency ripple jumps as traders speculate on Coinbase adding trading",
-        "Articles Description": "Cryptocurrency ripple climbed Monday amid renewed speculation that popular exchange Coinbase would add the cryptocurrency to its platform.",
-        "Articles Url": "https://www.cnbc.com/2018/03/05/cryptocurrency-ripple-jumps-as-traders-speculate-on-coinbase-adding-trading.html",
-        "Articles Urltoimage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/05/25/104492886-GettyImages-635343334-brad-garlinghouse.1910x1000.jpg",
-        "Articles Publishedat": "2018-03-05T17:06:17Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "techcrunch",
-        "Articles Source Name": "TechCrunch",
-        "Articles Author": "Sarah Perez",
-        "Articles Title": "Meal kits come to Walmart stores and online grocery service",
-        "Articles Description": "On the heels of Amazon's launch of Whole Foods grocery delivery through Amazon Prime Now, Walmart today is rolling out a new option for its grocery pickup and..",
-        "Articles Url": "https://techcrunch.com/2018/03/05/meal-kits-come-to-walmart-stores-and-online-grocery-service/",
-        "Articles Urltoimage": "https://tctechcrunch2011.files.wordpress.com/2018/03/basil-garlic-chicken-fettuccine-with-spinach-meal-kit.jpg",
-        "Articles Publishedat": "2018-03-05T16:47:41Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "the-wall-street-journal",
-        "Articles Source Name": "The Wall Street Journal",
-        "Articles Author": "Emily Glazer",
-        "Articles Title": "Next Up for Amazon: Checking Accounts",
-        "Articles Description": "Amazon.com is in talks with big banks about building a checking-account-like product the e-commerce giant could offer customers.",
-        "Articles Url": "https://www.wsj.com/articles/are-you-ready-for-an-amazon-branded-checking-account-1520251200",
-        "Articles Urltoimage": "https://si.wsj.net/public/resources/images/BN-XS492_AMZNFI_SOC_20180304133650.jpg",
-        "Articles Publishedat": "2018-03-05T16:06:25Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "cbs-news",
-        "Articles Source Name": "CBS News",
-        "Articles Author": "Aimee Picchi",
-        "Articles Title": "How much do Uber drivers really earn?",
-        "Articles Description": "New research raises fresh concerns about the \"gig economy\" and whether it's good for workers",
-        "Articles Url": "https://www.cbsnews.com/news/how-much-do-uber-drivers-really-earn/",
-        "Articles Urltoimage": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/03/02/6cd43876-4863-4d92-b739-b03a207a3dc9/thumbnail/1200x630/154c654c0f9f1fdeec055c7eb54dde0c/rts1jdy0.jpg",
-        "Articles Publishedat": "2018-03-05T10:15:00Z"
-    }, {
-        "Status": "ok",
-        "Totalresults": "20",
-        "Articles Source Id": "usa-today",
-        "Articles Source Name": "USA Today",
-        "Articles Author": "Jefferson Graham",
-        "Articles Title": "These may be the best days for streaming music",
-        "Articles Description": "iHeartRadio, Pandora, Napster and SoundCloud are all struggling, signaling a shake out ahead",
-        "Articles Url": "https://www.usatoday.com/story/tech/talkingtech/2018/03/04/these-may-best-days-streaming-music/387390002/",
-        "Articles Urltoimage": "https://www.gannett-cdn.com/-mm-/cecc8b8c9198193250b9e757420d497b64572afc/c=0-30-580-356&r=x1683&c=3200x1680/local/-/media/2018/02/20/USATODAY/usatsports/MotleyFool-TMOT-b24ff184-pandoraconcert_large.jpg",
-        "Articles Publishedat": "2018-03-04T18:54:49Z"
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "DNA Web Team",
+        "title": "On International Woman's Day, PM Modi shares his inspiration",
+        "description": "Who has inspired the Prime Minister on Women's Day",
+        "url": "http://www.dnaindia.com/india/report-on-international-woman-s-day-pm-modi-shares-his-inspiration-2591771",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/08/658666-366549-pm-modi-in-dubai-afp.jpg",
+        "publishedAt": "2018-03-08T01:55:55Z"
     }]
+}
