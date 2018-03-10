@@ -1,7 +1,227 @@
 {
     "status": "ok",
-    "totalResults": 18,
+    "totalResults": 20,
     "articles": [{
+        "source": {
+            "id": null,
+            "name": "Indiatvnews.com"
+        },
+        "author": "Edited by : India TV Lifestyle Desk",
+        "title": "Are you suffering from insomnia? These tips can help",
+        "description": "Health News – Lavender, Jasmine, Neroli, and ylang-ylang are very useful for the natural oil therapy for insomnia. The soothing and calm effect of essential oil can prevent you from sleeplessness.",
+        "url": "https://www.indiatvnews.com/lifestyle/health-are-you-suffering-from-insomnia-these-tips-can-help-431944",
+        "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/03/pppp-1520687580.jpg",
+        "publishedAt": "2018-03-10T13:20:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Deccanchronicle.com"
+        },
+        "author": "PTI",
+        "title": "Stored blood may have adverse effects on critically injured patients: Study",
+        "description": "Compared to fresh blood, resuscitation with the stored blood significantly increased bacterial lung injury.",
+        "url": "http://www.deccanchronicle.com/lifestyle/health-and-wellbeing/100318/stored-blood-may-have-adverse-effects-on-critically-injured-patients.html",
+        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vl9j06fr50cmv2ng5900nc2sd3-20180310183518.Medi.jpeg",
+        "publishedAt": "2018-03-10T13:15:22Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Deccanchronicle.com"
+        },
+        "author": "PTI",
+        "title": "Regular exercise slows down ageing process, keeps body active: Study",
+        "description": "Loss of muscle mass and strength did not occur in those who exercise regularly.",
+        "url": "https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/100318/regular-exercise-slows-down-ageing-process-keeps-body-active-study.html",
+        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vl9j06fr50cmv2ng5900nc2sd3-20180310182710.Medi.jpeg",
+        "publishedAt": "2018-03-10T13:01:07Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "Silent killer: Chronic kidney disease is hurting young adults, and they don't even know it",
+        "description": "If you use steroids or painkillers, have hypertension or high blood pressure, you could be at risk.",
+        "url": "https://www.hindustantimes.com/health/silent-killer-chronic-kidney-disease-is-hurting-young-adults-and-they-don-t-even-know-it/story-AedR2KDSQ2mzmPPevDaxmO.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/09/Pictures/medical-accessories_64f9c848-23b0-11e8-925c-925443ac9dfa.jpg",
+        "publishedAt": "2018-03-10T12:25:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "Diabetes debate: Do I need tight glycemic control?",
+        "description": "How aggressively should one treat Type 2 diabetes? New norms have sparked a debate.",
+        "url": "https://www.hindustantimes.com/columns/diabetes-debate-do-i-need-tight-glycemic-control/story-USOzs6KGs3hIod6Cw2JU2H.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/10/Pictures/_9d4c9148-245b-11e8-8baa-23f2d497fa41.jpg",
+        "publishedAt": "2018-03-10T12:11:53Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Your Stress Can Affect Your Partner's Brain Too, Says Study; Eat These Foods To Beat Stress",
+        "description": "A study published in the journal Nature Neuroscience has found that stress may be contagious and even its effects on the brain may be transferred to people around.",
+        "url": "https://www.ndtv.com/food/your-stress-can-affect-your-partners-brain-too-says-study-eat-these-foods-to-beat-stress-1822182",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-02/stress_650x400_41519282837.jpg",
+        "publishedAt": "2018-03-10T11:50:34Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Deccanchronicle.com"
+        },
+        "author": "reuters",
+        "title": "Experts offer advice for extreme allergic reaction",
+        "description": "Anaphylaxis is a serious and potentially life-threatening condition that typically occurs within seconds to minutes of an allergic exposure.",
+        "url": "https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/100318/experts-offer-advice-for-extreme-allergic-reaction.html",
+        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vl9j06fr50cmv2ng5900nc2sd3-20180310164629.Medi.jpeg",
+        "publishedAt": "2018-03-10T11:20:34Z"
+    }, {
+        "source": {
+            "id": "mirror",
+            "name": "Mirror"
+        },
+        "author": "Tim Wyatt",
+        "title": "Scientists warn of mysterious and deadly new epidemic called Disease X that could kill millions around the world",
+        "description": "The World Health Organisation has added the unknown future pathogen to a list of deadly threats to mankind",
+        "url": "https://www.mirror.co.uk/news/world-news/scientists-warn-mysterious-deadly-new-12160964",
+        "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article12160973.ece/ALTERNATES/s1200/Filamentous-Ebola-virus-particles-colored-blue-budding-from-a-chronically-infected-VERO-E6-cell-c.jpg",
+        "publishedAt": "2018-03-10T11:03:45Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Livemint.com"
+        },
+        "author": "PTI",
+        "title": "Insomnia may be genetic, say scientists",
+        "description": "Scientists have identified genes that may trigger the development of sleep problems, and have also found a genetic link between insomnia and psychiatric disorders",
+        "url": "http://www.livemint.com/Science/x7AuUZKTcA19TgCVONhVSO/Insomnia-may-be-genetic-say-scientists.html",
+        "urlToImage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/03/12/Photos/Processed/sleep-kd3D--621x414@LiveMint.jpg",
+        "publishedAt": "2018-03-10T10:46:35Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Protein In Saliva Can Prevent Traveller's Diarrhoea; 5 Dietary Tips To Follow For Safe Travel",
+        "description": "Researchers have identified a protein in human saliva that can protect the body from the bacterium that is responsible for causing traveller's diarrhoea.",
+        "url": "https://www.ndtv.com/food/protein-in-saliva-can-prevent-travellers-diarrhoea-5-dietary-tips-to-follow-for-safe-travel-1822151",
+        "urlToImage": "https://i.ndtvimg.com/i/2017-12/loose-motions_650x400_41513081613.jpg",
+        "publishedAt": "2018-03-10T10:12:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "PTI",
+        "title": "Scientists establish connection between bowel inflammation and heart diseases",
+        "description": "Scientists have found strong connections between Inflammatory Bowel Disease (IBD) and heart attacks.",
+        "url": "http://www.dnaindia.com/health/report-scientists-establish-connection-between-bowel-inflammation-and-heart-diseases-2592543",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/10/659423-478261-437733-436509-heart-attack-afp.jpg",
+        "publishedAt": "2018-03-10T09:50:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Thehealthsite.com"
+        },
+        "author": "Upneet Pansare",
+        "title": "Weight loss of 65: MP inspector, fat-shamed by Shobhaa De, undergoes bariatric surgery",
+        "description": "Famous bariatric surgeon, Dr Muffazal Lakdawala, conducted the weight loss surgery on Jogawat at Saifee Hospital after the MP inspector was fat-shamed by Shobhaa De in her viral tweet.",
+        "url": "http://www.thehealthsite.com/news/weight-loss-of-65-mp-inspector-fat-shamed-by-shobhaa-de-undergoes-bariatric-surgery-x0318/",
+        "urlToImage": "http://www.thehealthsite.com/wp-content/uploads/2018/03/Untitled.png",
+        "publishedAt": "2018-03-10T09:46:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Vitamin D May Cut Heart Failure Risk After Heart Attack; Top 5 Foods Rich In Vitamin D",
+        "description": "A recent study conducted on mice has found that regular consumption of vitamin D can reduce risk of heart failure after a heart attack.",
+        "url": "https://www.ndtv.com/food/vitamin-d-may-cut-heart-failure-risk-after-heart-attack-top-5-foods-rich-in-vitamin-d-1822119",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-01/fish_650x400_61516012013.jpg",
+        "publishedAt": "2018-03-10T08:39:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Uniindia.com"
+        },
+        "author": "Uniindia News Service",
+        "title": "Global leaders meeting in Delhi next week to fast-track End TB efforts",
+        "description": "Kolkata, Mar 10 (UNI)  Building on the momentum being created globally to end tuberculosis, world’s top infectious killer disease, leaders from across the globe are converging here for an End TB Summit beginning March 13 to review ongoing efforts and accelera…",
+        "url": "http://www.uniindia.com/global-leaders-meeting-in-delhi-next-week-to-fast-track-end-tb-efforts/states/news/1163287.html",
+        "urlToImage": "http://www.uniindia.com//images/stripad.png",
+        "publishedAt": "2018-03-10T07:47:37Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "27 prisoners in UP's Dasna Jail found HIV positive",
+        "description": "27 prisoners in UP’s Dasna Jail found HIV positive.At least 27 prisoners in Ghaziabad’s Dasna Jail have been found to be infected with HIV virus. In light of the matter, medical officers have ordered an HIV test for all 5,000 inmates. Ghaziabad Chief Medical …",
+        "url": "https://timesofindia.indiatimes.com/videos/city/lucknow/27-prisoners-in-ups-dasna-jail-found-hiv-positive/videoshow/63244173.cms",
+        "urlToImage": "https://timesofindia.indiatimes.com/photo/63244173.cms",
+        "publishedAt": "2018-03-10T07:44:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Deccanchronicle.com"
+        },
+        "author": "deccan chronicle",
+        "title": "Genes that make elephants resistant to cancer also found in humans",
+        "description": "The study says that since all vertebrates evolved from a common ancestor, humans also have these anti-cancer genes.",
+        "url": "http://www.deccanchronicle.com/lifestyle/health-and-wellbeing/100318/discovery-genes-elephants-cancer-resistant-humans.html",
+        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ml81qs8givqn4anbp20aloce01-20180310124834.Medi.jpeg",
+        "publishedAt": "2018-03-10T07:25:46Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Newindianexpress.com"
+        },
+        "author": null,
+        "title": "Can menopause increase the risk of cardiovascular diseases?",
+        "description": "While cardiovascular diseases are generally considered a man's issue, globally, they claim more lives of women than men.",
+        "url": "http://www.newindianexpress.com/lifestyle/health/2018/mar/10/can-menopause-increase-the-risk-of-cardiovascular-diseases-1784989.html",
+        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/3/10/w600X390/ECG-Pexels.jpeg",
+        "publishedAt": "2018-03-10T07:18:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "High-Fiber Diet May Lead To Better Blood Sugar Control And Weight Loss In Type-2 Diabetes Patients",
+        "description": "A new study published in the journal Science has found consuming more dietary fiber can help in the fight against Type 2 diabetes, by promoting a group of healthy gut bacteria.",
+        "url": "https://www.ndtv.com/food/high-fiber-diet-may-lead-to-better-blood-sugar-control-and-weight-loss-in-type-2-diabetes-patients-1822097",
+        "urlToImage": "https://i.ndtvimg.com/i/2017-11/oats-have-great-health-benefits_650x400_51511776820.jpg",
+        "publishedAt": "2018-03-10T07:14:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Citytoday.news"
+        },
+        "author": "CTBUREAU_HS",
+        "title": "Second phase of Pulse Polio campaign from tomorrow",
+        "description": "Mysuru, March 10:- \"Though the World Health Organisation has certified that India is free from polio in 2014, the pulse polio programme will be continued to build a healthy nation. The second phase of",
+        "url": "https://citytoday.news/pulse-polio-immunisation-tomorrow/",
+        "urlToImage": "https://citytoday.news/wp-content/uploads/2018/03/polio.jpg",
+        "publishedAt": "2018-03-10T06:53:54Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Mid-day.com"
+        },
+        "author": null,
+        "title": "Uttar Pradesh forest department learns how leopards and humans co-exist in Aarey Colony, SGNP",
+        "description": "After Uttarakhand, Uttar Pradesh forest dept officials takes note of how leopards and humans co-exist in Aarey Colony and SGNP want to implement the Mumbai model",
+        "url": "https://www.mid-day.com/articles/uttar-pradesh-forest-department-learns-how-leopards-and-humans-co-exist-in-aarey-colony-sgnp/19175196",
+        "urlToImage": "https://images.mid-day.com/images/2018/mar/Dr-Utkarsh-Shukla-l.jpg",
+        "publishedAt": "2018-03-10T05:38:45Z"
+    }, {
         "source": {
             "id": "news24",
             "name": "News24"

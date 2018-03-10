@@ -4,6 +4,226 @@
     "articles": [{
         "source": {
             "id": null,
+            "name": "Financialexpress.com"
+        },
+        "author": "Smriti Jain",
+        "title": "Indian Railways goes green with 12000 HP 'Make in India' electric locomotive",
+        "description": "Indian Railways has got its first 12,000 HP electric locomotive from Alstom as part of a 3.5 billion euros 'Make in India' deal! This new electric locomotive has been manufactured and assembled at Alstom's factory in Bihar's Madhepura.",
+        "url": "http://www.financialexpress.com/infrastructure/railways/indian-railways-electric-locomotive-alstom-make-in-india-madhepura-features-speed/1093976/",
+        "urlToImage": "http://images.financialexpress.com/2018/03/alstom.jpg",
+        "publishedAt": "2018-03-10T13:46:17Z"
+    }, {
+        "source": {
+            "id": "the-hindu",
+            "name": "The Hindu"
+        },
+        "author": "Reuters",
+        "title": "Ola flunks electric vehicle fleet test on Nagpur roads",
+        "description": "UPA govt.’s 2030 goal to make all vehicles electric sees many a road block; cab drivers complain charging infrastructure not up to the mark",
+        "url": "http://www.thehindu.com/business/Industry/ola-flunks-electric-vehicle-fleet-test-on-nagpur-roads/article23035190.ece",
+        "urlToImage": "http://www.thehindu.com/business/Industry/article23035189.ece/ALTERNATES/LANDSCAPE_615/TH11BUINDIA-AUTOSELECTRIC",
+        "publishedAt": "2018-03-10T13:43:20Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Businesstoday.in"
+        },
+        "author": null,
+        "title": "RBI turns up heat on lenders after $2 billion loan fraud",
+        "description": "The Reserve Bank of India has asked commercial lenders to provide it with details of all letters of undertaking - a form of credit guarantee at the centre of an alleged $2 billion fraud - issued by them in the past several years, according to four bankers who…",
+        "url": "https://www.businesstoday.in/current/economy-politics/rbi-turns-up-heat-on-lenders-after-dollar-2-billion-loan-fraud/story/272347.html",
+        "urlToImage": "https://smedia2.intoday.in/btmt/images/stories/rbi2_505_031417011546_031018060853.jpg",
+        "publishedAt": "2018-03-10T12:39:00Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Joy Sengupta",
+        "title": "SpiceJet gets India's 'Best Domestic Airline' award at Wings India 2018",
+        "description": "India Business News: PUNE: SpiceJet has been awarded India’s Best Domestic Airline award at the Wings India Awards for Excellence in the Aviation Sector organised by the m.",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/spicejet-gets-indias-best-domestic-airline-award-at-wings-india-2018/articleshow/63247003.cms",
+        "urlToImage": "https://static.toiimg.com/photo/msid-63247017/63247017.jpg?44535",
+        "publishedAt": "2018-03-10T12:34:10Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ET Auto",
+        "title": "Motor vehicle 3rd-party cover premiums to become cheaper",
+        "description": "Irdai has released exposure draft on premium rates for motor third-party (TP) insurance covers for 2018-19 fiscal and has invited stakeholders comments till March 22.",
+        "url": "https://auto.economictimes.indiatimes.com/news/auto-finance/motor-vehicle-3rd-party-cover-premiums-to-become-cheaper/63246897",
+        "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-63246897,width-700,resizemode-4/motor-vehicle-3rd-party-cover-premiums-to-become-cheaper.jpg",
+        "publishedAt": "2018-03-10T12:16:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "ANI",
+        "title": "India, France ink 14 MoUs in key sectors",
+        "description": "India and France on Saturday signed 14 agreements in key sectors in an effort to bolster the bilateral relations between the two sides.An agreement was signed on the prevention of illicit consumption and reduction of illicit traffic in narcotic",
+        "url": "http://www.business-standard.com/article/news-ani/india-france-ink-14-mous-in-key-sectors-118031000355_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+        "publishedAt": "2018-03-10T11:32:15Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Time ripe for holding company in PSBs to fix fund-crunch: RBI deputy governor SS Mundra",
+        "description": "Mundra, however, said that conditions were not right for privatisation of state-run lenders due to the socio-economic situation of India.",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/time-ripe-for-holding-company-in-psbs-to-fix-fund-crunch-rbi-deputy-governor-ss-mundra/articleshow/63246124.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63246140,width-672,resizemode-4,imgsize-249479/rbi.jpg",
+        "publishedAt": "2018-03-10T10:53:00Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ET Online",
+        "title": "No decision on GST return simplification, E-Way bill to be implemented from April 1",
+        "description": "“We have decided to form a GoM that will look into the matter and deliberate with IT experts to come up with a possible solution,” said Jaitley.",
+        "url": "https://economictimes.indiatimes.com/small-biz/policy-trends/gst-council-meet-gst-rate-cut-gst-return-form-e-way-bill-composition-scheme-gstr-3b/articleshow/63242719.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63242721,width-672,resizemode-4,imgsize-3341260/thinkstockphotos-845542008.jpg",
+        "publishedAt": "2018-03-10T10:47:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiablooms.com"
+        },
+        "author": "Indiablooms",
+        "title": "Jaguar Land Rover India inaugurates new showroom facility in Kolkata",
+        "description": "Kolkata, Mar 10 (IBNS): Automobile major Jaguar Land Rover India on Saturday announced the opening of Lexus Motors’ new showroom facility in the Rajarhat area of Kolkata.",
+        "url": "https://www.indiablooms.com/finance-details/8649/jaguar-land-rover-india-inaugurates-new-showroom-facility-in-kolkata.html",
+        "urlToImage": "https://www.indiablooms.com/finance_pic/2018/1-1520677213.jpg",
+        "publishedAt": "2018-03-10T10:23:50Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Moneycontrol.com"
+        },
+        "author": null,
+        "title": "Selloff Week: Sensex, Nifty shed 2%; Metal index plunges 7%",
+        "description": "Metal index underperformed the other sectorial indices with 7 percent cut during the week.",
+        "url": "https://www.moneycontrol.com/news/business/markets/selloff-week-sensex-nifty-shed-2-metal-index-plunges-7-2525115.html",
+        "urlToImage": "https://static-news.moneycontrol.com/static-mcnews/2018/02/fando-770x433.jpg",
+        "publishedAt": "2018-03-10T08:43:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Autocarpro.in"
+        },
+        "author": null,
+        "title": "Non-ISI helmets to be banned in India",
+        "description": "The government is planning to introduce a complete ban on sales and usage of non-ISI certified helmets, and also plans to make penalise offenders.",
+        "url": "http://www.autocarpro.in/news-national/-isi-helmets-banned-india-28486",
+        "urlToImage": "http://www.autocarpro.in/IMG/731/66731/micheal-fitzgerald-arai-racing-helmet.jpg",
+        "publishedAt": "2018-03-10T07:26:41Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Odishatv.in"
+        },
+        "author": "Odishatv Bureau",
+        "title": "Railways Recruitment 2018: Over 7500 Group D Vacancies! Apply Now",
+        "description": "Bhubaneswar/New Delhi: In what could be a major news for candidates awaiting a job in the railway sector, the Railway Recruitment Board has invited applications to fill up huge Group D vacancies for the posts of Track Maintainer, Gateman, Pointsman,",
+        "url": "http://odishatv.in/education/railways-recruitment-2018-over-7500-group-d-vacancies-apply-now-281167",
+        "urlToImage": "http://cdn.odishatv.in/wp-content/uploads/2018/02/Indian-railway-jobs-February-Group-D.jpg",
+        "publishedAt": "2018-03-10T06:16:46Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Airtel Payments Bank Slapped With Rs. 5 Crore Fine by RBI Over KYC Violation",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/telecom/news/airtel-payments-bank-kyc-violation-fined-rs-5-crore-by-rbi-1822043",
+        "urlToImage": "https://i.gadgets360cdn.com/large/airtel_payments_bank_1520656919838.jpeg",
+        "publishedAt": "2018-03-10T04:45:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Financialexpress.com"
+        },
+        "author": "Sushruth Sunder",
+        "title": "Jeff Bezos world's first centibillionaire: Amazon boss' journey to beat Bill Gates to the top of Forbes list",
+        "description": "Amazon’s Jeff Bezos, with a whopping net worth of $112 billion is the world’s richest person, and the first centi-billionaire according to Forbes. While Mukesh Ambani's total net worth is $40.1 billion, Jeff Bezos added nearly that much amount in the last 12 …",
+        "url": "http://www.financialexpress.com/market/jeff-bezos-worlds-first-centibillionaire-amazon-boss-journey-to-beat-bill-gates-to-the-top-of-fobres-list/1093600/",
+        "urlToImage": "http://images.financialexpress.com/2018/03/Jeff-Bezos-Re.jpg",
+        "publishedAt": "2018-03-10T02:53:59Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Gulveen Aulakh",
+        "title": "Failure to counter Jio led to telecom companies' troubles: Officials",
+        "description": "The carriers should have anticipated the change in paradigm given that the telecom sector has always been brutally competitive, the person said, pointing out that Jio had bought airwaves supporting data back in 2010.",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/failure-to-counter-jio-led-to-telecom-companies-troubles-officials/articleshow/63241456.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63241455,width-672,resizemode-4,imgsize-55013/jio-agencies.jpg",
+        "publishedAt": "2018-03-10T02:33:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "India Today",
+        "title": "IFC, IFC FIG to sell 1.2 per cent through Bandhan Bank IPO",
+        "description": "Kolkata, Mar 9 (PTI) IFC and IFC FIG, which have a total stake of five per cent in Bandhan Bank, would sell 1.2 per c",
+        "url": "https://www.indiatoday.in/pti-feed/story/ifc-ifc-fig-to-sell-1.2-per-cent-through-bandhan-bank-ipo-1185961-2018-03-09",
+        "urlToImage": "IFC, IFC FIG to sell 1.2 per cent through Bandhan Bank IPO",
+        "publishedAt": "2018-03-10T01:01:54Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "India Today",
+        "title": "Blue Star to commence construction work at Sri City plant",
+        "description": "Chennai, Mar 9 (PTI): Air-conditioner and commercial refrigeration company Blue Star has decided to go ahead with its",
+        "url": "https://www.indiatoday.in/pti-feed/story/blue-star-to-commence-construction-work-at-sri-city-plant-1185937-2018-03-09",
+        "urlToImage": "Blue Star to commence construction work at Sri City plant",
+        "publishedAt": "2018-03-09T23:58:09Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Gkmen.com"
+        },
+        "author": null,
+        "title": "Japan to recruit two lakh IT professionals from India",
+        "description": "",
+        "url": "http://gkmen.com/2018/03/09/japan-to-recruit-two-lakh-it-professionals-from-india/",
+        "urlToImage": null,
+        "publishedAt": "2018-03-09T21:32:29Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Livemint.com"
+        },
+        "author": "Rhik Kundu",
+        "title": "Airbus to deliver one plane a week in India for next 10 years",
+        "description": "Airbus, which currently has more than 300 aircraft in operation in India flown by various airlines, has 530 aircraft in its India order book",
+        "url": "http://www.livemint.com/Companies/oCNAMLFfHdmjKdyn0w9BAM/Airbus-aims-to-deliver-1-aircraft-per-week-over-10-years-in.html",
+        "urlToImage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/03/10/Photos/Processed/airbus-kBQG--621x414@LiveMint.jpg",
+        "publishedAt": "2018-03-09T18:56:15Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "Dev Chatterjee & Krishna Kant",
+        "title": "Trump slaps tariffs, rattles Indian metal firms; JSW asks govt to retaliate",
+        "description": "Sajjan Jindal, chairman of JSW Steel, however, asked the government to impose similar tariffs on steel made overseas to protect Indian manufacturers",
+        "url": "http://www.business-standard.com/article/economy-policy/trump-slaps-tariffs-rattles-indian-metal-firms-jsw-asks-govt-to-retaliate-118030901302_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-03/09/full/1520598736-8786.jpg",
+        "publishedAt": "2018-03-09T17:16:15Z"
+    }, {
+        "source": {
+            "id": null,
             "name": "Newindianexpress.com"
         },
         "author": null,

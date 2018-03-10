@@ -4,6 +4,226 @@
     "articles": [{
         "source": {
             "id": null,
+            "name": "Ibtimes.co.in"
+        },
+        "author": "Suparno Sarkar",
+        "title": "Hate Story 4 review: Strictly for fans of Urvashi Rautela, not of the franchise",
+        "description": "Directed by Vishal Pandya, Hate Story 4 is more about melodrama and eroticism than thrill. Read full movie review and rating.",
+        "url": "http://www.ibtimes.co.in/hate-story-4-review-strictly-fans-urvashi-rautela-not-franchise-763401",
+        "urlToImage": "http://data1.ibtimes.co.in/en/full/682778/hate-story-4-review-rating.jpg",
+        "publishedAt": "2018-03-10T13:25:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "IndiaToday.in",
+        "title": "Aishwarya Rai Bachchan on Aaradhya: I have been a very normal mother, I go to her school every day",
+        "description": "Even after over decades in Bollywood, Aishwarya Rai Bachchan's stardom has not faded. She is considered one of the mo",
+        "url": "https://www.indiatoday.in/movies/star-kids/story/aishwarya-rai-aaradhya-bachchan-1186361-2018-03-10",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/Aaradhya-Aishwarya.jpeg?NmZMayRxQ4K9UcBJI1nPdhYSwJM6sdQ7",
+        "publishedAt": "2018-03-10T12:37:29Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": "",
+        "title": "Sonu Ke Titu Ki Sweety continues impressive box office run; Hate Story 4 registers weak opening",
+        "description": "Grossing over Rs 77 crores at the box-office, Sonu Ke Titu Ki Sweety has again this week emerged as the clear front runner.",
+        "url": "http://www.firstpost.com/entertainment/sonu-ke-titu-ki-sweety-continues-impressive-box-office-run-hate-story-4-registers-weak-opening-4384673.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/03/box-office-SM.jpg",
+        "publishedAt": "2018-03-10T12:29:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatvnews.com"
+        },
+        "author": "Written by : India TV Entertainment Desk",
+        "title": "Young TV actress Moumita Saha found hanging from ceiling fan in Kolkata",
+        "description": "Regional-cinema News – Moumita was struggling to establish a foothold in the showbiz industry but was not able to bag success so far.",
+        "url": "https://www.indiatvnews.com/entertainment/regional-cinema-young-tv-actress-moumita-saha-found-hanging-from-ceiling-fan-in-kolkata-431936",
+        "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/03/pjimage-3-1520684409.jpg",
+        "publishedAt": "2018-03-10T12:23:00Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Ranveer Singh's craziest acts in public",
+        "description": "Ranveer Singh's public appearance in a green lungi paired with a white tee and yellow hat on March 8 was termed as the actor's yet another quirky look.\n However, the actor revealed in the video chat with his 'Bajirao Mastani' co-star Priyanka Chopra that he w…",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/photo-features/ranveer-singhs-craziest-acts-in-public/This-is-why-Ranveer-Singh-wore-the-green-lungi-on-Womens-Day/photostory/63246602.cms",
+        "urlToImage": "https://static.toiimg.com/photo/63246602.cms",
+        "publishedAt": "2018-03-10T12:02:18Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Tiger Shroff Is A Complete Hero, Says Baaghi 2 Director",
+        "description": "Baaghi 2 director said that Tiger Shroff is willing to whatever the director asks of him - dance, action or even a bare body shot - in no time",
+        "url": "https://www.ndtv.com/entertainment/tiger-shroff-is-a-complete-hero-says-baaghi-2-director-1822158",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-03/tiger-shroff-instagram_650x400_61520677109.jpg",
+        "publishedAt": "2018-03-10T10:19:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": "",
+        "title": "Krishnarjuna Yuddham teaser: Nani plays both villager and cosmopolitan Casanova in Telugu action film",
+        "description": "With Krishnarjuna Yuddham, also starring Anupama Parmeswaran and Rukshar Mir, Nani is all set to enthrall Telugu audience with dual roles.",
+        "url": "http://www.firstpost.com/entertainment/krishnarjuna-yuddham-teaser-nani-plays-both-villager-and-cosmopolitan-casanova-in-telugu-action-film-4384293.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/03/nani-SM.jpg",
+        "publishedAt": "2018-03-10T09:18:09Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "IndiaToday.in",
+        "title": "Here's why Sridevi's sister Srilatha has been silent about her death",
+        "description": "The tragic loss of Sridevi was mourned by the entire nation, but the late actress's sister Srilatha has been conspicu",
+        "url": "https://www.indiatoday.in/movies/celebrities/story/sridevi-sister-srilatha-silent-1186219-2018-03-10",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/sridevi_sister_srilatha.jpeg?F7t_mjHSFyg5d3ZROTiOn.eYymHI3CeW",
+        "publishedAt": "2018-03-10T08:56:09Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Mid-day.com"
+        },
+        "author": null,
+        "title": "Radhika Apte on being trolled: Do you expect me to wear a saree on the beach?",
+        "description": "Radhika Apte was trolled for wearing a bikini in Goa and she gave it back to the trolls with a bang on reply",
+        "url": "https://www.mid-day.com/articles/radhika-apte-on-being-trolled-do-you-expect-me-to-wear-a-saree-on-the-beach/19175186",
+        "urlToImage": "https://images.mid-day.com/images/2018/mar/Radhika-apte-troll-l.jpg",
+        "publishedAt": "2018-03-10T08:50:07Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Bajrangi Bhaijaaan China Box Office: Salman Khan's Film In Top 5 In Week 2 (Despite Black Panther",
+        "description": "Black Panther, this week's new release in China, debuted at the top spot while Bajrangi Bhaijaaan retained its 5th position",
+        "url": "https://www.ndtv.com/entertainment/bajrangi-bhaijaaan-china-box-office-salman-khans-film-in-top-5-in-week-2-despite-black-panther-1822121",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-03/bajrangi-bhaijaan-instagram_650x400_51520671549.jpg",
+        "publishedAt": "2018-03-10T08:47:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "Salman Khan had a gala time at friend Shweta Kaushik's wedding in Mumbai. See pics",
+        "description": "On Friday, Salman Khan was present at the wedding of his friend Shweta Kaushik. The pictures have since gone viral. Sporting a black blazer with jeans, Salman is all smiles in the photos.",
+        "url": "https://www.hindustantimes.com/bollywood/salman-khan-had-a-gala-time-at-friend-shweta-kaushik-s-wedding-in-mumbai-see-pics/story-2pbQQCr9lNZ8AS7eJSZL1N.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/10/Pictures/salman-khan_a6b0ca7a-243c-11e8-81db-e6399ce35310.jpg",
+        "publishedAt": "2018-03-10T08:31:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "3 Storeys movie review: Renuka Shahane returns in style with an unconventional thriller",
+        "description": "Richa Chadha, who is also seen in the narrative, plays the sootradhaar, the storyteller in the movie that can be divided in three acts, and the ending is quite a treat! Here’s our movie review.",
+        "url": "https://www.hindustantimes.com/movie-reviews/3-storeys-movie-review-renuka-shahane-returns-in-style-with-an-unconventional-thriller/story-RWj2o4ma1H4xFNZ8ObYpdI.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/10/Pictures/_d61e6638-243b-11e8-8baa-23f2d497fa41.JPG",
+        "publishedAt": "2018-03-10T08:21:41Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "Thane call detail record scam allegations are 'random', says Nawazuddin Siddiqui",
+        "description": "The 43-year-old actor took to Twitter where he criticised the media for questioning him about his involvement in the scam, when he accompanied his daughter, Shora, to her school for an exhibition.",
+        "url": "https://www.hindustantimes.com/bollywood/thane-call-detail-record-scam-allegations-are-random-says-nawazuddin-siddiqui/story-Lp8fNapFC2Hf7lTOUkPBAM.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/10/Pictures/nawazuddin-siddiqui_f6e5b248-2438-11e8-8baa-23f2d497fa41.jpg",
+        "publishedAt": "2018-03-10T08:01:16Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Financialexpress.com"
+        },
+        "author": "FE Online",
+        "title": "Irrfan Khan wife Sutapa Sikdar issues statement on actor's health, calls him a 'warrior'",
+        "description": "After Irrfan Khan opened about his 'rare disease' on Twitter, his deteriorating health has indeed been a matter of concern for his close associates and fans. The news has also let loose some untoward social media speculations which were refuted by hospital of…",
+        "url": "http://www.financialexpress.com/entertainment/irrfan-khan-wife-sutapa-sikdar-issues-statement-on-actors-health-calls-him-a-warrior/1093731/",
+        "urlToImage": "http://images.financialexpress.com/2018/03/irrfan-khan-7592.jpg",
+        "publishedAt": "2018-03-10T07:52:40Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "IndiaToday.in",
+        "title": "Family Time With Kapil Sharma: This popular Bollywood actor to be one of the first guests",
+        "description": "Kapil Sharma is all set to make a fresh start on Television with his brand new game show Family Time With Kapil Sharm",
+        "url": "https://www.indiatoday.in/television/reality-tv/story/family-time-with-kapil-sharma-this-popular-bollywood-actor-to-be-one-of-the-first-guests-1186174-2018-03-10",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/family_time_2.png?0_5u1MzeLPC4HejCCyBgRMCsK.Z0LFLT",
+        "publishedAt": "2018-03-10T07:51:53Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": null,
+        "title": "When I watched Padmaavat, Alauddin Khilji reminded me of Azam Khan, says former Samajwadi Party leader Jaya ...",
+        "description": "Actor-turned-politician Jayaprada compared Samajwadi Party's Azam Khan to Alauddin Khilhji on Saturday.",
+        "url": "http://www.firstpost.com/india/when-i-watched-padmaavat-alauddin-khiji-reminded-me-of-azam-khan-says-former-samajwadi-party-leader-jaya-prada-4384345.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/03/jayaprada-pti1.jpg",
+        "publishedAt": "2018-03-10T07:15:25Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Ashameera Aiyappan",
+        "title": "Superstar Rajinikanth leaves for the Himalayas",
+        "description": "During these trips, Rajinikanth generally visits the cave where sage Mahavatar Babaji is said to have lived. He is also expected to spend time at a meditation centre.",
+        "url": "http://indianexpress.com/article/entertainment/tamil/rajinikanth-leaves-for-the-himalayas-5092860/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/rajinikanth-politics-7591.jpg?w=759",
+        "publishedAt": "2018-03-10T07:00:58Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": "",
+        "title": "Anushka Sharma's Pari transformation is praise-worthy; a gambit only she could have pulled off",
+        "description": "From the way, Anushka looks in most of Pari, you’d not be able to tell that under all that grime is a ‘movie star’.",
+        "url": "http://www.firstpost.com/entertainment/anushka-sharmas-pari-transformation-is-praise-worthy-a-gambit-only-she-could-have-pulled-off-4383649.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/02/Pari-825.jpg",
+        "publishedAt": "2018-03-10T04:37:56Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Deccanchronicle.com"
+        },
+        "author": "Arnab Banerjee",
+        "title": "Dil Juunglee movie review: Shallow and dull, this one is a pain",
+        "description": "Sure, most romantic comedies are predictable, unrealistic and corny, but some films are so bad, they’re actually good.",
+        "url": "https://www.deccanchronicle.com/entertainment/movie-reviews/100318/dil-juunglee-movie-review-shallow-and-dull-this-one-is-a-pain.html",
+        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-652ovhkibhg82kh6on274ihkn1-20180310021946.Medi.jpeg",
+        "publishedAt": "2018-03-09T20:55:41Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "After Rajinikanth's advice on English, Kamal roots for Tamil",
+        "description": "CHENNAI: Days after actor-turned-politician Rajinikanth asked students to focus on learning English for a secure future, his competitor Kamal Haasan o.",
+        "url": "https://timesofindia.indiatimes.com/city/chennai/after-rajinikanths-advice-on-english-kamal-roots-for-tamil/articleshow/63224685.cms",
+        "urlToImage": "https://static.toiimg.com/photo/msid-63224685/63224685.jpg?336696",
+        "publishedAt": "2018-03-08T19:13:52Z"
+    }, {
+        "source": {
+            "id": null,
             "name": "Deccanchronicle.com"
         },
         "author": "suresh kavirayani",
