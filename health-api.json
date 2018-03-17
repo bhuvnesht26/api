@@ -1,7 +1,227 @@
 {
     "status": "ok",
-    "totalResults": 117948,
+    "totalResults": 20,
     "articles": [{
+        "source": {
+            "id": null,
+            "name": "Indiaeducationdiary.in"
+        },
+        "author": "India Education Diary Bureau Admin",
+        "title": "Women Surgeon's Summit 2018 kicked off in Hyderabad to empower all women ophthalmologists in India",
+        "description": "Hyderabad: Over150 women ophthalmologists from all over India congregated in Hyderabad at Women Surgeon’s Summit 2018 to discuss the future of modern eye care. The event was held by Women Ophthalmologists Society (WOS) in association with Alcon, the global le…",
+        "url": "http://indiaeducationdiary.in/women-surgeons-summit-2018-kicked-off-hyderabad-empower-women-ophthalmologists-india/",
+        "urlToImage": "http://indiaeducationdiary.in/wp-content/uploads/2018/03/Dr-5.jpg",
+        "publishedAt": "2018-03-17T12:55:13Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Thehealthsite.com"
+        },
+        "author": "Agencies",
+        "title": "Experimental obesity drug may prevent kidney stones",
+        "description": "Japanese scientists have found that an experimental obesity drug can potentially prevent the formation of kidney stones.",
+        "url": "http://www.thehealthsite.com/news/experimental-obesity-drug-may-prevent-kidney-stones-ag0318/",
+        "urlToImage": "http://www.thehealthsite.com/wp-content/uploads/2018/01/kidney-stones.jpg",
+        "publishedAt": "2018-03-17T12:28:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Canindia.com"
+        },
+        "author": "Author: CanIndia New Wire Service",
+        "title": "Easy ways to improve your diet",
+        "description": "London, March 17 (IANS) If you are finding it difficult to keep a check on your diet than it is time to improve it in a...",
+        "url": "https://www.canindia.com/easy-ways-to-improve-your-diet/",
+        "urlToImage": "",
+        "publishedAt": "2018-03-17T12:04:46Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Tribuneindia.com"
+        },
+        "author": "Tribune News Service",
+        "title": "Exercising during pregnancy reduces time spent in labour",
+        "description": "LONDON: Health starts in the womb and exercising is one of the best ways to give your baby a healthy start, also reducing your time spent in labour.",
+        "url": "http://www.tribuneindia.com/news/health/exercising-during-pregnancy-reduces-time-spent-in-labour/559233.html",
+        "urlToImage": "http://images.tribuneindia.com/cms/gall_content/2018/3/2018_3$largeimg17_Saturday_2018_172314108.jpg",
+        "publishedAt": "2018-03-17T11:53:23Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "IANS",
+        "title": "Omega-3 levels may better predict mortality risk than cholesterol",
+        "description": "\"We all know that the serum cholesterol level is a major risk factor for coronary heart disease (CHD), and since the latter is a major cause of death, it would be reasonable to expect that a high cholesterol level would portend higher risk for premature death…",
+        "url": "http://indianexpress.com/article/lifestyle/health/omega-3-levels-may-better-predict-mortality-risk-than-cholesterol-5101327/",
+        "urlToImage": "http://images.indianexpress.com/2016/09/fish-oil-omega-3-acid-759.jpg?w=759",
+        "publishedAt": "2018-03-17T11:46:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "IANS",
+        "title": "Alzheimer's patients may benefit from cell therapy",
+        "description": "\"We took advantage of the fact that transplanted interneurons can integrate remarkably well into new brain tissues, and that each interneuron can control thousands of excitatory neurons\", said a researcher.",
+        "url": "http://indianexpress.com/article/lifestyle/health/alzheimers-patients-may-benefit-from-cell-therapy-5101319/",
+        "urlToImage": "http://images.indianexpress.com/2016/06/alzheimer_759_thinkstockphotos.jpg?w=759",
+        "publishedAt": "2018-03-17T11:29:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Newindianexpress.com"
+        },
+        "author": null,
+        "title": "Programme to provide free Hepatitis B drugs being developed: Union Health Minister JP Nadda",
+        "description": "The minister also announced free vaccination against Hepatitis B for all health care workers across India.",
+        "url": "http://www.newindianexpress.com/nation/2018/mar/17/programme-to-provide-free-hepatitis-b-drugs-being-developed-union-health-minister-j-p-nadda-1788647.html",
+        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2017/3/21/w600X390/J_P_Nadda_PTI.jpg",
+        "publishedAt": "2018-03-17T11:09:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "New Mobile Application May Reduce Stroke Risk; Try These Foods That May Help Too!",
+        "description": "According to a study published in the journal Circulation, a new mobile application has been developed that can detect atrial fibrillation, a leading cause of stroke, and can timely prevent heart-related complications",
+        "url": "https://www.ndtv.com/food/new-mobile-application-may-reduce-stroke-risk-try-these-foods-that-may-help-too-1825103",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-02/heart-disease-in-women_650x400_51519711377.jpg",
+        "publishedAt": "2018-03-17T10:16:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Pulse.com.gh"
+        },
+        "author": "Abu Mubarik",
+        "title": "Sperm blocking contraceptive being developed",
+        "description": "Male contraceptive that blocks sperm from leaving the penis being developed",
+        "url": "http://www.pulse.com.gh/lifestyle/beauty-health/sperm-blocking-contraceptive-being-developed-id8128970.html",
+        "urlToImage": "https://static.pulse.com.gh/img/incoming/crop8128972/3531849281-chorizontal-w470-h246/4A33047100000578-5502213-image-a-10-1521067647474.jpg",
+        "publishedAt": "2018-03-17T09:53:07Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Thestatesman.com"
+        },
+        "author": null,
+        "title": "How to get that perfect smile",
+        "description": "Regular oral care is an important aspect of overall well-being. From greater self-confidence to a soaring career, healthy teeth can truly transform the positivity of your mind-set and also create that perfect impression.",
+        "url": "https://www.thestatesman.com/lifestyle/how-to-get-that-perfect-smile-1502603279.html",
+        "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2018/03/smile.jpg",
+        "publishedAt": "2018-03-17T09:09:59Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "IANS",
+        "title": "Infant deaths doubled after getting Pentavalent vaccine than DPT: Study",
+        "description": "Government records show that there were 10,612 deaths following vaccination",
+        "url": "http://www.business-standard.com/article/economy-policy/infant-deaths-doubled-after-getting-pentavalent-vaccine-than-dpt-study-118031700229_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2017-12/09/full/1512764604-3792.jpg",
+        "publishedAt": "2018-03-17T08:58:55Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "6.25 lakh children smoke cigarettes daily in India: Tobacco atlas report",
+        "description": "According to the Global Tobacco Atlas study,  tobacco consumption claims 17,887 lives in India every week, and the economic cost of smoking in India is Rs 1,818,691 million.",
+        "url": "https://www.hindustantimes.com/health/over-6-25-lakh-children-smoke-cigarette-in-india-daily-finds-study/story-EbtXZHTaUpaLn7K4UmsMzL.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/17/Pictures/cigarette-in-the-hand_fce7719a-29ba-11e8-a8dd-98cd3615fcfa.jpg",
+        "publishedAt": "2018-03-17T08:34:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Regular Exercise May Prevent Dementia In Women; Try These Foods That May Help Too!",
+        "description": "According to a study published in the medical journal of the American Academy of Neurology, regular exercise and a healthy lifestyle may help prevent dementia in women.",
+        "url": "https://www.ndtv.com/food/regular-exercise-may-prevent-dementia-in-women-try-these-foods-that-may-help-too-1825052",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-02/exercises-for-abs_650x400_51517989065.jpg",
+        "publishedAt": "2018-03-17T07:53:00Z"
+    }, {
+        "source": {
+            "id": "daily-mail",
+            "name": "Daily Mail"
+        },
+        "author": "http://www.dailymail.co.uk/home/search.html?s=&authornamef=Cheyenne+Macdonald+For+Dailymail.com, By Cheyenne Macdonald For Dailymail.com",
+        "title": "Sorry, fellas: Ladies are much more likely to orgasm when they have sex with other WOMEN, according to new research",
+        "description": "In a study of 2,300 women, researchers found ladies were 32 percent more likely to orgasm when romping with the same sex, despite the fact that heterosexual couples had sex more frequently.",
+        "url": "http://www.dailymail.co.uk/sciencetech/article-5511839/Ladies-likely-orgasm-sex-WOMEN.html",
+        "urlToImage": "http://i.dailymail.co.uk/i/newpix/2018/03/17/00/4A445A0300000578-0-image-a-11_1521245535025.jpg",
+        "publishedAt": "2018-03-17T00:47:14Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Abantika Ghosh",
+        "title": "India's reverse trend: More women have cancer than men",
+        "description": "In new Lancet paper, researchers call for large-scale study to know why",
+        "url": "http://indianexpress.com/article/lifestyle/health/indias-reverse-trend-more-women-have-cancer-than-men-5100713/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/cancer.jpg?w=759",
+        "publishedAt": "2018-03-17T00:22:23Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Aliveforfootball.com"
+        },
+        "author": "By Emily Walters",
+        "title": "Tech Billionaire Pays $10000 To Be Killed And Have His Mind Preserved",
+        "description": "",
+        "url": "http://aliveforfootball.com/2018/03/tech-billionaire-pays-10000-to-be-killed-and-have-his-mind/",
+        "urlToImage": null,
+        "publishedAt": "2018-03-17T00:13:55Z"
+    }, {
+        "source": {
+            "id": "cbc-news",
+            "name": "CBC News"
+        },
+        "author": null,
+        "title": "Platypus milk has protein with potential to fight superbugs",
+        "description": "The milk of the duck-billed platypus has a unique protein with antimicrobial properties that Australian scientists believe could be a new lead in creating antibiotics effective against superbugs.",
+        "url": "http://www.cbc.ca/news/health/platypus-milk-protein-superbugs-1.4579595",
+        "urlToImage": "https://i.cbc.ca/1.4579596.1521219497!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/platypus.jpeg",
+        "publishedAt": "2018-03-16T18:57:28Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Infosurhoy.com"
+        },
+        "author": "Denis Bedoya",
+        "title": "What does a fourth-century beer taste like?",
+        "description": null,
+        "url": "http://www.infosurhoy.com/cocoon/saii/xhtml/en_GB/news/what-does-a-fourth-century-beer-taste-like/",
+        "urlToImage": null,
+        "publishedAt": "2018-03-16T12:56:15Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ANI",
+        "title": "World Sleep Day: You can literally just meditate your way to a good night's sleep",
+        "description": "Lack of proper sleep at night leads to anger, anxiety and depression.",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/world-sleep-day-you-can-literally-just-meditate-your-way-to-a-good-nights-sleep/articleshow/63329420.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63329543,width-672,resizemode-4,imgsize-228530/world-sleep-day-you-can-literally-just-meditate-your-way-to-a-good-nights-sleep.jpg",
+        "publishedAt": "2018-03-16T07:48:23Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "World Sleep Day: Common Mistakes That Could Be Ruining Your Sleep & 5 Foods That May Help",
+        "description": "World Sleep Day: According to experts, one must sleep eight hours a day. Inadequate sleep for a prolonged period of time can trigger a host of health issues like high-stress levels, decreased metabolism and depression.",
+        "url": "https://www.ndtv.com/food/world-sleep-day-common-mistakes-that-could-be-ruining-your-sleep-5-foods-that-may-help-1824603",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-02/sound-sleep_650x400_81519818910.jpg",
+        "publishedAt": "2018-03-16T06:20:26Z"
+    }, {
         "source": {
             "id": null,
             "name": "Indiatvnews.com"

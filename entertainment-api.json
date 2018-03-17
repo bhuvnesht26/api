@@ -3,6 +3,226 @@
     "totalResults": 20,
     "articles": [{
         "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "From its grand set to the new team; here's all you need to know about Family Time With Kapil Sharma",
+        "description": "Ace comedian Kapil Sharma, who has been missing from the small screen, is all set to return with his new show Family Time With Kapil Sharma from March",
+        "url": "https://timesofindia.indiatimes.com/tv/news/hindi/from-its-grand-set-to-the-new-team-heres-all-you-need-to-know-about-family-time-with-kapil-sharma/articleshow/63345571.cms",
+        "urlToImage": "https://static.toiimg.com/photo/msid-63345654/63345654.jpg?302542",
+        "publishedAt": "2018-03-17T12:35:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "IANS",
+        "title": "Ranveer Singh: Protests against Padmaavat bordered on fascism",
+        "description": "Padmaavat star Ranveer Singh, who has won appreciation for his portrayal of Alauddin Khilji in the movie, recently said that he found the protests against the film appalling.",
+        "url": "http://indianexpress.com/article/entertainment/bollywood/ranveer-singh-padmaavat-gully-boy-5101349/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/ranveer7591.jpg?w=759",
+        "publishedAt": "2018-03-17T12:32:10Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Deccanchronicle.com"
+        },
+        "author": "deccan chronicle",
+        "title": "Did you know? Aishwarya could've debuted opposite SRK or Aamir in these popular films",
+        "description": "The actress opened up on her career of two decades and life post marriage in 2007 in a recent interview.",
+        "url": "https://www.deccanchronicle.com/entertainment/bollywood/170318/aishwarya-shah-rukh-aamir-raja-hindustani-dil-toh-pagal-hai-aaradhya.html",
+        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ucn7s28k14vb3nlctt4gffod56-20180317175228.Medi.jpeg",
+        "publishedAt": "2018-03-17T12:29:17Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "DNA Web Team",
+        "title": "In Pics: Boney Kapoor visits Arjun Kapoor with his daughters Khushi and Janhvi",
+        "description": "Arjun Kapoor is back in Mumbai after shooting for 'Namaste England' with Parineeti Chopra in Amritsar. On Friday evening, paparazzi spotted daddy Boney Kapoor along with his daughters Janhvi Kapoor and Khushi Kapoor at Arjun's residence.",
+        "url": "http://www.dnaindia.com/bollywood/report-in-pics-boney-kapoor-visits-arjun-kapoor-with-his-daughters-khushi-and-janhvi-2594783",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/17/661744-arjun-boney-kapoor.jpg",
+        "publishedAt": "2018-03-17T12:27:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "IndiaToday.in",
+        "title": "Raid box office collection Day 1: Ajay Devgn's thriller is off to a fantastic start",
+        "description": "Ajay Devgn's Raid released on March 16, and has opened to glowing reviews. The film, which also stars Ileana D' Cruz,",
+        "url": "https://www.indiatoday.in/movies/bollywood/story/ajay-devgn-kajol-raid-box-office-collection-1191697-2018-03-17",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/raid_1.jpeg?qxuqk.utt0o3F99JQbZ7DbgeQPeTWjv_",
+        "publishedAt": "2018-03-17T12:06:57Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Mid-day.com"
+        },
+        "author": null,
+        "title": "Anil Kapoor's biggest 'hichki' was smiling in front of the camera",
+        "description": "Anil said in a statement: When I began my career, I was told that my eyes are quite small and they looked even smaller when I smiled",
+        "url": "https://www.mid-day.com/articles/anil-kapoors-biggest-hichki-was-smiling-in-front-of-the-camera/19209159",
+        "urlToImage": "https://images.mid-day.com/images/2018/mar/Anil-smiling-l.jpg",
+        "publishedAt": "2018-03-17T11:38:37Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Bollywoodlife.com"
+        },
+        "author": "Anusha Iyengar",
+        "title": "[PICS] Not Mira Rajput but it's Misha who has Shahid Kapoor's complete attention",
+        "description": "Shahid Kapoor and Misha are such cuties!",
+        "url": "http://www.bollywoodlife.com/news-gossip/pics-not-mira-rajput-but-its-misha-who-has-shahid-kapoors-complete-attention/",
+        "urlToImage": "http://www.bollywoodlife.com/wp-content/uploads/2018/03/DSC_0237-3000x4500.jpg",
+        "publishedAt": "2018-03-17T11:20:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatvnews.com"
+        },
+        "author": "Written by : India TV Entertainment Desk",
+        "title": "Shakti Astitva Ke Ehsaas Ki actress Rubina Dilaik to get hitched with boyfriend Abhinav Shukla soon!",
+        "description": "Tv News – Rubina Dilaik finally revealed about her wedding plans with Abhinav Shukla.",
+        "url": "https://www.indiatvnews.com/entertainment/tv-rubina-dilaik-abhinav-shukla-wedding-date-confirmed-433096",
+        "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/03/rubina-dilaik-wedding-1521284295.jpg",
+        "publishedAt": "2018-03-17T10:59:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ibtimes.co.in"
+        },
+        "author": "Prakash Upadhyaya",
+        "title": "Shriya Saran marriage: Will she continue acting or quit films post wedding?",
+        "description": "Shriya Saran married her Russian boyfriend at her residence in Mumbai on March 12. Her fans want to know whether she will continue acting or quit films.",
+        "url": "http://www.ibtimes.co.in/shriya-saran-marriage-will-she-continue-acting-quit-films-post-wedding-764120",
+        "urlToImage": "http://data1.ibtimes.co.in/en/full/682652/meet-shriya-sarans-boyfriend-andrei-koscheev.jpg",
+        "publishedAt": "2018-03-17T10:46:00Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Jayakrishnan",
+        "title": "'Kirrak Party' helped me revisit my college days: Nikhil",
+        "description": "Nikhil said, Kirrak Party was memorable for him as he got a chance to revisit his college days.",
+        "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/kirrak-party-helped-me-revisit-my-college-days-nikhil/articleshow/63344342.cms",
+        "urlToImage": "https://static.toiimg.com/photo/msid-63344342/63344342.jpg?126383",
+        "publishedAt": "2018-03-17T10:29:44Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": null,
+        "title": "Deepika Padukone, Kareena Kapoor Khan, Kangana Ranaut: Fashion hits and misses of the week (Mar 11 – Mar 17)",
+        "description": "While Deepika Padukone and Kareena Kapoor Khan looked like a vision in white, Shilpa Shetty gave some styling tutorials on how to nail an all-golden look. Here's a roundup of the fashion hits and misses of the week.",
+        "url": "http://indianexpress.com/photos/lifestyle-gallery/deepika-padukone-kareena-kapoor-khan-kangana-ranaut-fashion-hits-and-misses-of-the-week-mar-11-mar-17-5100932/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/untitled-16.jpg?w=759",
+        "publishedAt": "2018-03-17T10:06:48Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Hansal Mehta : I will always regret not approaching Sridevi",
+        "description": "Hansal Mehta will live with a regret of not approaching late Bollywood actress Sridevi for a film he had in his mind. But the filmmaker is determined",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hansal-mehta-i-will-always-regret-not-approaching-sridevi/articleshow/63342522.cms",
+        "urlToImage": "https://static.toiimg.com/photo/msid-63342692/63342692.jpg?59038",
+        "publishedAt": "2018-03-17T09:56:08Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Mid-day.com"
+        },
+        "author": null,
+        "title": "Salman Khan makes debut as lyricist with Race 3",
+        "description": "The actor has penned a romantic song for the upcoming third instalment of Race Salman Khan, who is currently in Abu Dhabi filming the final schedule of Race 3, has an ace up his sleeve",
+        "url": "https://www.mid-day.com/articles/salman-khan-makes-debut-as-lyricist-with-race-3/19209153",
+        "urlToImage": "https://images.mid-day.com/images/2018/mar/Sallu-Tour-l.jpg",
+        "publishedAt": "2018-03-17T09:12:14Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Kshitij Rawat",
+        "title": "Avengers Infinity War trailer: Key takeaways",
+        "description": "The latest Avengers: Infinity War trailer was chock-full of tantalisingly gorgeous shots of things to come. It teased Thanos vs Iron Man and Thanos vs Captain America. Here are some takeaways from the awesome trailer.",
+        "url": "http://indianexpress.com/article/entertainment/hollywood/avengers-infinity-war-trailer-key-takeaways-thanos-5101123/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/avengers_759.jpg?w=759",
+        "publishedAt": "2018-03-17T09:10:37Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Bollywoodshaadis.com"
+        },
+        "author": "https://www.facebook.com/akanksha.gupta.92",
+        "title": "'Ishqbaaz' Fame Actress Vividha Kirti Gets Married To Her Childhood Friend (Pictures Inside)",
+        "description": "Ishqbaaz fame Vivdha Kirti stepped into the nuptial bond on March 15, 2018. She walked down the aisle with her childhood friend, Varun who is a Dubai-based choreographer. Vividha and Varun’s grand wedding ceremony took place in New Delhi.",
+        "url": "https://www.bollywoodshaadis.com/articles/vividha-kirti-and-varun-wedding-8376",
+        "urlToImage": "https://www.bollywoodshaadis.com/img/article-l-20183757365527415000.jpg",
+        "publishedAt": "2018-03-17T08:48:36Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Snooping scandal: Nawazuddin Siddiqui's lawyer arrested",
+        "description": "Snooping scandal: Nawazuddin Siddiqui’s lawyer arrested.Trouble mounts for actor Nawazuddin Siddiqui’s as his lawyer Rizwan Siddiqui has been arrested by Thane Crime Branch in connection with his alleged links in call record scam where call data of Nawazuddin…",
+        "url": "https://timesofindia.indiatimes.com/videos/news/snooping-scandal-nawazuddin-siddiquis-aide-arrested/videoshow/63342395.cms",
+        "urlToImage": "https://timesofindia.indiatimes.com/photo/63342395.cms",
+        "publishedAt": "2018-03-17T07:27:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Bollywoodhungama.com"
+        },
+        "author": "Bollywood Hungama",
+        "title": "PICS: Kangana Ranaut does pre-housewarming rituals for her new bungalow",
+        "description": "It is a known fact that Kangana Ranaut fulfilled the dream of building a plush bungalow in her hometown Manali. Naming it as Karthikey Niwas, the actress recently performed the graha pravesh Pooja along with the entire family including her adorable new-born n…",
+        "url": "http://www.bollywoodhungama.com/news/features/pics-kangana-ranaut-pre-housewarming-rituals-new-bungalow/",
+        "urlToImage": "http://media2.bollywoodhungama.in/wp-content/uploads/2018/03/kang.jpg",
+        "publishedAt": "2018-03-17T07:08:51Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Mid-day.com"
+        },
+        "author": null,
+        "title": "Shweta Bachchan Nanda: Big B's daughter is the ideal sister, wife and mother",
+        "description": "Shweta Bachchan Nanda was born on 17th March, 1974. Pictured: A young Shweta (standing second from left) with father Amitabh Bachchan, mother Jaya Bachchan and brother Abhishek Bachchan. Pictures courtesy/mid-day archives, Yogen Shah and Instagram accounts of…",
+        "url": "https://www.mid-day.com/photos/shweta-bachchan-nanda-big-bs-daughter-is-the-ideal-sister-wife-and-mother/16395",
+        "urlToImage": "https://archive.mid-day.com/photos/plog-content/images/b-town-specials/shweta-bachchan-nanda-photo-gallery/shweta-bachchan-chilld.jpg",
+        "publishedAt": "2018-03-17T05:10:10Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Mb.com.ph"
+        },
+        "author": "Teresa Martinez",
+        "title": "Brosnan says Indian company 'cheated' him over mouth freshener ads",
+        "description": "<p>NEW DELHI (AFP) – Former 007 star Pierce Brosnan has told Indian authorities he was “cheated” by a company that employed him to promote its mouth freshener brand, officials said Friday.</p>",
+        "url": "https://entertainment.mb.com.ph/2018/03/17/brosnan-says-indian-company-cheated-him-over-mouth-freshener-ads/",
+        "urlToImage": "https://entertainment.mb.com.ph/wp-content/uploads/2018/03/Brosnan.jpg",
+        "publishedAt": "2018-03-17T04:56:39Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "Asif Ullah Khan",
+        "title": "Friends crestfallen with Irrfan Khan illness",
+        "description": "Irrfan, despite attaining stardom, used to regularly visit Jaipur to keep in touch his school and college friends.",
+        "url": "http://www.dnaindia.com/jaipur/report-friends-crestfallen-with-irrfan-khan-illness-2594638",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/17/661597-irrfan-khan.jpg",
+        "publishedAt": "2018-03-17T00:35:00Z"
+    }, {
+        "source": {
             "id": null,
             "name": "Ibtimes.co.in"
         },

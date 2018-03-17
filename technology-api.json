@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [{
+        "source": {
+            "id": null,
+            "name": "Ibtimes.co.in"
+        },
+        "author": "Ken Sunny",
+        "title": "Hyundai Creta sales cross 2.5 lakh: SUV's facelift version coming in mid-2018",
+        "description": "Launched in July 2015, Hyundai Creta has found 7,986 takers a month on average in India. This indicates Hyundai has sold nearly 266 Creta units a day.",
+        "url": "http://www.ibtimes.co.in/hyundai-creta-sales-cross-2-5-lakh-suvs-facelift-version-coming-mid-2018-764134",
+        "urlToImage": "http://data1.ibtimes.co.in/en/full/663173/new-hyundai-creta.png",
+        "publishedAt": "2018-03-17T12:57:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "DNA Web Team",
+        "title": "WhatsApp: Voice-to-video call switch, add group description and more features",
+        "description": "WhatsApp has now rolled out new features to the app. The new feature will allow users to add a group description so that users can know what the group is about. Additionally, a user can now switch between voice and video calling.",
+        "url": "http://www.dnaindia.com/technology/report-whatsapp-voice-to-video-call-switch-add-group-description-and-more-features-2594785",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/17/661749-573299-431528-whatsapp.jpg",
+        "publishedAt": "2018-03-17T12:51:24Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Www.bgr.in"
+        },
+        "author": "Ritesh Bendre",
+        "title": "Xiaomi Redmi 5 first impressions: Compact full screen smartphone on budget",
+        "description": "Here's what we feel about Xiaomi's new budget smartphone.",
+        "url": "http://www.bgr.in/news/xiaomi-redmi-5-first-impressions/",
+        "urlToImage": "http://st1.bgr.in/wp-content/uploads/2018/03/xiaomi-redmi-5-front.jpg",
+        "publishedAt": "2018-03-17T12:12:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Gizbot.com"
+        },
+        "author": "Chandrika Jana",
+        "title": "Oppo R15 to launch on March 31 with 6.28-inch display, 6GB RAM",
+        "description": "Oppo R15 will be launched alongside the R15 Dream Mirror Edition on March 27. Both models will come with similar specifications, but there will be some differences in some aspects.",
+        "url": "https://www.gizbot.com/mobile/news/oppo-r15-to-launch-on-march-31-with-6-28-inch-display-6gb-ram-049009.html",
+        "urlToImage": "https://www.gizbot.com/img/2018/03/oppo-r15-to-launch-on-march-31-with-6-28-inch-display-6gb-ram-1521287066.jpg",
+        "publishedAt": "2018-03-17T11:48:50Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Storypick.com"
+        },
+        "author": null,
+        "title": "Remember The Ghana Teacher Who Taught MS Word On Blackboard? An Indian Company Donated Him Computers!",
+        "description": "This is amazing!",
+        "url": "https://www.storypick.com/ghana-teacher-blackboard-computer/",
+        "urlToImage": "https://www.storypick.com/wp-content/uploads/2018/03/Ghana-teacher-NIIT_Cover.jpg",
+        "publishedAt": "2018-03-17T10:49:21Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ibtimes.co.in"
+        },
+        "author": "Ken Sunny",
+        "title": "2018 Maruti Suzuki Swift bookings cross 90000 in less than 2 months",
+        "description": "Maruti Suzuki India gets one order in each minute for the third generation of Swift. 2018 version of the hatchback is set to become the fastest car to cross one lakh bookings in India.",
+        "url": "http://www.ibtimes.co.in/2018-maruti-suzuki-swift-become-fastest-car-surpassing-one-lakh-bookings-764101",
+        "urlToImage": "http://data1.ibtimes.co.in/en/full/683417/2018-maruti-suzuki-swift.jpg",
+        "publishedAt": "2018-03-17T10:40:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ibtimes.co.in"
+        },
+        "author": "Sami Khan",
+        "title": "Honor 9 Lite's 'Ride Mode' to curb road accidents: How to use",
+        "description": "Honor is also bringing the Ride Mode feature to other phones, including Honor 7X and Honor 9i.",
+        "url": "http://www.ibtimes.co.in/honor-9-lites-ride-mode-curb-road-accidents-how-use-764118",
+        "urlToImage": "http://data1.ibtimes.co.in/en/full/679104/honor-9-lite-seen-its-official-website.jpg",
+        "publishedAt": "2018-03-17T10:36:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Telecomtalk.info"
+        },
+        "author": "Rudradeep Biswas",
+        "title": "Xiaomi Releases Stable MIUI 9.5 ROM with Notification Shade and Quick Reply Features",
+        "description": "",
+        "url": "https://telecomtalk.info/xiaomi-releases-stable-miui-9-5-rom-with-notification-shade-and-quick-reply-features/174761/",
+        "urlToImage": "https://telecomtalk.info/wp-content/uploads/2018/03/miui9-notification-share-quick-replies.jpg",
+        "publishedAt": "2018-03-17T10:35:09Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": "",
+        "title": "2018 Honda CBR250R Prices Revealed, Starts At ₹ 1.63 Lakh",
+        "description": "Prices of the 2018 Honda CBR250R has been added to the company's Indian website along with all the technical specs and features. The 2018 Honda CBR250R has been priced at Rs. 1.63 lakh for the standard variant and Rs. 1.93 for the ABS variant (both ex-showroo…",
+        "url": "https://auto.ndtv.com/news/2018-honda-cbr25r-prices-revealed-starts-at-rs-1-63-lakh-1825107",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-02/2018-honda-cbr250r_827x511_51518097174.jpg",
+        "publishedAt": "2018-03-17T10:32:47Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dekhnews.com"
+        },
+        "author": null,
+        "title": "Amazon Kindle E-reader: Amazon Devices & Accessories Simple Tips & Tricks",
+        "description": "Amazon Kindle E-reader: Amazon Devices & Accessories Simple Tips & Tricks: Being a part of the 24/7 news cycle, this is constantly difficult for people to take some time off for reading boo…",
+        "url": "http://www.dekhnews.com/amazon-kindle-e-reader/",
+        "urlToImage": "http://dekhnews.com/wp-content/uploads/2018/03/Amazon-Kindle-logo-with-Kindle-tablet-Kindle-touch-and-Kindle-Fire.jpg",
+        "publishedAt": "2018-03-17T09:15:06Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Windows Mail Links May Soon Open Only in Microsoft Edge, Being Tested in Windows 10 Preview",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/laptops/news/microsoft-windows-10-insider-preview-build-17623-windows-mail-links-open-in-microsoft-edge-1825072",
+        "urlToImage": "https://i.gadgets360cdn.com/large/windows_10_ndtvgadgets360_1506078584256.jpg",
+        "publishedAt": "2018-03-17T08:45:40Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Samsung Galaxy Note 8 Android 8.0 Oreo Update Finally Begins Rolling Out: Report",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/mobiles/news/samsung-galaxy-note-8-android-8-0-oreo-update-rollout-1825060",
+        "urlToImage": "https://i.gadgets360cdn.com/large/Samsung_Galaxy_Note_8_back_ndtv_1505841889465.jpg",
+        "publishedAt": "2018-03-17T08:21:56Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Tech Desk",
+        "title": "Oppo F7, Vivo V9 India launch later this month: iPhone X-like notch, expected price and other features",
+        "description": "Oppo F7 and Vivo V9 smartphones are expected to come with a 19:9 aspect ratio display and a design similar to that of Apple iPhone X.",
+        "url": "http://indianexpress.com/article/technology/mobile-tabs/oppo-f7-vivo-v9-india-launch-later-march-iphone-x-like-notch-expected-price-and-other-features-5100991/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/oppo-vivo-759.jpg?w=759",
+        "publishedAt": "2018-03-17T07:54:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Vodafone's Rs. 21 Prepaid Pack Offers Truly Unlimited Data for One Hour",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/telecom/news/jio-rs-19-vs-vodafone-rs-21-prepaid-pack-truly-unlimited-data-one-hour-1825042",
+        "urlToImage": "https://i.gadgets360cdn.com/large/Vodafon2_1514212216513.jpeg",
+        "publishedAt": "2018-03-17T07:20:33Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ET Online",
+        "title": "Unboxing Xiaomi: How this Chinese company does what it does in India",
+        "description": "From electric and other vehicles small and big, Xiaomi's regulatory filing exhibits the threat it poses to Indian manufacturers.",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/durables/unboxing-xiaomi-how-this-chinese-company-does-what-it-does-in-india/articleshow/63342269.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63342291,width-672,resizemode-4,imgsize-95849/xiaomis.jpg",
+        "publishedAt": "2018-03-17T07:05:32Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "Sneha Saha",
+        "title": "iPhone X selling with Rs 10000 cashback & iPhone 8, iPhone 8 Plus with Rs 8000, but for a limited period",
+        "description": "If you are a Apple fan, well, this is probably the time that you should get your favourite Apple products, and at a m",
+        "url": "https://www.indiatoday.in/technology/news/story/iphone-x-macbooks-selling-with-rs-10000-cashback-iphone-8-iphone-8-plus-with-rs-8-000-cashback-in-icici-offer-1190906-2018-03-16",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/iphone-x_1824.jpeg?qoF83dwAvR4E9Fr73uBIZs_dZ0BAvCUE",
+        "publishedAt": "2018-03-17T06:11:15Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Samsung Galaxy S9+ 256GB Variant Available With 70 Percent Buyback Offer at Reliance Digital, Jio Stores",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/mobiles/news/samsung-galaxy-s9-plus-256gb-jio-reliance-digital-buyback-cashback-offer-1825011",
+        "urlToImage": "https://i.gadgets360cdn.com/large/Samsung_Galaxy_S9_cover_new_ndtv_1521187384165.jpg",
+        "publishedAt": "2018-03-17T06:06:33Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "Sneha Saha",
+        "title": "You can now exchange your old smartphone for a new Xiaomi phone via Mi.com, here's how",
+        "description": "Xiaomi Mi Exchange program that let consumers exchange their old smartphone with a brand new Xiaomi phone is now avai",
+        "url": "https://www.indiatoday.in/technology/news/story/you-can-now-exchange-your-old-phone-for-a-new-xiaomi-smartphone-at-mi-com-here-s-how-1190651-2018-03-16",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/redmi-note-4_1824_011017122956_011917101843_031417035017_1.jpeg?6.hgoxYAuPOfsq0nBQQkYkHNcEB_CXCd",
+        "publishedAt": "2018-03-17T05:48:45Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Autocarindia.com"
+        },
+        "author": null,
+        "title": "2018 TVS Apache RTR 160 4V review, test ride",
+        "description": "The TVS Apache RTR 160 is back in a new, faster and better-looking avatar.",
+        "url": "https://www.autocarindia.com/bike-reviews/2018-tvs-apache-rtr-160-4v-review-test-ride-407776",
+        "urlToImage": "http://cdni.autocarindia.com/ExtraImages/20180316060451_Apachestatic5.jpg",
+        "publishedAt": "2018-03-17T03:31:40Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": null,
+        "title": "Amazon Tests Feature That Makes Your Echo Not Talk So Much",
+        "description": null,
+        "url": "https://gizmodo.com/amazon-tests-feature-that-makes-your-echo-not-talk-so-m-1823836005",
+        "urlToImage": null,
+        "publishedAt": "2018-03-16T18:50:00Z"
+    }]
+}
