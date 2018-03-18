@@ -1,7 +1,40 @@
 {
     "status": "ok",
-    "totalResults": 7,
+    "totalResults": 3,
     "articles": [{
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ET Online",
+        "title": "Congress plenary live: Modi government have pushed people into poverty, says Chidambaram",
+        "description": "The session, first since Gandhis elevation to the presidential post, is called ‘Change is now and is aimed at projecting young faces of the party at the forefront.",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-plenary-session-live-every-rally-of-pm-has-been-financed-by-black-money-says-chidambaram/articleshow/63352880.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63353034,width-672,resizemode-4,imgsize-354223/congnress_pti.jpg",
+        "publishedAt": "2018-03-18T07:21:08Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": null,
+        "title": "UP, Bihar by-elections and beyond: Trends from recent and previous polls don't portend good news for BJP in 2019",
+        "description": "The results of by-elections and elections taken place after 2014 Lok Sabha polls indicate that whenever the Narendra Modi-led BJP decides to hold the parliamentary elections",
+        "url": "http://www.firstpost.com/politics/up-bihar-by-elections-and-beyond-trends-from-recent-and-previous-polls-dont-portend-good-news-for-bjp-in-2019-4394841.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/01/Narendra-Modi-in-Davos-1_Social_PTI.jpg",
+        "publishedAt": "2018-03-18T05:15:04Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Livemint.com"
+        },
+        "author": "Sayantan Bera",
+        "title": "PM Modi urges states to adopt model farm laws drafted by Centre",
+        "description": "Farmers’ welfare will gain pace once states adopt the model laws drafted by the Centre, says Prime Minister Narendra Modi",
+        "url": "http://www.livemint.com/Politics/o04bUCciVxcqx159XHUqYP/PM-Modi-urges-states-to-adopt-model-farm-laws-drafted-by-Cen.html",
+        "urlToImage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/03/19/Photos/Processed/modi-kFuE--621x414@LiveMint.jpg",
+        "publishedAt": "2018-03-17T11:18:19Z"
+    }, {
         "source": {
             "id": "the-hindu",
             "name": "The Hindu"

@@ -4,6 +4,226 @@
     "articles": [{
         "source": {
             "id": null,
+            "name": "Theindianwire.com"
+        },
+        "author": "https://www.facebook.com/Bismay-Mohanty-511469558890259/",
+        "title": "Huawei P20 Lite With 5.84-Inch 19:9 Display, Dual Rear Cameras Launched",
+        "description": "Huawei has officially confirmed enlisting the P20 Lite on its website in Poland. The consumer website is linked to e-commerce sites for pre-order. Though the P20 variant has also reportedly been launched in Czech Republic and all the three variants in the ser…",
+        "url": "https://www.theindianwire.com/tech/huawei-p20-lite-5-84-inch-199-display-dual-rear-cameras-launched-53110/",
+        "urlToImage": "https://www.theindianwire.com/wp-content/uploads/2018/03/NEW.jpg",
+        "publishedAt": "2018-03-18T07:35:06Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Telecomtalk.info"
+        },
+        "author": "Chakri Kudikala",
+        "title": "Dual VoLTE, Android Oreo Are the Key Differences Between the Redmi Note 5 in China and India",
+        "description": "",
+        "url": "https://telecomtalk.info/xiaomi-redmi-note5-difference-china-india/174773/",
+        "urlToImage": "https://telecomtalk.info/wp-content/uploads/2018/03/xiaomi-redmi-note5-china-india.jpg",
+        "publishedAt": "2018-03-18T07:19:47Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": "",
+        "title": "2018 Suzuki Swift Sport BeeRacing Edition Launched In Italy",
+        "description": "The new generation Maruti Suzuki Swift is all set to go on sale in Italy soon and ahead of its official launch the Japanese automaker has introduced the Suzuki Swift Sport BeeRacing limited edition in the country. The limited edition model gets a special pain…",
+        "url": "https://auto.ndtv.com/news/2018-suzuki-swift-sport-beeracing-edition-launched-in-italy-1825310",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-03/2018-suzuki-swift-beeracing_827x510_71521354950.jpg",
+        "publishedAt": "2018-03-18T06:42:38Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Iol.co.za"
+        },
+        "author": null,
+        "title": "Will streaming music latecomer @Spotify hit the spot?",
+        "description": "Spotify launched in SA this past week and will discover how close they’ve landed to the “soooo glad to see you” end of the tardiness spectrum",
+        "url": "https://www.iol.co.za/sundayindependent/life/will-streaming-music-latecomer-spotify-hit-the-spot-13885884",
+        "urlToImage": "https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/image/101580197.JPG",
+        "publishedAt": "2018-03-18T06:34:21Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Tech Desk",
+        "title": "Apple MacBook sales to grow faster than iPhone and iPad in 2018: KGI's Ming-Chi Kuo",
+        "description": "Apple MacBook sales are expected to grow faster in comparison to the iPhone and iPad in 2018, according to KGI Securities analyst Ming-Chi Kuo.",
+        "url": "http://indianexpress.com/article/technology/gadgets/apple-macbook-sales-to-grow-faster-than-iphone-and-ipad-in-2018-kgi-ming-chi-kuo-5101915/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/apple-macbook-air.jpg?w=759",
+        "publishedAt": "2018-03-18T06:04:32Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "ANI",
+        "title": "Tinder sues rival app Bumble for allegedly copying them",
+        "description": "Match Group, parent company of popular online dating app Tinder, is suing rival Bumble, alleging patent infringement and misuse of intellectual property. The suit alleges that Bumble \"copied Tinder's world-changing, card-swipe-based, mutual opt-in premise,\" a…",
+        "url": "http://www.dnaindia.com/technology/report-tinder-sues-rival-app-bumble-for-allegedly-copying-them-2594980",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/18/661952-tinder.png",
+        "publishedAt": "2018-03-18T05:55:42Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ibtimes.co.in"
+        },
+        "author": "Rohit KVN",
+        "title": "Apple education event: Are affordable iPads, MacBooks for kids, teachers on cards?",
+        "description": "Apple will host a special event at a high school in Chicago, US. The company is expected to launch affordable iPads and MacBooks for children and teachers.",
+        "url": "http://www.ibtimes.co.in/apple-education-event-are-affordable-ipads-macbooks-kids-teachers-cards-764152",
+        "urlToImage": "http://data1.ibtimes.co.in/en/full/670817/macbook.jpg",
+        "publishedAt": "2018-03-18T05:39:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Digit.in"
+        },
+        "author": "Digit NewsDesk",
+        "title": "Sony Xperia XA1, XA1 Ultra and XA1 Plus get Android 8 Oreo update",
+        "description": "The Android 8 update is 900MB in size and brings with it the February 2018 security patch",
+        "url": "https://www.digit.in/mobile-phones/sony-xperia-xa1-xa1-ultra-and-xa1-plus-get-android-8-oreo-update-40045.html",
+        "urlToImage": "https://static.digit.in/default/761f9839e80fbb7949693eb1c607e325adf00566.jpeg",
+        "publishedAt": "2018-03-18T04:57:02Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Cheapest Prepaid Recharge Plans Of Reliance Jio, Airtel, Idea Cellular, BSNL Compared",
+        "description": "Bharti Airtel, Idea Cellular, and Vodafone are all moving offering attractive prepaid recharge plans to customers to outdo Jio's offers.",
+        "url": "https://www.ndtv.com/business/cheapest-prepaid-recharge-plans-of-reliance-jio-airtel-idea-cellular-bsnl-with-unlimited-data-benefi-1825288",
+        "urlToImage": "https://i.ndtvimg.com/i/2017-07/mobile_650x400_51500374213.jpg",
+        "publishedAt": "2018-03-18T04:53:12Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Drivespark.com"
+        },
+        "author": "Rahul",
+        "title": "New Mahindra XUV500 To Launch in April 2018",
+        "description": "The new Mahindra XUV500 is set to be launched in April 2018. The new refreshed version will get a host of both exterior and interior upgrades.",
+        "url": "https://www.drivespark.com/four-wheelers/2018/new-mahindra-xuv500-launch-april-2018-025220.html",
+        "urlToImage": "https://www.drivespark.com/img/2018/03/mahindra-xuv500-2-1521290375.jpg",
+        "publishedAt": "2018-03-18T04:32:30Z"
+    }, {
+        "source": {
+            "id": "engadget",
+            "name": "Engadget"
+        },
+        "author": "Jon Fingas",
+        "title": "Android Auto can unlock your phone with a swipe",
+        "description": "Google understandably shuts down easy access to your phone when Android Auto is turned on, since you're supposed to be focused on the road.  But what if you do...",
+        "url": "https://www.engadget.com/2018/03/17/android-auto-can-unlock-your-phone-with-a-swipe/",
+        "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1400%252C932%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1066%26image_uri%3Dhttp%253A%252F%252Fo.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F7e188c40c5e07c8d0efd825628ff8946%252F205509714%252F0726_waze-5858.jpg%26client%3Da1acac3e1b3290917d92%26signature%3Deea8724618a615c1e407e2dee93580bc4736f23d&client=cbc79c14efcebee57402&signature=0f2594c8b386492db922d872bbee0485b14e5189",
+        "publishedAt": "2018-03-17T23:02:09Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Financialexpress.com"
+        },
+        "author": "Deepak Kumar",
+        "title": "Tata Motors misses the high road",
+        "description": "Lack of a winning model slows passenger vehicle business.",
+        "url": "http://www.financialexpress.com/industry/tata-motors-misses-the-high-road/1102584/",
+        "urlToImage": "http://images.financialexpress.com/2018/03/tata-2.jpg",
+        "publishedAt": "2018-03-17T22:17:53Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Cartoq.com"
+        },
+        "author": null,
+        "title": "1 hour-long horror ride for Mercedes owner as cruise control gets stuck at 120 kmph",
+        "description": "A Chinese driver had the shock of his life when the cruise control of his Mercedes C200L got stuck at 120 KMPH! He was forced to drive for about 100 kms on the motorway before his car was apparently remotely stopped by the Mercedes tech support. Mr. Xue calle…",
+        "url": "https://www.cartoq.com/1-hour-long-horror-ride-for-mercedes-owner-as-cruise-control-gets-stuck-at-120-kmph/",
+        "urlToImage": "https://www.cartoq.com/wp-content/uploads/2018/03/mercedes-c-class-l.jpg",
+        "publishedAt": "2018-03-17T20:56:34Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Cartoq.com"
+        },
+        "author": null,
+        "title": "2018 Toyota Landcruiser Prado luxury SUV launched in India",
+        "description": "2018 Toyota Landcruiser Prado luxury SUV launched in India - price, specifications, features, images, safety, full details on the new model Land Cruiser Prado SUV",
+        "url": "https://www.cartoq.com/2018-toyota-landcruiser-prado-luxury-suv-launched-in-india/",
+        "urlToImage": "https://www.cartoq.com/wp-content/uploads/2018/03/2018-Toyota-Land-Cruiser-Prado-India-.jpg",
+        "publishedAt": "2018-03-17T16:14:36Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Rushlane.com"
+        },
+        "author": "Nabanita Singha Roy",
+        "title": "TVS Jupiter FI CBS spied undisguised – Honda Activa 5G rival",
+        "description": "New TVS Jupiter Fuel Injection variant will be launched soon. It will compete with market leader, and newly launched Honda Activa 5G.",
+        "url": "https://www.rushlane.com/tvs-jupiter-fi-cbs-spied-12237616.html",
+        "urlToImage": null,
+        "publishedAt": "2018-03-17T14:24:09Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Financialexpress.com"
+        },
+        "author": "FE Online",
+        "title": "This big update will change how you use WhatsApp groups; here's what it is",
+        "description": "WhatsApp for Android has been updated with the group description feature that will let you add a description or a topic to a group.",
+        "url": "http://www.financialexpress.com/industry/technology/this-big-update-will-change-how-you-use-whatsapp-groups-heres-what-it-is/1102152/",
+        "urlToImage": "http://images.financialexpress.com/2018/03/whatsapp_pixabay_1-1.jpg",
+        "publishedAt": "2018-03-17T09:09:54Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Windows Mail Links May Soon Open Only in Microsoft Edge; Being Tested in Windows 10 Preview",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/laptops/news/microsoft-windows-10-insider-preview-build-17623-windows-mail-links-open-in-microsoft-edge-1825072",
+        "urlToImage": "https://i.gadgets360cdn.com/large/windows_10_ndtvgadgets360_1506078584256.jpg",
+        "publishedAt": "2018-03-17T08:45:40Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "ANI",
+        "title": "Say Namaste to your Hindi Google Assistant!",
+        "description": "Google announced the launch of Google Assistant in Hindi. The Assistant in Hindi is rolling out to Android phones 6.0+ (Marshmallow and above) and soon coming to Android 5.0 Lollipop, iPhones as well as Android Oreo (Go edition) devices.",
+        "url": "http://www.dnaindia.com/technology/report-say-namaste-to-your-hindi-google-assistant-2594695",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/17/661653-29526761674d36a18801ck.jpg",
+        "publishedAt": "2018-03-17T06:09:50Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Samsung Galaxy S9+ 256GB Variant Available With 70 Percent Buyback Offer at Reliance Digital, Jio Stores",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/mobiles/news/samsung-galaxy-s9-plus-256gb-jio-reliance-digital-buyback-cashback-offer-1825011",
+        "urlToImage": "https://i.gadgets360cdn.com/large/Samsung_Galaxy_S9_cover_new_ndtv_1521187384165.jpg",
+        "publishedAt": "2018-03-17T06:06:33Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Xiaomi Smartphone Exchange Offer Comes Online via Mi.com: How the Mi Exchange Offer Works",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/mobiles/news/xiaomi-smartphone-exchange-offer-how-mi-exchange-website-works-1824324",
+        "urlToImage": "https://i.gadgets360cdn.com/large/xiaomi_mi_exchange_reuters_1521116373831.jpg",
+        "publishedAt": "2018-03-16T10:12:05Z"
+    }, {
+        "source": {
+            "id": null,
             "name": "Ibtimes.co.in"
         },
         "author": "Ken Sunny",

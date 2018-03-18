@@ -4,6 +4,226 @@
     "articles": [{
         "source": {
             "id": null,
+            "name": "Express.co.uk"
+        },
+        "author": "Matt Atherton",
+        "title": "Cancer symptoms: Pancreatic tumour may cause diabetes",
+        "description": "CANCER symptoms vary depending on which part of the body is affected by a tumour. If you have recently diagnosed diabetes, it could be caused by this type of cancer, which kills almost 9,000 people every year in the UK.",
+        "url": "https://www.express.co.uk/life-style/health/932986/cancer-symptoms-pancreatic-tumour-diabetes-uk-cause",
+        "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/11/750x445/932986.jpg",
+        "publishedAt": "2018-03-18T07:00:27Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "IANS",
+        "title": "Stay in shape to cut heart disease risk",
+        "description": "If you thought it might be possible to be overweight or obese but not at increased risk of heart disease, think again! A new study of nearly 300,000 people has found that unhealthy weight gain can raise risk of heart attacks, strokes and high blood",
+        "url": "http://www.business-standard.com/article/news-ians/stay-in-shape-to-cut-heart-disease-risk-118031800184_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+        "publishedAt": "2018-03-18T06:46:46Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "Press Trust of India",
+        "title": "Urological cancer patients at five times higher suicide risk",
+        "description": "Patients with prostate, bladder or kidney cancers are five times more likely to commit suicide, a survey led by an Indian-origin scientists has found.\nThe analysis also showed that cancer patients are about three times more likely to commit suicide",
+        "url": "http://www.business-standard.com/article/pti-stories/urological-cancer-patients-at-five-times-higher-suicide-risk-118031800154_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+        "publishedAt": "2018-03-18T06:16:36Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Webindia123.com"
+        },
+        "author": null,
+        "title": "PAHO urges countries to vaccinate against measles to maintain its elimination in the Americas",
+        "description": "The Pan American Health Organization/World Health Organization (PAHO/WHO) warned that in the face of ongoing measles outbreaks in the Americas, countries should redouble efforts to vaccinate their populations, strengthen surveillance to detect possible patien…",
+        "url": "https://news.webindia123.com/news/articles/World/20180318/3300830.html",
+        "urlToImage": null,
+        "publishedAt": "2018-03-18T05:58:59Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Anti-dumping duty imposed on Ofloxacin import from China",
+        "description": "The duty on import of 'Ofloxacin' from China will be in the range of $2.58 to $9.48 per kilogram for three years, said a notification issued by the revenue department in the finance ministry.",
+        "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/anti-dumping-duty-imposed-on-ofloxacin-import-from-china/articleshow/63352229.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63352253,width-672,resizemode-4,imgsize-42779/medicine-ap.jpg",
+        "publishedAt": "2018-03-18T05:49:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Odishatv.in"
+        },
+        "author": "IANS",
+        "title": "Experimental obesity drug may prevent kidney stones",
+        "description": "Tokyo: Japanese scientists have found that an experimental obesity drug can potentially prevent the formation of kidney stones in mice, a finding that paves the way to develop medications to prevent the condition in at-risk individuals.The findings s",
+        "url": "http://odishatv.in/health/experimental-obesity-drug-may-prevent-kidney-stones-282836",
+        "urlToImage": "http://cdn.odishatv.in/wp-content/uploads/2018/03/kidney-stones.jpg",
+        "publishedAt": "2018-03-18T05:08:24Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "Ginger, papaya, yoghurt: 8 foods that'll help you deal with an upset stomach",
+        "description": "Here are some foods that will keep your digestive system calm.",
+        "url": "https://www.hindustantimes.com/fitness/ginger-papaya-yoghurt-8-foods-that-ll-help-you-deal-with-an-upset-stomach/story-o7APSNsfX2oPBOCHpRGDCP.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/18/Pictures/cut-papaya-fork-silver-wooden-board-with_6f76adf6-2a61-11e8-a8dd-98cd3615fcfa.jpg",
+        "publishedAt": "2018-03-18T04:06:53Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ksl.com"
+        },
+        "author": "https://www.facebook.com/kslcom/",
+        "title": "Dementia study links your risk with your fitness level",
+        "description": "Your stamina — or the time it takes for you to reach peak exhaustion during exercise — can be tied to your dementia risk, and a new study reveals how.",
+        "url": "https://www.ksl.com/?sid=46280524&nid=1010",
+        "urlToImage": "http://img.ksl.com/slc/2617/261714/26171469.jpg?filter=ksl/responsive_story_lg",
+        "publishedAt": "2018-03-18T02:00:46Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Greensboro.com"
+        },
+        "author": "Danielle Battaglia",
+        "title": "Delicate and disposable, small strips that measure blood-sugar levels are desired by diabetics — and dealers",
+        "description": "What leads diabetic patients to the streets to buy medical supplies?",
+        "url": "http://www.greensboro.com/news/local_news/delicate-and-disposable-small-strips-that-measure-blood-sugar-levels/article_4995b31a-f59d-5960-959e-c067e6a8f181.html",
+        "urlToImage": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/9/f4/9f465287-e9f9-57f3-a346-15f3f7c75bcc/5aac955da7946.image.jpg?crop=1485%2C1114%2C187%2C0&resize=840%2C630&order=crop%2Cresize",
+        "publishedAt": "2018-03-18T00:41:45Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "dna Correspondent",
+        "title": "For a healthy body, take care of your mouth",
+        "description": "Oral health is the gateway for overall good health and teeth are the guardians of this health, says Patel",
+        "url": "http://www.dnaindia.com/ahmedabad/report-for-a-healthy-body-take-care-of-your-mouth-2594938",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/18/661915-dentists.jpg",
+        "publishedAt": "2018-03-18T00:35:55Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "Maitri Porecha",
+        "title": "DNA Exclusive | Medanta Hospital found guilty of charging five times more for blood: Report",
+        "description": "DNA has an exclusive copy of the probe report, which found that while the state-government has fixed the price of Random Donor Platelets (RDPs) at Rs 400 per unit, Medanta charged close to five times more per unit: Rs 1,950 per unit.",
+        "url": "http://www.dnaindia.com/delhi/report-dna-exclusive-medanta-hospital-found-guilty-of-charging-five-times-more-for-blood-report-2594930",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/18/661909-medantahosp.jpg",
+        "publishedAt": "2018-03-18T00:11:02Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Thefreepress.ca"
+        },
+        "author": "Wire Service",
+        "title": "Free breast cancer screening",
+        "description": "<p>Early detection saving lives </p>",
+        "url": "https://www.thefreepress.ca/local-news/free-breast-cancer-screening/",
+        "urlToImage": "https://www.thefreepress.ca/wp-content/uploads/2018/03/10956928_web1_smp-mobile-mammography-service.jpg",
+        "publishedAt": "2018-03-17T20:43:43Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Asianage.com"
+        },
+        "author": "B. R. Srikanth",
+        "title": "Brain dead: The great tragedy of Alzheimer's disease",
+        "description": "Since changes in the brain begin long before the first signs of memory loss, catching the risk for AD at early stages could well be the key.",
+        "url": "http://www.asianage.com/decaf/180318/brain-dead-the-great-tragedy-of-alzheimers-disease.html",
+        "urlToImage": "http://images.asianage.com/images/aa-Cover-kftenijo4dj9hnphoq8h82f605-20180318015858.Medi.jpeg",
+        "publishedAt": "2018-03-17T20:38:44Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Interestingengineering.com"
+        },
+        "author": "",
+        "title": "New 3D Tissue Heart Model Could Save Expecting Mothers",
+        "description": "A team of bioengineers redesigned how stem cells formed tissues to mimic how a baby's heart forms in the womb. This could streamline how researchers test and prescribe medication for mothers.",
+        "url": "https://interestingengineering.com/new-3d-tissue-heart-model-could-save-expecting-mothers",
+        "urlToImage": "https://static.interestingengineering.com/images/MARCH/sizes/cardiac_muscle_tissue_md.jpg",
+        "publishedAt": "2018-03-17T20:22:37Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "Mumbai gets five immunity test machines for HIV patients",
+        "description": "Aayushi Pratap aayushi.pratap@hindustantimes.com MumbaiThe city got five new machines for a crucial test that patients with human immunodeficiency virus (HIV) have to undergo...",
+        "url": "https://www.hindustantimes.com/mumbai-news/mumbai-gets-five-immunity-test-machines-for-hiv-patients/story-0Z1oytTUAJNE7uGZrcM1qM.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/18/Pictures/_6fb52604-2a1a-11e8-9f95-06a811d7e716.jpg",
+        "publishedAt": "2018-03-17T19:53:00Z"
+    }, {
+        "source": {
+            "id": "the-hindu",
+            "name": "The Hindu"
+        },
+        "author": "Shubashree Desikan",
+        "title": "A knowledge hub for Indian medicinal plants",
+        "description": "Open source record of plants with “druggable” chemicals will help validate traditional systems",
+        "url": "http://www.thehindu.com/sci-tech/science/a-knowledge-hub-for-medicinal-plants/article23280990.ece",
+        "urlToImage": "http://www.thehindu.com/sci-tech/energy-and-environment/article23284189.ece/ALTERNATES/LANDSCAPE_615/Kariyat",
+        "publishedAt": "2018-03-17T18:56:32Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Pakistantoday.com.pk"
+        },
+        "author": null,
+        "title": "Around 0.6 million children smoke cigarettes daily",
+        "description": "Share this on WhatsApp",
+        "url": "https://www.pakistantoday.com.pk/2018/03/17/around-0-6-million-children-smoke-cigarettes-daily/",
+        "urlToImage": "https://cache.pakistantoday.com.pk/cig-640x360.jpg",
+        "publishedAt": "2018-03-17T18:34:23Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Deccanchronicle.com"
+        },
+        "author": "PTI",
+        "title": "Smart software can diagnose prostate cancer, says study",
+        "description": "Prostate cancer is the most common male cancer, with around 1.1 million diagnoses ever year.",
+        "url": "https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/170318/smart-software-can-diagnose-prostate-cancer-says-study.html",
+        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-mjf2ie462jt4nri9o0gjan0p02-20180106163948.Medi.jpeg",
+        "publishedAt": "2018-03-17T13:03:09Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Orissadiary.com"
+        },
+        "author": "Odisha Diary bureau",
+        "title": "Conditions That Increase The Risk for Heart Disease",
+        "description": "Dr. Naveen Bhamri  Some factors such as having a family history of heart troubles, getting older, smoking, having high cholesterol and blood pressure, and being obese can raise a person’s chances of developing a heart disease. However, there are lesser-known …",
+        "url": "https://orissadiary.com/conditions-increase-risk-heart-disease/",
+        "urlToImage": null,
+        "publishedAt": "2018-03-17T13:01:43Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "New Mobile Application May Reduce Stroke Risk; Try These Foods That May Help Too!",
+        "description": "According to a study published in the journal Circulation, a new mobile application has been developed that can detect atrial fibrillation, a leading cause of stroke, and can timely prevent heart-related complications",
+        "url": "https://www.ndtv.com/food/new-mobile-application-may-reduce-stroke-risk-try-these-foods-that-may-help-too-1825103",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-02/heart-disease-in-women_650x400_51519711377.jpg",
+        "publishedAt": "2018-03-17T10:16:00Z"
+    }, {
+        "source": {
+            "id": null,
             "name": "Indiaeducationdiary.in"
         },
         "author": "India Education Diary Bureau Admin",
