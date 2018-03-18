@@ -4,6 +4,226 @@
     "articles": [{
         "source": {
             "id": null,
+            "name": "Fool.com"
+        },
+        "author": "Billy Duberstein",
+        "title": "The Winning Formula Behind Nintendo's Growth",
+        "description": "The company aims to expand its audience in two directions, and it appears the strategy is working.",
+        "url": "https://www.fool.com/investing/2018/03/18/the-winning-formula-behind-nintendos-growth.aspx",
+        "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F475863%2Fmultiplayer.jpg&h=630&w=1200&op=resize",
+        "publishedAt": "2018-03-18T15:35:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Themobileindian.com"
+        },
+        "author": "The Mobile Indian network",
+        "title": "Apple's iPhone SE 2 may borrow this iconic feature of iPhone X",
+        "description": "Apple is expected to launch the so called iPhone SE 2 at the Worldwide Developers Conference (WWDC) later this year in June.",
+        "url": "https://www.themobileindian.com/news/apples-iphone-se-2-may-borrow-this-iconic-feature-of-iphone-x-21407",
+        "urlToImage": "https://www.themobileindian.com/resizer.php?src=/public/uploads/news/2018/03/21407/appleiphonese2.jpg&w=735&h=425",
+        "publishedAt": "2018-03-18T15:25:29Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Albawaba.com"
+        },
+        "author": null,
+        "title": "How to Make Your Phone More Secure in 6 Easy Steps",
+        "description": "How to Make Your Phone More Secure in 6 Easy Steps",
+        "url": "https://www.albawaba.com/business/how-make-your-phone-more-secure-6-easy-steps-1103358",
+        "urlToImage": "http://www.albawaba.com/sites/default/files/im/pr_new/shutterstock_221351899_mobile_secure.jpg",
+        "publishedAt": "2018-03-18T14:09:57Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Digitaltrends.com"
+        },
+        "author": "Eric Brackett",
+        "title": "Match Group sues Bumble for alleged patent infringement",
+        "description": "Bumble is in legal trouble with one of its biggest rivals. Match Group, which owns Tinder, is suing Bumble for alleged patent infringement",
+        "url": "https://www.digitaltrends.com/social-media/match-group-sues-bumble/",
+        "urlToImage": "https://icdn2.digitaltrends.com/image/bumble-bff-dating-app-1-1200x630-c-ar1.91.jpg?ver=1",
+        "publishedAt": "2018-03-18T14:01:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Cartoq.com"
+        },
+        "author": null,
+        "title": "Hammerhead 800: India's first 'all-wheel drive' bike uses a Maruti 800 engine [Video]",
+        "description": "A 20-year-old brought an almost-junked Maruti 800 and transformed it into an All-wheel-drive motorcycle. The motorcycle has been named as Hammerhead 800 and it looks nothing less than a muscle-flexing motorcycle.",
+        "url": "https://www.cartoq.com/hammerhead-800-indias-first-all-wheel-drive-bike-uses-a-maruti-800-engine-video/",
+        "urlToImage": "https://www.cartoq.com/wp-content/uploads/2018/03/Hammerhead-800-Featured.jpg",
+        "publishedAt": "2018-03-18T13:01:54Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "DNA Web Team",
+        "title": "Leaked: Vivo X21 specs surface online ahead of launch; listed on JD.com for pre-order",
+        "description": "Vivo’s upcoming X21 smartphone will launch in China on March 19. Screenshots of a document were posted online and they reveal details of Vivo’s upcoming flagship. The leak confirmed that the company will launch two variants of the device - Vivo X21 and Vivo X…",
+        "url": "http://www.dnaindia.com/technology/report-leaked-vivo-x21-specs-surface-online-ahead-of-launch-listed-on-jdcom-for-pre-order-2595075",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/18/662054-capture21212.jpg",
+        "publishedAt": "2018-03-18T12:36:06Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Chandigarhmetro.com"
+        },
+        "author": "Sushant",
+        "title": "Toyota to Launch a New Car for India Named 'Yaris' | Check Launch Price & Bookings Details",
+        "description": "Toyota is all set to re-enter the well known mid-size car section in India with the launch of the Toyota Yaris. Dealers in India have begun accepting bookings in select areas like Delhi. The new Toyot",
+        "url": "https://chandigarhmetro.com/toyota-yaris-india-launch-price-details-bookings/",
+        "urlToImage": "https://chandigarhmetro.com/wp-content/uploads/2018/03/toyota-yaris-india-launch-details-bookings-open.jpg",
+        "publishedAt": "2018-03-18T12:30:43Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Cartoq.com"
+        },
+        "author": null,
+        "title": "Royal Enfield Interceptor 650 & Continental GT650 motorcycles reach Australia; India launch later",
+        "description": "Royal Enfield has begun shipping the Interceptor 650 and Continental GT 650 motorcycles to Australia. Presently, both bikes are on display at Royal Enfield's Australian dealerships.",
+        "url": "https://www.cartoq.com/royal-enfield-interceptor-650-india-launch-later/",
+        "urlToImage": "https://www.cartoq.com/wp-content/uploads/2017/11/interceptor-4.jpg",
+        "publishedAt": "2018-03-18T12:29:13Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Financialexpress.com"
+        },
+        "author": "FE Online",
+        "title": "Whatsapp latest update: Making sense of new Android introductions and how it will help you",
+        "description": "WhatsApp has rolled out yet another cool feature for its 1.5 million active users. The Facebook-owned app has now given its users the power to add a description to their group chats.",
+        "url": "http://www.financialexpress.com/industry/technology/whatsapp-latest-update-making-sense-of-new-android-introductions-and-how-it-will-help-you/1102840/",
+        "urlToImage": "http://images.financialexpress.com/2018/03/noname-16.png",
+        "publishedAt": "2018-03-18T10:25:12Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Newsbytesapp.com"
+        },
+        "author": "Bhavika Bhuwalka",
+        "title": "This WhatsApp hack makes the 'Disable blue ticks' feature useless!",
+        "description": "WhatsApp launched its blue ticks feature in 2014 that allows users to know when someone has read their messages, by turning the grey double ticks on their message blue.   For those who don't support b",
+        "url": "https://www.newsbytesapp.com/timeline/Science/18219/88380/another-whatsapp-hack-to-make-your-lives-easier",
+        "urlToImage": "https://ik.imagekit.io/newsbytes/images/l138_9741521359431.jpg",
+        "publishedAt": "2018-03-18T09:06:45Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Mysmartprice.com"
+        },
+        "author": "onkar.soundankar",
+        "title": "Huawei P20 Lite with 5.84-inch 19:9 display, Kirin 659 SoC, and dual rear-facing camera goes official",
+        "description": "Huawei has officially announced one of its much-awaited smartphones, the Huawei P20 Lite, in the Czech Republic and Poland today. As opposed to expectations, the company has launched the phones ahead of the announcements of the Huawei P20 and Huawei P20 Pro, …",
+        "url": "https://www.mysmartprice.com/gear/2018/03/18/huawei-p20-lite-launched-specs-features-price/",
+        "urlToImage": "https://www.mysmartprice.com/gear/wp-content/uploads/2018/03/Huawei-P20-Lite.jpeg",
+        "publishedAt": "2018-03-18T06:48:41Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": "",
+        "title": "2018 Suzuki Swift Sport BeeRacing Edition Launched In Italy",
+        "description": "The new generation Maruti Suzuki Swift is all set to go on sale in Italy soon and ahead of its official launch the Japanese automaker has introduced the Suzuki Swift Sport BeeRacing limited edition in the country. The limited edition model gets a special pain…",
+        "url": "https://auto.ndtv.com/news/2018-suzuki-swift-sport-beeracing-edition-launched-in-italy-1825310",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-03/2018-suzuki-swift-beeracing_827x510_71521354950.jpg",
+        "publishedAt": "2018-03-18T06:42:38Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Redmi 5 in India, Vivo V9 and Oppo F7 Leaked, Galaxy S9 Goes on Sale, and More News This Week",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/mobiles/features/redmi-5-5a-4-price-in-india-xiaomi-exchange-offer-mi-com-vivo-v9-galaxy-s9-plus-fornite-ios-oppo-f7-1825160",
+        "urlToImage": "https://i.gadgets360cdn.com/large/Xiaomi_Redmi_5_3_1521003312801.jpg",
+        "publishedAt": "2018-03-18T06:29:22Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Tech Desk",
+        "title": "Apple MacBook sales to grow faster than iPhone and iPad in 2018: KGI's Ming-Chi Kuo",
+        "description": "Apple MacBook sales are expected to grow faster in comparison to the iPhone and iPad in 2018, according to KGI Securities analyst Ming-Chi Kuo.",
+        "url": "http://indianexpress.com/article/technology/gadgets/apple-macbook-sales-to-grow-faster-than-iphone-and-ipad-in-2018-kgi-ming-chi-kuo-5101915/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/apple-macbook-air.jpg?w=759",
+        "publishedAt": "2018-03-18T06:04:32Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Cheapest Prepaid Recharge Plans Of Reliance Jio, Airtel, Idea Cellular Compared",
+        "description": "Bharti Airtel, Idea Cellular, and Vodafone are all moving offering attractive prepaid recharge plans to customers to outdo Jio's offers.",
+        "url": "https://www.ndtv.com/business/cheapest-prepaid-recharge-plans-of-reliance-jio-airtel-idea-cellular-bsnl-with-unlimited-data-benefi-1825288",
+        "urlToImage": "https://i.ndtvimg.com/i/2017-07/mobile_650x400_51500374213.jpg",
+        "publishedAt": "2018-03-18T04:53:12Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Reliance Jio Offers 1 TB Data For One Year With Samsung Galaxy S9, S9 Plus",
+        "description": "While Airtel offers Samsung Galaxy S9, S9 plus for Rs 9,999 down payment, Reliance Jio offers 1 TB data for a year for Rs 5,000",
+        "url": "https://www.ndtv.com/business/airtel-offers-samsung-galaxy-s9-for-just-rs-10-000-jio-gives-1-tb-data-for-rs-5-000-1825129",
+        "urlToImage": "https://i.ndtvimg.com/i/2017-03/samsung_650x400_41490800509.jpg",
+        "publishedAt": "2018-03-18T04:11:34Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Financialexpress.com"
+        },
+        "author": "Pradeep Shah",
+        "title": "2018 Honda CBR250R launched at a price of Rs 1.63 lakh: Yamaha Fazer 25 rival is back with new features",
+        "description": "Honda has finally launched the new CBR250R in India and hence, the quarter-litre sports tourer has made its comeback with more features and a BS-IV compliant engine. The bike locks its horns with Yamaha Fazer 25 and TVS Apache RR 310.",
+        "url": "http://www.financialexpress.com/auto/bike-news/2018-honda-cbr250r-launched-at-a-price-of-rs-1-63-lakh-yamaha-fazer-25-rival-is-back-with-new-features/1102621/",
+        "urlToImage": "http://images.financialexpress.com/2018/03/2018-cbr250r-small.jpg",
+        "publishedAt": "2018-03-18T02:45:24Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ET Bureau",
+        "title": "Meet Richard Appiah Akoto: A teacher from Ghana who used a blackboard to teach kids how the computer works",
+        "description": "A true genius, who painstakingly drew a computer on the blackboard.",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/meet-richard-appiah-akoto-a-teacher-from-ghana-who-used-a-blackboard-to-teach-kids-how-the-computer-works/articleshow/63345180.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63345249,width-672,resizemode-4,imgsize-342172/meet-richard-appiah-akoto-a-teacher-from-ghana-who-used-a-blackboard-to-teach-kids-how-the-computer-works.jpg",
+        "publishedAt": "2018-03-17T18:15:11Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Sony Xperia XA1 Smartphone Series Starts Receiving Android 8.0 Oreo Update: Reports",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/mobiles/news/sony-xperia-xa1-plus-ultra-android-8-0-oreo-update-rollout-reports-1825084",
+        "urlToImage": "https://i.gadgets360cdn.com/large/sony_xperia_xa1_and_xa1_ultra_gadgets360_newest_1521279507570.jpg",
+        "publishedAt": "2018-03-17T09:38:05Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Windows Mail Links May Soon Open Only in Microsoft Edge; Being Tested in Windows 10 Preview",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/laptops/news/microsoft-windows-10-insider-preview-build-17623-windows-mail-links-open-in-microsoft-edge-1825072",
+        "urlToImage": "https://i.gadgets360cdn.com/large/windows_10_ndtvgadgets360_1506078584256.jpg",
+        "publishedAt": "2018-03-17T08:45:40Z"
+    }, {
+        "source": {
+            "id": null,
             "name": "Theindianwire.com"
         },
         "author": "https://www.facebook.com/Bismay-Mohanty-511469558890259/",

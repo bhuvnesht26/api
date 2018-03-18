@@ -4,6 +4,226 @@
     "articles": [{
         "source": {
             "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Ashameera Aiyappan",
+        "title": "Rangasthalam tralier: There is a lot to cheer for Ram Charan's fans",
+        "description": "Rangasthalam trailer: Directed by Sukumar, Rangasthalam stars Ram Charan, Samantha Akkineni, Aadhi Pinsetty and Prakash Raja among others. The film is expected to hit the screens on March 30.",
+        "url": "http://indianexpress.com/article/entertainment/telugu/rangasthalam-trailer-ram-charan-samantha-ruth-prabhu-5102466/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/ram-charan-759.jpg?w=759",
+        "publishedAt": "2018-03-18T16:58:34Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "News18.com"
+        },
+        "author": "News18.com",
+        "title": "There Will be Riots When the Ram Mandir Issue is Resolved, Says Raj Thackeray",
+        "description": "Raj Thackeray has said that riots have been planned in the coming months around the Ram Mandir issue, both by some Muslim organisations and the BJP.",
+        "url": "https://www.news18.com/news/politics/there-will-be-riots-when-the-ram-mandir-issue-is-resolved-says-raj-thackeray-1693139.html",
+        "urlToImage": "https://images.news18.com/ibnlive/uploads/2016/10/rajthackeray.jpg",
+        "publishedAt": "2018-03-18T16:49:42Z"
+    }, {
+        "source": {
+            "id": "the-hindu",
+            "name": "The Hindu"
+        },
+        "author": "Aditya Anand",
+        "title": "Two more IndiGo jets grounded",
+        "description": "The move follows incidents involving the old series of Pratt&Whitney engines that were reported at Delhi and Srinagar.",
+        "url": "http://www.thehindu.com/news/national/two-more-indigo-jets-grounded/article23287847.ece",
+        "urlToImage": "http://www.thehindu.com/news/cities/mumbai/article23276909.ece/ALTERNATES/LANDSCAPE_615/16bm-aditya-couGLL3KJ11N3jpgjpg",
+        "publishedAt": "2018-03-18T16:45:29Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "Press Trust of India",
+        "title": "5 of family killed, 5 Army men among 7 injured in Pak shelling",
+        "description": "Pakistani troops targeted border villages in Jammu and Kashmir's Poonch district with mortar bombs today, killing five members of a family including three minor brothers and injuring five Army personnel and two civilians, officials said.\nThe",
+        "url": "http://www.business-standard.com/article/pti-stories/5-of-family-killed-5-army-men-among-7-injured-in-pak-shelling-118031800600_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+        "publishedAt": "2018-03-18T16:00:42Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Liz Mathew",
+        "title": "Rahul Gandhi's 2019 battle cry: Like Kauravas vs Pandavas, fight between truth and lies",
+        "description": "In a scathing attack on Prime Minister Narendra Modi, Rahul Gandhi said, “Modiji thinks he is an avatar of God. Modi is not fighting corruption, he is corruption.”",
+        "url": "http://indianexpress.com/article/india/rahul-gandhis-2019-battle-cry-like-kauravas-vs-pandavas-fight-between-truth-and-lies-congress-plenary-session-5102443/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/rahul-gandhi-congress1.jpg?w=759",
+        "publishedAt": "2018-03-18T15:52:48Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Financialexpress.com"
+        },
+        "author": "PTI",
+        "title": "Yogi Adityanath-led Uttar Pradesh government to celebrate first year in office tomorrow",
+        "description": "To mark the completion of its first year in office tomorrow, the Yogi Adityanath government in Uttar Pradesh would release a film and a booklet highlighting its achievements.",
+        "url": "http://www.financialexpress.com/india-news/yogi-adityanath-led-uttar-pradesh-government-to-celebrate-first-year-in-office-tomorrow/1103050/",
+        "urlToImage": "http://images.financialexpress.com/2018/03/ie_YOGI-1.jpg",
+        "publishedAt": "2018-03-18T15:47:41Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "AP",
+        "title": "Facebook's recurring nightmare: Helping muddy up elections",
+        "description": "News reports that Facebook let the Trump-affiliated data mining firm Cambridge Analytica abscond with data from tens of millions of users.",
+        "url": "https://economictimes.indiatimes.com/tech/internet/facebooks-recurring-nightmare-helping-muddy-up-elections/articleshow/63357006.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63357017,width-672,resizemode-4,imgsize-40366/facebook.jpg",
+        "publishedAt": "2018-03-18T15:44:00Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "India issues 13th Note Verbale to Pak on harassment of its HC staff",
+        "description": "The website of the Indian high commission continues to be intermittently blocked causing inconvenience and affecting the normal functioning of the mission.",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/india-issues-13th-note-verbale-to-pak-on-harassment-of-its-hc-staff/articleshow/63356751.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63356950,width-672,resizemode-4,imgsize-66967/indo-pak.jpg",
+        "publishedAt": "2018-03-18T15:34:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "IndiaToday.in",
+        "title": "I want to see to what extent Hasin Jahan can go to: Mohammed Shami",
+        "description": "Mohammed Shami ruled out any chances of reconciliation with his wife Hasin Jahan and said that he wants to see up to",
+        "url": "https://www.indiatoday.in/sports/cricket/story/i-want-to-see-to-what-extent-hasin-jahan-can-go-to-mohammed-shami-1192296-2018-03-18",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/Shami_9.jpeg?o.kC6k7QwfkJB7s5ylaYVRl1vmsewpQe",
+        "publishedAt": "2018-03-18T14:31:52Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "Three AIIMS doctors killed, 4 injured in road crash on Yamuna Expressway",
+        "description": "This 169-km expressway has claimed close to 600 lives since it became operational in 2012.",
+        "url": "https://www.hindustantimes.com/india-news/3-aiims-doctors-killed-in-accident-on-yamuna-expressway/story-ZzwWzmR1ldWWS2nKlkt86H.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/18/Pictures/expressway-hospital-available-leaving-succumbed-injuries-injured_2adffb74-2a8f-11e8-9f95-06a811d7e716.jpg",
+        "publishedAt": "2018-03-18T14:29:58Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "AFP",
+        "title": "Trump attacks fairness of Mueller probe",
+        "description": "US President Donald Trump today attacked special counsel Robert Mueller's investigation into Russia's election meddling as unfair, insisting the probe is staffed with \"hardened\" Democrats.\n\"Does anyone think this is fair? And yet, there is NO",
+        "url": "http://www.business-standard.com/article/pti-stories/trump-attacks-fairness-of-mueller-probe-118031800514_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+        "publishedAt": "2018-03-18T14:20:32Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Rahul Dravid files police complaint against ponzi firm",
+        "description": "India News: Former Indian cricket team captain Rahul Dravid has lodged a complaint against a Bengaluru-based firm for allegedly cheating him of Rs 4 crore. Though",
+        "url": "https://timesofindia.indiatimes.com/india/rahul-dravid-files-police-complaint-against-ponzi-firm/articleshow/63356101.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-63356109,width-1070,height-580,imgsize-155020,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2018-03-18T14:02:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": null,
+        "title": "LIVE Cricket Score, India vs Bangladesh T20 Nidahas Trophy final: Tamim Iqbal falls for 15",
+        "description": "Chahal continues from the other end. Sabbir and Mushfiqur are forced to keep the ball grounded in their shots, collecting five singles off the over. Bangladesh's run-rate is less than seven an over, and unless they play catch-up now, they could end up with a …",
+        "url": "http://www.firstpost.com/firstcricket/sports-news/live-cricket-score-india-vs-bangladesh-t20-nidahas-trophy-final-tamim-iqbal-falls-for-15-4395101.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/03/Untitled-design-97.jpg",
+        "publishedAt": "2018-03-18T13:54:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "AP",
+        "title": "Britain, Russia trade blame over poisoning of former spy",
+        "description": "Critics say UK authorities have been slow to investigate the origins of the wealth invested in London's financial district and property market. Russia's ambassador in London, Alexander Yakovenko, called for \"cooler heads,\" telling the Mail on Sunday that the …",
+        "url": "http://indianexpress.com/article/world/britain-russia-trade-blame-over-poisoning-of-former-spy-5102292/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/may-parliament-759.jpg?w=759",
+        "publishedAt": "2018-03-18T13:51:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Tass.com"
+        },
+        "author": null,
+        "title": "Russian presidential election held without incidents in Syria",
+        "description": "The voter turnout is higher than during the Russian parliamentary polls in 2016, according to the Russian Embassy in Syria",
+        "url": "http://tass.com/politics/994796",
+        "urlToImage": "https://phototass4.cdnvideo.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20180318/1189710.jpg",
+        "publishedAt": "2018-03-18T13:14:33Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Uniindia.com"
+        },
+        "author": "Uniindia News Service",
+        "title": "No scam in Rafale deal: Defence Minister",
+        "description": "New Delhi, Mar 18 (UNI) Defence Minister Nirmala Sitharaman has denied allegations of scam in the procurement of the Rafale fighter jets.",
+        "url": "http://www.uniindia.com/no-scam-in-rafale-deal-defence-minister/india/news/1172002.html",
+        "urlToImage": "http://www.uniindia.com//images/stripad.png",
+        "publishedAt": "2018-03-18T12:57:41Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Global Trade War: 50 Nations To Brainstorm At WTO Meet In Delhi",
+        "description": "Protectionism and the crisis in the appellate body of WTO, are among issues likely to be discussed.",
+        "url": "https://www.ndtv.com/business/global-trade-war-50-nations-to-brainstorm-at-wto-meet-in-delhi-1825419",
+        "urlToImage": "https://cdn.ndtv.com/tech/images/gadgets/wto_reuters.jpg",
+        "publishedAt": "2018-03-18T12:03:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "News18.com"
+        },
+        "author": "News18.com",
+        "title": "Big B Has Embarrassing Dad Moment, Posts Shweta's Baby Pic On Instagram",
+        "description": "After posting a rambling blog earlier today about how he finds a copyright law to be rubbish, the megastar just posted a throwback black and white picture of himself with daughter Shweta",
+        "url": "https://www.news18.com/news/movies/amitabh-bachchan-has-embarrassing-dad-moment-posts-shwetas-baby-pic-on-instagram-1692937.html",
+        "urlToImage": "https://images.news18.com/ibnlive/uploads/2017/10/Amitabh-Bachchan-at-Unforgettable-world-tour.jpg",
+        "publishedAt": "2018-03-18T08:11:24Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Oneindia.com"
+        },
+        "author": "Vikas",
+        "title": "Gudi Padwa: Maharashtra celebrating this festival with great fevour and enthusiasm",
+        "description": "Gudi Padwa, which marks the arrival of Spring, is being celebrated with great enthusiasm by Maharashtra on Sunday. This spring-time festival marks the traditional new year for Marathi Hindus. Gudi Padwa is celebrated on the first day of the Chaitra month acco…",
+        "url": "https://www.oneindia.com/india/gudi-padwa-significance-this-famous-maharashtra-festival-2660963.html",
+        "urlToImage": "https://www.oneindia.com/img/2018/03/gudipadwa-1521350779.jpg",
+        "publishedAt": "2018-03-18T05:38:08Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "India.com"
+        },
+        "author": "Zee Media Bureau",
+        "title": "Ola, Uber drivers threaten to go on indefinite strike from Monday in Mumbai, Delhi, Bengaluru",
+        "description": "The call for strike was made after drivers claimed that they were given big assurances but they are even unable to cover their costs.",
+        "url": "http://zeenews.india.com/india/ola-uber-drivers-threaten-to-go-on-indefinite-strike-from-monday-in-mumbai-delhi-bengaluru-2090985.html",
+        "urlToImage": "http://ste.india.com/sites/default/files/2018/03/18/669239-ola.jpg",
+        "publishedAt": "2018-03-18T04:10:28Z"
+    }, {
+        "source": {
+            "id": null,
             "name": "Firstpost.com"
         },
         "author": "",

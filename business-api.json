@@ -4,6 +4,226 @@
     "articles": [{
         "source": {
             "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "ANI",
+        "title": "Modi govt failed to deliver on 'tall' promises: Manmohan Singh",
+        "description": "Former Prime Minister Dr Manmohan Singh on Sunday hit out at the Bharatiya Janata Party (BJP) government for making 'tall' promises and failing to deliver on them.",
+        "url": "http://www.dnaindia.com/india/report-modi-govt-failed-to-deliver-on-tall-promises-manmohan-singh-2595118",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/18/662100-629474-manmohan-2.jpg",
+        "publishedAt": "2018-03-18T16:05:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Livemint.com"
+        },
+        "author": "PTI",
+        "title": "Hindustan Infralog acquires 90% stake in Continental Warehousing",
+        "description": "Continental Warehousing Corporation’s founders, the Reddy family, will retain the remaining 10% shareholding and stay involved in the business operations after Hindustan Infralog’s acquisition",
+        "url": "http://www.livemint.com/Companies/jCQOHr1ptz8ybNNRnEvJXO/Hindustan-Infralog-acquires-90-stake-in-Continental-Warehou.html",
+        "urlToImage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/03/19/Photos/Processed/rs-kBDI--621x414@LiveMint.jpg",
+        "publishedAt": "2018-03-18T15:58:48Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Deadline For Income Tax Returns Filing Only 2 Weeks Away. 10 Points",
+        "description": "There is a provision for the belated income tax (I-T) return filing before 31 March, 2018 for the two preceding years",
+        "url": "https://www.ndtv.com/business/deadline-for-income-tax-returns-filing-just-2-weeks-away-1825161",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-02/income-tax_650x400_61518518990.jpg",
+        "publishedAt": "2018-03-18T15:57:33Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Only 16% of initial GST returns filed for July-Dec matched with final returns",
+        "description": "India Business News: With only 16 per cent of the summary sales returns under GST matching with the final returns, the revenue department has started to analyse major gaps",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/only-16-of-initial-gst-returns-filed-for-july-dec-matched-with-final-returns/articleshow/63356994.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-63357068,width-1070,height-580,imgsize-179656,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2018-03-18T15:48:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Livemint.com"
+        },
+        "author": "Shrutika Verma",
+        "title": "Cafe chain Chaayos names Ajay Kaul as chief advisor amid its big expansion plans",
+        "description": "Chaayos, which serves customized tea and snacks, looks to add 25 new stores over the next 9 months and plans to take this number to 325 over the next 5 years",
+        "url": "http://www.livemint.com/Companies/ooWJmWB8dzSW5qu5bZ5x3M/Cafe-chain-Chaayos-names-Ajay-Kaul-as-chief-advisor-amid-its.html",
+        "urlToImage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/03/19/Photos/Processed/chaayos-kvbE--621x414@LiveMint.jpg",
+        "publishedAt": "2018-03-18T15:47:14Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Only 5% of adult Indians establish own business: Survey",
+        "description": "A report, prepared by Gandhinagar-based Entrepreneurship Development Institute (EDI) of India, throws light on India's entrepreneurial activity.",
+        "url": "https://economictimes.indiatimes.com/industry/miscellaneous/only-5-of-adult-indians-establish-own-business-survey/articleshow/63356372.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63356566,width-672,resizemode-4,imgsize-71153/entrepreneur.jpg",
+        "publishedAt": "2018-03-18T14:54:49Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "Another IndiGo A320neo withdrawn over P&W engine concerns",
+        "description": "According to a source, the airline was forced to ground the aircraft after metal chip particles were detected in the jet’s engine oil after it completed the Bengaluru-New Delhi flight on Sunday morning.",
+        "url": "https://www.hindustantimes.com/india-news/another-indigo-a320neo-withdrawn-over-p-w-engine-concerns/story-iQGWXHgEBf2Pkvp6HfEjqO.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/18/Pictures/indigo-aircrafts-ramesh-igi-airport-photographed-pathania_857333c2-2aac-11e8-a8dd-98cd3615fcfa.jpg",
+        "publishedAt": "2018-03-18T14:21:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Oneindia.com"
+        },
+        "author": "Deepika",
+        "title": "Ola-Uber drivers strike from Monday: All you need to know",
+        "description": "If you are having trouble finding an Uber or Ola for yourself, it is because 3,000 of their drivers have threatened indefinite strike alleging 'mismanagement' by these companies.",
+        "url": "https://www.oneindia.com/india/ola-uber-drivers-strike-from-monday-you-need-to-know-2661233.html",
+        "urlToImage": "https://www.oneindia.com/img/2018/03/olauberstrike-1521380635.jpg",
+        "publishedAt": "2018-03-18T13:46:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Financialexpress.com"
+        },
+        "author": "FE Online",
+        "title": "GoAir vs Jet Airways vs AirAsia: Check cheapest air tickets on offer",
+        "description": "Wanna fly to your desired destination in the country but don't want to burn a hole in your pocket? Some of the best airlines in India are now at a loggerhead, such as GoAir, Jet Airways and AirAsia to offer great and affordable flight fares.",
+        "url": "http://www.financialexpress.com/infrastructure/airlines-aviation/goair-vs-jet-airways-vs-airasia-check-cheapest-air-tickets-on-offer/1102910/",
+        "urlToImage": "http://images.financialexpress.com/2018/03/Airlines-Fres.jpg",
+        "publishedAt": "2018-03-18T13:35:28Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Companies gear up for summer, with launches and offers",
+        "description": "Makers of appliances expect sales to be higher by up to 30 percent, following the Met department prediction of intense heat wave this season.",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/durables/companies-gear-up-for-summer-with-launches-and-offers/articleshow/63355459.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63355483,width-672,resizemode-4,imgsize-40325/energy-standards-lawsuit.jpg",
+        "publishedAt": "2018-03-18T12:45:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "India.com"
+        },
+        "author": "Zee Media Bureau",
+        "title": "Vietnam's 'bikini airline' Vietjet to start direct flights to India soon",
+        "description": "The budget airline will operate four flights between Vietnam`s capital Ho Chi Minh City and New Delhi every week starting between July and August 2018.",
+        "url": "http://zeenews.india.com/companies/vietnams-bikini-airline-vietjet-to-start-direct-flights-to-india-soon-2091080.html",
+        "urlToImage": "http://ste.india.com/sites/default/files/2018/03/18/669337-final-vietjet.jpg",
+        "publishedAt": "2018-03-18T12:41:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Newsworldindia.in"
+        },
+        "author": null,
+        "title": "Indian Airports Needs An Increase In Infrastructure To Deal With Growing Traffic",
+        "description": "Airports in India are at higher risk of saturation with increasing passenger numbers. They are working beyond their current capabilities and need to expand it.",
+        "url": "http://www.newsworldindia.in/business/indian-airports-need-an-increase-in-infrastructure-airport-traffic/291992/",
+        "urlToImage": "http://www.newsworldindia.in/public/media_uploads/mediayoh2GettyImages-159915684-56fa4cb25f9b582986725dd8.jpg",
+        "publishedAt": "2018-03-18T11:04:15Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Businesstoday.in"
+        },
+        "author": null,
+        "title": "Paul Krugman's views on Donald Trump's protectionist policies, Indian economy and more",
+        "description": "Trump's views of America were",
+        "url": "https://www.businesstoday.in/current/economy-politics/paul-krugman-on-donald-trump-protectionist-policies-indian-economy/story/272862.html",
+        "urlToImage": "https://smedia2.intoday.in/btmt/images/stories/paulkrugman_505_070617042152_031818023734.jpg",
+        "publishedAt": "2018-03-18T09:13:25Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "DNA Web Team",
+        "title": "Sebi imposes Rs 10 lakh fine on NDTV, Rs 3 lakh each on 4 executives including Prannoy Roy",
+        "description": "The Securities and Exchange Board of India (SEBI) has imposed a fine of Rs 10 lakh on media outlet New Delhi Television Limited (NDTV) over lapses in mandatory income tax disclosures.",
+        "url": "http://www.dnaindia.com/business/report-sebi-imposes-rs-10-lakh-fine-on-ndtv-rs-3-lakh-each-on-4-executives-including-prannoy-roy-2595018",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/18/661990-ndtv-prannoy-roy.jpg",
+        "publishedAt": "2018-03-18T08:31:56Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "Press Trust of India",
+        "title": "IOC, BPCL may buy 26% stake each in GAIL at more than Rs 400 billion",
+        "description": "At Friday's closing price of Rs 440.85 a share for GAIL on BSE, the stake is worth close to Rs 410 billion",
+        "url": "http://www.business-standard.com/article/companies/ioc-bpcl-may-buy-26-stake-each-in-gail-at-more-than-rs-400-billion-118031800123_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2016-03/16/full/1458127903-2219.jpg",
+        "publishedAt": "2018-03-18T08:16:46Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Zeebiz.com"
+        },
+        "author": "ZeeBiz WebTeam",
+        "title": "7th Pay Commission: Arun Jaitley may offer good news to govt employees in April",
+        "description": "7th Pay Commission: The last pay panal had recommended 2.7 per cent increase in basic pay of central government employees under the 7th Pay Commission, which increased their minimum basic pay from Rs 7,000 to Rs 18,000. But the central government officials ha…",
+        "url": "http://www.zeebiz.com/india/news-7th-pay-commission-arun-jaitley-may-offer-good-news-to-govt-employees-in-april-39531",
+        "urlToImage": "http://stz.india.com/sites/default/files/2018/03/18/31691-notes-reuters.jpg",
+        "publishedAt": "2018-03-18T08:09:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Tech Desk",
+        "title": "Spotify to launch its services in India, says CEO Daniel Ek",
+        "description": "Spotify - the most-popular music streaming service in the world right now - is planning to start its services in India. Spotify competes with Apple and Amazon in the global music streaming service space.",
+        "url": "http://indianexpress.com/article/technology/social/spotify-music-streaming-app-to-launch-its-services-in-india-says-ceo-daniel-ek-5102001/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/spotify-india.jpg?w=759",
+        "publishedAt": "2018-03-18T07:37:59Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "E-wallet will address GST refund issue of exporters: Suresh Prabhu",
+        "description": "India News: ​​Under the e-wallet mechanism, a notional credit would be transferred to exporters' accounts based on their past record and the credit can be used to",
+        "url": "https://timesofindia.indiatimes.com/india/e-wallet-will-address-gst-refund-issue-of-exporters-suresh-prabhu/articleshow/63351875.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-63351899,width-1070,height-580,imgsize-1250492,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2018-03-18T05:03:42Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Chethan Kumar",
+        "title": "Rs 11300 crore lying unclaimed with 64 banks, shows RBI data",
+        "description": "India Business News: ​The largest amount — Rs 1,262 crore — is lying with the State Bank of India, Rs 1,250 crore with PNB, while all other nationalised banks together hol",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/rs-11300-crore-lying-unclaimed-with-64-banks-shows-rbi-data/articleshow/63349951.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-63349955,width-1070,height-580,imgsize-1528214,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2018-03-17T22:11:29Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": null,
+        "title": "Scams and frauds: Why blockchain technology is need of the hour in Indian financial sector",
+        "description": "Financial frauds and money laundering have become the latest buzzwords sabotaging the future of India’s financial sector.",
+        "url": "http://www.firstpost.com/business/scams-and-frauds-why-blockchain-technology-is-need-of-the-hour-in-indian-financial-sector-4394085.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2017/12/blockchain-1280p.jpg",
+        "publishedAt": "2018-03-17T11:38:26Z"
+    }, {
+        "source": {
+            "id": null,
             "name": "Outlookindia.com"
         },
         "author": null,

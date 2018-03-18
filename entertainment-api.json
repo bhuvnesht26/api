@@ -3,6 +3,226 @@
     "totalResults": 20,
     "articles": [{
         "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Express Web Desk",
+        "title": "Raid box office collection day 3: Ajay Devgn's film expected to collect over Rs 30 crore in the first weekend",
+        "description": "Ajay Devgn's latest outing Raid is going strong at the theatres. Having collected a total of Rs 23.90 crore, the film is all set to give the rest of the releases a run for their money. With average reviews from critics, what has really worked in Raid's favour…",
+        "url": "http://indianexpress.com/article/entertainment/bollywood/box-office-collection/raid-box-office-collection-day-3-ajay-devgn-film-5102413/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/raid-79.jpg?w=759",
+        "publishedAt": "2018-03-18T15:02:29Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "Amitabh Bachchan, Abhishek Bachchan share adorable pics with Shweta Bachchan on her birthday",
+        "description": "On Saturday, Shweta turned 44. Her dad and Bollywood superstar Amitabh Bachchan posted a photo with her on Instagram.",
+        "url": "https://www.hindustantimes.com/bollywood/amitabh-bachchan-abhishek-bachchan-share-adorable-pics-with-shweta-bachchan-on-her-birthday/story-IbHF7D5EtyRDtMcHdNWwgI.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/18/Pictures/_e71e535a-2ab5-11e8-9f95-06a811d7e716.JPG",
+        "publishedAt": "2018-03-18T14:10:12Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatvnews.com"
+        },
+        "author": "Written by : India TV Lifestyle Desk",
+        "title": "Aditi Rao Hydari, Nushrat Bharucha and Radhika Apte cast spell on onlookers in Manish Malhotra's ensembles",
+        "description": "Fashion News – In a statement, the designer said that the collection was inspired from ''verdant valleys of Kashmir.''",
+        "url": "https://www.indiatvnews.com/lifestyle/fashion-aditi-rao-hydari-nushrat-bharucha-and-radhika-apte-cast-spell-on-onlookers-in-manish-malhotra-s-ensembles-433255",
+        "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/03/manish-1521380593.jpg",
+        "publishedAt": "2018-03-18T13:47:00Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Check out this special poster of Ram Charan's 'Rangasthalam'",
+        "description": "Ram Charan and director Sukumar have teamed up for ‘Rangasthalam’, which is tipped to be a social drama. On the auspicious occasion of Ugadi today, th",
+        "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/check-out-this-special-poster-of-ram-charans-rangasthalam/articleshow/63355931.cms",
+        "urlToImage": "https://static.toiimg.com/photo/msid-63355932/63355932.jpg?161457",
+        "publishedAt": "2018-03-18T13:39:00Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Sunil Grover wishes 'good luck' to Kapil for new show",
+        "description": "Comedian Sunil Grover wished luck to his former \"The Kapil Sharma Show\" co-star Kapil Sharma for his upcoming show despite the latter accusing him of",
+        "url": "https://timesofindia.indiatimes.com/tv/news/hindi/sunil-grover-wishes-good-luck-to-kapil-for-new-show/articleshow/63355663.cms",
+        "urlToImage": "https://static.toiimg.com/photo/msid-63355663/63355663.jpg?90472",
+        "publishedAt": "2018-03-18T13:10:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Deccanchronicle.com"
+        },
+        "author": "deccan chronicle",
+        "title": "When Radhika Apte slapped a famous South actor on the first day of her film shoot",
+        "description": "The actress made several interesting revelations on a TV show which she featured in alongside Rajkummar Rao.",
+        "url": "https://www.deccanchronicle.com/entertainment/bollywood/180318/radhika-apte-slap-south-superstar-vogue-bffs-rajkummar-varma-ekta.html",
+        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-a25f2lfvf0ae4e169mjjuionn5-20180318174125.Medi.jpeg",
+        "publishedAt": "2018-03-18T12:26:13Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Yeh Hai Mohabbatein written update, March 17, 2018: Raman promises Ishita that he will never leave her",
+        "description": "The latest episode of Yeh Hai Mohabbatein starts with Raman waking up from his dreams and he shouts that he wants to go to the asylum. He requests Man",
+        "url": "https://timesofindia.indiatimes.com/tv/news/hindi/yeh-hai-mohabbatein-written-update-march-17-2018-raman-promises-ishita-that-he-will-never-leave-her/articleshow/63355161.cms",
+        "urlToImage": "https://static.toiimg.com/photo/msid-63355161/63355161.jpg?55480",
+        "publishedAt": "2018-03-18T12:12:01Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Amitabh Bachchan Is 'Angry', Might Loose Rights To Father's Work. Here's Why",
+        "description": "Big B wrote, \"I fight for it\"",
+        "url": "https://www.ndtv.com/entertainment/amitabh-bachchan-is-angry-might-loose-rights-to-fathers-work-heres-why-1825411",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-03/amitabh-bachchan-facebook_650x400_51521373493.jpg",
+        "publishedAt": "2018-03-18T11:50:47Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "'Bharat Ane Nenu': Mahesh Babu wishes fans on Ugadi with a new poster",
+        "description": "Mahesh Babu is gearing up for his next big release ‘Bharat Ane Nenu’ and wishing his fans on the occasion of Ugadi today, Mahesh released a new poster",
+        "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/bharat-ane-nenu-mahesh-babu-wishes-fans-on-ugadi-with-a-new-poster/articleshow/63354965.cms",
+        "urlToImage": "https://static.toiimg.com/photo/msid-63354975/63354975.jpg?199544",
+        "publishedAt": "2018-03-18T11:41:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Khaleejtimes.com"
+        },
+        "author": "Staff Report",
+        "title": "Salman Khan returns to Abu Dhabi to shoot new Bollywood movie 'Race 3'",
+        "description": "The shoot will be carried out in six locations over 35 days.",
+        "url": "https://www.khaleejtimes.com/citytimes/in-the-city/salman-khan-returns-to-abu-dhabi-to-shoot-new-bollywood-movie-race-3",
+        "urlToImage": "https://www.khaleejtimes.com/storyimage/KT/20180318/ARTICLE/180319108/AR/0/AR-180319108.jpg&NCS_modified=\r\n&imageversion=1by1&exif=.jpg",
+        "publishedAt": "2018-03-18T11:36:07Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Deccanchronicle.com"
+        },
+        "author": "The Asian Age.",
+        "title": "Watch: Hrithik's mother lifts weights like a pro at 63, actor posts endearing message",
+        "description": "The superstar shared his mother's workout video on Instagram and had some lovely words to say about it.",
+        "url": "https://www.deccanchronicle.com/entertainment/bollywood/180318/hrithik-roshan-mother-pinky-workout-weight-instagram-endearing-message.html",
+        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-a25f2lfvf0ae4e169mjjuionn5-20180318165833.Medi.jpeg",
+        "publishedAt": "2018-03-18T11:34:33Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": null,
+        "title": "Zero: Here's everything that has been happening on the sets of this Shah Rukh Khan starrer",
+        "description": "Zero, the Shah Rukh Khan, Katrina Kaif and Anushka Sharma starrrer film is certainly one of the most awaited films of this year. The film's team has been sharing a lot of pictures from the sets and that has made the audience even more curious about this film.",
+        "url": "http://indianexpress.com/photos/entertainment-gallery/zero-stills-shah-rukh-khan-katrina-kaif-anushka-sharma-film-5102057/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/zero-stills-shah-rukh-khan-katrina-kaif-anushka-sharma-film-410.jpg?w=410",
+        "publishedAt": "2018-03-18T10:48:08Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "When Sanjay Dutt cried 3 years after his mother's death!",
+        "description": "In Sanjay Dutt: The Crazy Untold Story of Bollywood’s Bad Boy, Yasser Usman tells Sanjay’s story - the good, the bad and, at times, the disastrously absurd, the conflicts, the mistakes, the many heartbreaking tragedies, and the overwhelming triumphs.",
+        "url": "https://www.hindustantimes.com/bollywood/when-sanjay-dutt-cried-3-years-after-his-mother-s-death/story-A3TZutu9K9H7LsIdeycstN.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/18/Pictures/film-actor-sanjay-dutt_61e713b4-2a99-11e8-9f95-06a811d7e716.jpg",
+        "publishedAt": "2018-03-18T10:47:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Gulte.com"
+        },
+        "author": "23",
+        "title": "Bunny Silently Helping Rangasthalam!",
+        "description": "However, ditching all those differences, Bunny has come forward to offer olive branch to Charan.",
+        "url": "http://www.gulte.com/movienews/65057/Bunny-Silently-Helping-Rangasthalam",
+        "urlToImage": "http://www.gulte.com/content/2018/03/news/1521364728-161.jpg",
+        "publishedAt": "2018-03-18T09:20:16Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "IndiaToday.in",
+        "title": "PHOTOS: Taimur's overjoyed to have dad Saif Ali Khan back home, is blissful in his arms",
+        "description": "At the age of one, Taimur Ali Khan already has the makings of a star. The chote nawab has the most adorable poses for",
+        "url": "https://www.indiatoday.in/movies/star-kids/story/taimur-latest-photo-kareena-kapoor-saif-ali-khan-1192084-2018-03-18",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/saif_taimur.jpeg?fwHZSxJe7_VSJ5.ZEje4tqZiTPUeN.SJ",
+        "publishedAt": "2018-03-18T08:59:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ibtimes.co.in"
+        },
+        "author": "Shekhar H Hooli",
+        "title": "Ugadi 2018 special: Rajugadu teaser, Sammohanam poster and Nara Rohith's Shabdham",
+        "description": "Raj Tarun's Rajugadu teaser and Sudheer Babu's Sammohanam poster have been unveiled. Nara Rohith's 18th movie's title and Samanatha's Mahanati release date were also announced on Ugadi.",
+        "url": "http://www.ibtimes.co.in/ugadi-2018-special-rajugadu-teaser-sammohanam-poster-nara-rohiths-shabdham-764170",
+        "urlToImage": "http://data1.ibtimes.co.in/en/full/683477/rajugadu-sammohanam-shabdham-mahanati.jpg",
+        "publishedAt": "2018-03-18T08:53:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "PTI",
+        "title": "Ranbir Kapoor said no to Band Baaja Baraat: Ranveer Singh",
+        "description": "Ranveer said his mentor and producer Aditya Chopra had made him aware that he is \"not a conventionally good-looking boy\". The actor also mentioned that it his responsibility to entertain people.",
+        "url": "http://indianexpress.com/article/entertainment/bollywood/ranveer-singh-5101938/",
+        "urlToImage": "http://images.indianexpress.com/2018/02/ranveer-singh.jpg?w=759",
+        "publishedAt": "2018-03-18T06:02:11Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": "",
+        "title": "News 18's Rising India Summit: Kangana Ranaut says being truly fearless has come with a price of its own",
+        "description": "Kangana Ranaut was among the speakers at News 18's Rising India Summit on 17 March, 2018. In a discussion which ranged from her stand on nepotism to being truly fearless, Ranaut shared her thoughts eloquently.",
+        "url": "http://www.firstpost.com/entertainment/news-18s-rising-india-summit-kangana-ranaut-says-being-truly-fearless-has-come-with-a-price-of-its-own-4394607.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/03/kangana-ranaut-380.jpg",
+        "publishedAt": "2018-03-17T15:22:50Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Express Web Desk",
+        "title": "Shriya Saran ties the knot with Andrei Koscheev in Mumbai: Reports",
+        "description": "Shriya Saran, who has also acted in several Hindi, Tamil and Telugu films, got married to her Russian boyfriend Andrei Koscheev on March 12 in an intimate ceremony at her home in Mumbai.",
+        "url": "http://indianexpress.com/article/entertainment/bollywood/shriya-saran-married-to-russian-boyfriend-5101012/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/shriya-saran-759.jpg?w=759",
+        "publishedAt": "2018-03-17T09:41:51Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "Padmaavat enters Rs 300 cr club, but still no match to Aamir Khan, Salman Khan's stardom",
+        "description": "The other six films to enter the club include are PK, Bajrangi Bhaijaan, Sultan, Dangal, Tiger Zinda Hai and Baahubali 2 (Hindi). Of these, Baahubali The Conclusion is the only film to break into the Rs 500 crore club, solely in Hindi.",
+        "url": "https://www.hindustantimes.com/bollywood/padmaavat-enters-rs-300-cr-club-but-still-no-match-to-aamir-khan-salman-khan-s-stardom/story-8Pc1R7tvy5eP0TcKOcLJNL.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/17/Pictures/_6ac3f37c-29b2-11e8-9f95-06a811d7e716.jpg",
+        "publishedAt": "2018-03-17T07:28:48Z"
+    }, {
+        "source": {
             "id": "the-times-of-india",
             "name": "The Times of India"
         },

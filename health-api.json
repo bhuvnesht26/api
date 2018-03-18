@@ -4,6 +4,226 @@
     "articles": [{
         "source": {
             "id": null,
+            "name": "Webindia123.com"
+        },
+        "author": null,
+        "title": "Cancer alertness bike rally arrives in Nagaland",
+        "description": "A team of 34 persons on 17 bikes are on a campaign to create awareness on the ill effects of tobacco consumption which is also the major cause of cancer.North Eastern Region reports around 45,000 different cases of cancer every year.According to sources the c…",
+        "url": "https://news.webindia123.com/news/articles/India/20180318/3301117.html",
+        "urlToImage": null,
+        "publishedAt": "2018-03-18T15:11:57Z"
+    }, {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": null,
+        "title": "Low sperm count can mean shorter lifespan, study finds",
+        "description": "A new study of over 5,000 men has found those with a low sperm count are more likely to suffer from a number of health issues and have an overall increased risk of illness.",
+        "url": "https://www.rt.com/news/421626-sperm-count-health-risks/",
+        "urlToImage": "https://cdni.rt.com/files/2018.03/article/5aae6831fc7e93b6778b45e6.jpg",
+        "publishedAt": "2018-03-18T13:25:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dailytelegraph.com.au"
+        },
+        "author": "Laura Albulario",
+        "title": "New stem cell treatment for common eye ailments",
+        "description": "VISION is widely agreed to be the most valued of our five senses, and when our eyes aren’t working properly, it can tip our whole sense of wellbeing off balance.",
+        "url": "https://www.dailytelegraph.com.au/newslocal/manly-daily/new-stem-cell-treatment-for-common-eye-ailments/news-story/5f12094520b3d0f1b03d2bca0530d84c",
+        "urlToImage": "https://cdn.newsapi.com.au/image/v1/3b68f9805949f861bc0c2ad859b2bf81",
+        "publishedAt": "2018-03-18T13:02:43Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Psychcentral.com"
+        },
+        "author": "View all posts by Traci Pedersen →",
+        "title": "Many OCD Patients Tend to Use Poor Coping Strategies",
+        "description": "People with obsessive-compulsive disorder (OCD) tend to fall back on maladaptive coping strategies such as rumination and thought suppression, according to new research; this even though adaptive coping skills such as acceptance and problem-solving could impr…",
+        "url": "https://psychcentral.com/news/2018/03/18/many-ocd-patients-are-using-poor-coping-strategies/133861.html",
+        "urlToImage": "https://dri6hp6j35hoh.cloudfront.net/news/u/2018/03/obsessive-compulsive-disorder-worried-Man-large-bigstock-1024x1024.jpg",
+        "publishedAt": "2018-03-18T12:31:11Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "IANS",
+        "title": "Keep stomach calm with ginger, fennel seeds",
+        "description": "Make it a habit of having one spoon of fennel seeds after every meal. It will surely give you remarkable health benefits. Chewing the seeds or making tea with it will stimulate the secretion of digestive enzymes, that further reduces heartburn, inflammation o…",
+        "url": "http://indianexpress.com/article/lifestyle/health/keep-stomach-calm-with-ginger-fennel-seeds-5102338/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/panch-phoran.jpg?w=759",
+        "publishedAt": "2018-03-18T12:31:01Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "IANS",
+        "title": "Cancer survivors get more easily fatigued: Study",
+        "description": "These findings support the idea that a history of cancer is associated with higher fatigability and that this effect worsens with advancing age.",
+        "url": "http://indianexpress.com/article/lifestyle/health/cancer-survivors-get-more-easily-fatigued-study-5102347/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/breast-cancer_759.jpg?w=759",
+        "publishedAt": "2018-03-18T12:17:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Deccanchronicle.com"
+        },
+        "author": "PTI",
+        "title": "Patients with prostate, bladder cancers five times more likely to commit suicide",
+        "description": "The analysis also showed that cancer patients are about three times more likely to commit suicide than the general population.",
+        "url": "https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/180318/patients-with-prostate-bladder-cancers-five-times-more-likely-to-comm.html",
+        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-boaul00cko6v3qnop0um1hu3f6-20180318171815.Medi.jpeg",
+        "publishedAt": "2018-03-18T11:50:33Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "PTI",
+        "title": "'Obesity paradox' is a myth: study",
+        "description": "The researchers suggest that the previous confusion over the \"obesity paradox\" may be due to many factors that can confound results of studies.",
+        "url": "http://indianexpress.com/article/lifestyle/health/obesity-paradox-is-a-myth-study-5102330/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/obese-woman-eating-thinkstock-2.jpg?w=759",
+        "publishedAt": "2018-03-18T11:49:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Thehealthsite.com"
+        },
+        "author": "Editorial Team",
+        "title": "Easy tips to maintain a healthy diet this summer",
+        "description": "If you are finding it difficult to keep a check on your diet than it is time to improve it in a few easy ways.",
+        "url": "http://www.thehealthsite.com/news/easy-tips-to-maintain-a-healthy-diet-this-summer-ag0318/",
+        "urlToImage": "http://www.thehealthsite.com/wp-content/uploads/2018/01/Healthy-snacks-for-each-day-of-the-week.jpg",
+        "publishedAt": "2018-03-18T11:05:40Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Techtimes.com"
+        },
+        "author": "Allan Adamson",
+        "title": "Artificial Sweetener Splenda May Worsen Symptoms Of Crohn's Disease",
+        "description": "In a six-week study, researchers gave mice with Crohn's-like disease water with the artificial sweetener Splenda. What side effects did they observe in the animals with the inflammatory bowel disease?",
+        "url": "http://www.techtimes.com/articles/223215/20180318/artificial-sweetener-splenda-may-worsen-symptoms-of-crohns-disease.htm",
+        "urlToImage": "http://image.techtimes.com/data/images/full/326480/splenda.jpg",
+        "publishedAt": "2018-03-18T10:55:43Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "PTI",
+        "title": "Water may exist in Earth's lower mantle, shows diamonds study",
+        "description": "The tiny traces of crystallized water, trapped in spaces called inclusions that measure just a few microns (millionths of a meter) in length, contain the molecular signature of ice VII.",
+        "url": "https://economictimes.indiatimes.com/news/science/water-may-exist-in-earths-lower-mantle-shows-diamonds-study/articleshow/63354574.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63354563,width-672,resizemode-4,imgsize-383234/earth-crust.jpg",
+        "publishedAt": "2018-03-18T10:49:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Newsghana.com.gh"
+        },
+        "author": "https://www.facebook.com/PeoplesDaily",
+        "title": "WHO Applauds China's Management of Organ Donation and Transplant",
+        "description": "China has made progress in organ donation and transplant management, and the country’s efforts on the sector are worth learning for Asia and the world as a whole, according to a representative of the World Health Organization (WHO). China’s organ transplant i…",
+        "url": "https://www.newsghana.com.gh/who-applauds-chinas-management-of-organ-donation-and-transplant/",
+        "urlToImage": "https://www.newsghana.com.gh/wp-content/uploads/2018/03/German-professor-Nashan.png",
+        "publishedAt": "2018-03-18T09:54:55Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "Press Trust of India",
+        "title": "Campaign against TB launched",
+        "description": "A door-to-door survey  titled 'Hungama to End TB' was launched in the slums here to  identify people suffering from tuberculosis.\nThe drive was launched by Berhampur MLA R C  Chyaupatnaik yesterday in the presence of Berhamupur Municipal",
+        "url": "http://www.business-standard.com/article/pti-stories/campaign-against-tb-launched-118031800226_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+        "publishedAt": "2018-03-18T07:35:37Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "ANI",
+        "title": "Young Indians in the radar of glaucoma",
+        "description": "With over 70% of the Indians at a risk of developing glaucoma, on an average, over two lakh of them lose vision.It is known to be a silent ailment that can lead to blindness and hence creating awareness among the masses is necessary to prevent",
+        "url": "http://www.business-standard.com/article/news-ani/young-indians-in-the-radar-of-glaucoma-118031800212_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+        "publishedAt": "2018-03-18T07:32:37Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ksl.com"
+        },
+        "author": "https://www.facebook.com/kslcom/",
+        "title": "Dementia study links your risk with your fitness level",
+        "description": "Your stamina — or the time it takes for you to reach peak exhaustion during exercise — can be tied to your dementia risk, and a new study reveals how.",
+        "url": "https://www.ksl.com/?sid=46280524&nid=1010",
+        "urlToImage": "http://img.ksl.com/slc/2617/261714/26171469.jpg?filter=ksl/responsive_story_lg",
+        "publishedAt": "2018-03-18T02:00:46Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Bbc.com"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "More evidence essential oils 'make male breasts develop'",
+        "description": "A study finds chemicals in lavender and tea tree oil appear to be hormone disruptors.",
+        "url": "http://www.bbc.com/news/health-43429933",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CD87/production/_100451625_essentialoils_gettyimages-185279091.jpg",
+        "publishedAt": "2018-03-18T01:25:08Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Thestar.com"
+        },
+        "author": null,
+        "title": "Does she look like a leader? Not if she's a woman, study shows",
+        "description": "The capacity to “take charge,” which is strongly associated with one’s ability to lead, continues to be considered a largely male characteristic.",
+        "url": "https://www.thestar.com/news/world/2018/03/16/does-she-look-like-a-leader-not-if-shes-a-woman-study-shows.html",
+        "urlToImage": "https://www.thestar.com/content/dam/thestar/news/world/2018/03/16/does-she-look-like-a-leader-not-if-shes-a-woman-study-shows/leadership_gender.jpg",
+        "publishedAt": "2018-03-17T21:15:44Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Wwlp.com"
+        },
+        "author": null,
+        "title": "FDA begins push to cut addictive nicotine in cigarettes",
+        "description": "Federal health officials took the first step Thursday to slash levels of addictive nicotine in cigarettes.",
+        "url": "http://wwlp.com/2018/03/17/fda-begins-push-to-cut-addictive-nicotine-in-cigarettes/",
+        "urlToImage": "https://lintvwwlp.files.wordpress.com/2018/03/cigarettes.jpg",
+        "publishedAt": "2018-03-17T14:37:30Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "New Mobile Application May Reduce Stroke Risk; Try These Foods That May Help Too!",
+        "description": "According to a study published in the journal Circulation, a new mobile application has been developed that can detect atrial fibrillation, a leading cause of stroke, and can timely prevent heart-related complications",
+        "url": "https://www.ndtv.com/food/new-mobile-application-may-reduce-stroke-risk-try-these-foods-that-may-help-too-1825103",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-02/heart-disease-in-women_650x400_51519711377.jpg",
+        "publishedAt": "2018-03-17T10:16:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Theconversation.com"
+        },
+        "author": "Mark Turner",
+        "title": "Have we got the causes of type 2 diabetes wrong?",
+        "description": "A new study suggests that high blood-sugar levels are an effect rather than a cause of type 2 diabetes.",
+        "url": "http://theconversation.com/have-we-got-the-causes-of-type-2-diabetes-wrong-93326",
+        "urlToImage": "https://images.theconversation.com/files/210607/original/file-20180315-104699-705w3i.jpg?ixlib=rb-1.1.0&rect=0%2C49%2C998%2C498&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2018-03-16T14:51:00Z"
+    }, {
+        "source": {
+            "id": null,
             "name": "Express.co.uk"
         },
         "author": "Matt Atherton",

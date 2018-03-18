@@ -1,7 +1,18 @@
 {
     "status": "ok",
-    "totalResults": 3,
+    "totalResults": 1,
     "articles": [{
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Liz Mathew",
+        "title": "Rahul Gandhi's 2019 battle cry: Like Kauravas vs Pandavas, fight between truth and lies",
+        "description": "In a scathing attack on Prime Minister Narendra Modi, Rahul Gandhi said, “Modiji thinks he is an avatar of God. Modi is not fighting corruption, he is corruption.”",
+        "url": "http://indianexpress.com/article/india/rahul-gandhis-2019-battle-cry-like-kauravas-vs-pandavas-fight-between-truth-and-lies-congress-plenary-session-5102443/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/rahul-gandhi-congress1.jpg?w=759",
+        "publishedAt": "2018-03-18T15:52:48Z"
+    }, {
         "source": {
             "id": "the-times-of-india",
             "name": "The Times of India"
