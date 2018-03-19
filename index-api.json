@@ -4,6 +4,226 @@
     "articles": [{
         "source": {
             "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "Reuters",
+        "title": "Transition deal alone won't let banks stall Brexit moves: industry officials",
+        "description": "LONDON (Reuters) - London-based banks and other financial firms won't put their Brexit moves on hold despite a transition deal between Britain and the European Union as it lacks full legal certainty, industry officials said on Monday.",
+        "url": "http://www.business-standard.com/article/reuters/transition-deal-alone-won-t-let-banks-stall-brexit-moves-industry-officials-118031901222_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+        "publishedAt": "2018-03-19T17:36:54Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "PTI",
+        "title": "Sexual harassment case: JNU students protest against police 'inaction'",
+        "description": "Accusing the police of disregarding the procedures, 54 professors of the university demanded registration of separate FIRs on the basis of all eight sexual harassment complaints against Johri.",
+        "url": "http://indianexpress.com/article/cities/delhi/sexual-harassment-case-jnu-students-protest-against-police-inaction-5103676/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/jnuprotests759.jpg?w=759",
+        "publishedAt": "2018-03-19T17:06:09Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "BS Web Team",
+        "title": "Karnataka Lingayat religion row: Congress' decision a blow for BJP? updates",
+        "description": "Our fight is not new, it has been a 900-year-old fight and it has taken a shape now: Lingayat seers",
+        "url": "http://www.business-standard.com/article/politics/karnataka-polls-siddaramaiah-accepts-lingayat-demand-for-separate-religious-status-10-highlights-118031900672_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-01/13/full/1515838984-1692.jpg",
+        "publishedAt": "2018-03-19T16:36:51Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "AP",
+        "title": "Facebook data whistleblower: 'fake news to the next level'",
+        "description": "Chris Wylie said the firm, Cambridge Analytica, secured personal data in order to learn about individuals and then used it to create an information cocoon to change their perceptions.",
+        "url": "https://economictimes.indiatimes.com/news/international/business/facebook-data-whistleblower-fake-news-to-the-next-level/articleshow/63370654.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63370671,width-672,resizemode-4,imgsize-17598/facebook-data-whistleblower-fake-news-to-the-next-level.jpg",
+        "publishedAt": "2018-03-19T16:21:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "IANS",
+        "title": "As Saudi crown prince visits US, he says women are 'absolutely' equal",
+        "description": "Crown Prince acknowledged that Saudi Arabia has been dominated by 'ultraconservative interpretation of Islam' that was wary of non-Muslims",
+        "url": "http://www.business-standard.com/article/international/as-saudi-crown-prince-visits-us-he-says-women-are-absolutely-equal-118031900485_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2017-11/26/full/1511710432-3194.jpg",
+        "publishedAt": "2018-03-19T15:22:07Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "Mamata non-committal on KCR's proposal to keep Congress out of anti-BJP platform",
+        "description": "K Chandrashekhar Rao has been advocating a non-BJP, non-Congress forum ahead of the 2019 general elections.",
+        "url": "https://www.hindustantimes.com/india-news/mamata-non-committal-on-kcr-s-proposal-to-keep-congress-out-of-anti-bjp-platform/story-h5Ei3Qym1Gh02ImcuvATUI.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/19/Pictures/mamata-banerjee-meets-kalvakuntla-chandrashekhar-rao_4bb28b84-2b87-11e8-a5fc-524b5b61153f.jpg",
+        "publishedAt": "2018-03-19T15:20:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Express News Service",
+        "title": "After Majithia, Arvind Kejriwal says sorry to Nitin Gadkari, Amit Sibal",
+        "description": "Arvind Kejriwal has expressed his regret to Union Minister Nitin Gadkari for unverified allegations and asked to \"put the incident behind\" them \"in the spirit of mutual respect.\"",
+        "url": "http://indianexpress.com/article/india/now-arvind-kejriwal-expresses-regret-to-nitin-gadkari-seeks-closure-of-defamation-case-5103330/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/arvind-kejriwal.jpg?w=759",
+        "publishedAt": "2018-03-19T15:09:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "West Wary As Putin Wins Fourth Term With Record Vote",
+        "description": "Russia's Vladimir Putin secured another six years in power after a record election win, but international leaders were slow to congratulate him Monday amid a new spike in tensions, as opponents accused him of vote rigging",
+        "url": "https://www.ndtv.com/world-news/west-wary-as-vladimir-putin-wins-fourth-term-with-record-vote-1825890",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-03/putin-reuters_650x400_41521459387.jpg",
+        "publishedAt": "2018-03-19T14:14:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "DNA Web Team",
+        "title": "Ceasefire violation: India summons Pak envoy, lodges strong protest over civilian deaths in J&K",
+        "description": "India today summoned the Pakistan envoy and lodged a strong protest against the killing of five civilians in \"unprovoked firing\" by Pakistani forces, terming the incident \"highly deplorable\".",
+        "url": "http://www.dnaindia.com/india/report-ceasefire-violation-india-summons-pak-envoy-lodges-strong-protest-over-civilian-deaths-in-jk-2595438",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/19/662433-jammu-ceasefire-pti-1.jpg",
+        "publishedAt": "2018-03-19T14:08:06Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Memory for a lifetime: Dinesh Karthik on last-ball six",
+        "description": "Cricket News: Dinesh Karthik is no Hrishikesh Kanitkar or Joginder Sharma but the Indian batsman is not complaining about the \"memories of a lifetime\" that his last",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-sri-lanka-bangladesh-tri-series/memory-for-a-lifetime-dinesh-karthik-on-last-ball-six/articleshow/63368397.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-63368399,width-1070,height-580,imgsize-1247924,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2018-03-19T13:34:38Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "Press Trust of India",
+        "title": "Pak disappointed at India for not issuing visas to pilgrims",
+        "description": "Pakistan today expressed disappointment at  India for not issuing visas to more than 500 Pakistani pilgrims for visiting the famed shrine of Khawaja Moinuddin Chishti in Ajmer, which New Delhi said could not take place in view of the prevailing",
+        "url": "http://www.business-standard.com/article/pti-stories/pak-disappointed-at-india-for-not-issuing-visas-to-pilgrims-118031900860_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+        "publishedAt": "2018-03-19T13:33:34Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Redmi 5, Mi TV 4, Mi TV 4A to Go on Sale in India Tomorrow",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/mobiles/news/redmi-5-next-flash-sale-march-20-amazon-xiaomi-website-mi-tv-4a-sale-flipkart-1825686",
+        "urlToImage": "https://i.gadgets360cdn.com/large/xiaomi_redmi_5_1521445053215.jpg",
+        "publishedAt": "2018-03-19T13:23:10Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "IndiaToday.in,Nisha Singh",
+        "title": "CBSE Class 10 English paper: Board to compensate for textual error in passage section",
+        "description": "Central Board of Secondary Education (CBSE) has recently conducted class 10 English paper on March 12 as part of its",
+        "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-10-english-paper-board-to-compensate-for-textual-error-in-passage-section-1192825-2018-03-19",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/cbse_english_paper.jpeg?YF1uwtmCTr73Ah1q_0w7H_UlJ.6BXdRf",
+        "publishedAt": "2018-03-19T13:09:34Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "News18.com"
+        },
+        "author": "Contributor Content",
+        "title": "APTET 2017-18 Result Expected Soon, Know Passing Criteria!",
+        "description": "Candidates who had appeared for Andhra Pradesh Teacher Eligibility Test (December 2017) must keep a tab on the official website and follow the instructions below to download their result as and when it is released by CSEAP.",
+        "url": "https://www.news18.com/news/india/aptet-2017-18-result-expected-soon-know-passing-criteria-1693823.html",
+        "urlToImage": "https://images.news18.com/ibnlive/uploads/2018/03/APTET.jpg",
+        "publishedAt": "2018-03-19T10:57:00Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Janhvi Kapoor thanks Madhuri Dixit for stepping into Sridevi's role in Abhishek Varman's next film",
+        "description": "Sridevi’s untimely demise took the country by storm. Not only were the near and dear ones affected but her fans too couldn’t bear the loss. The late actress was going to be a part of Karan Johar's upcoming production being helmed by Abhishek Verman.  Today, S…",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/photo-features/janhvi-kapoor-thanks-madhuri-dixit-for-stepping-into-sridevis-role-in-abhishek-varmans-next-film/photostory/63366217.cms",
+        "urlToImage": "https://static.toiimg.com/photo/63366217.cms",
+        "publishedAt": "2018-03-19T10:56:31Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "BS Web Team",
+        "title": "Fodder scam: CBI convicts Lalu Prasad; RJD blames Modi, BJP: 10 highlights",
+        "description": "The fourth fodder scam case is related to the fraudulent withdrawal of Rs 31.3 million from Dumka treasury in 1990s",
+        "url": "http://www.business-standard.com/article/current-affairs/fourth-fodder-scam-case-lalu-prasad-convicted-jagannath-mishra-acquited-rjp-blames-modi-govt-top-10-developments-118031900536_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-03/19/full/1521455103-2161.jpg",
+        "publishedAt": "2018-03-19T10:49:35Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiablooms.com"
+        },
+        "author": "Indiablooms",
+        "title": "Kashmir: Geelani resigns as the chairman of Tehreek-e-Hurriyat",
+        "description": "Srinagar, Mar 19 (IBNS): Hurriyat leader Syed Ali Shah Geelani on Monday has stepped down from his post as the chairman of the Tehreek-e-Hurriyat, media reports said.",
+        "url": "https://www.indiablooms.com/news-details/N/38669/kashmir-geelani-resigns-as-the-chairman-of-tehreek-e-hurriyat.html",
+        "urlToImage": "https://www.indiablooms.com/news_pic/2018/1-1521454312.jpg",
+        "publishedAt": "2018-03-19T10:12:54Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Newindianexpress.com"
+        },
+        "author": null,
+        "title": "Special status to Andhra Pradesh has become a national topic now, says CM Chandrababu Naidu",
+        "description": "He also did not spare Jana Sena Party and said its chief Pawan Kalyan was indulging in political opportunism too.",
+        "url": "http://www.newindianexpress.com/states/andhra-pradesh/2018/mar/19/special-status-to-andhra-pradesh-has-become-a-national-topic-now-says-cm-chandrababu-naidu-1789356.html",
+        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/3/16/w600X390/Chandrababu_Naidu.jpg",
+        "publishedAt": "2018-03-19T08:56:14Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Uniindia.com"
+        },
+        "author": "Uniindia News Service",
+        "title": "Apex court throws out PIL to disqualify Bihar CM",
+        "description": "New Delhi, Mar 19 (UNI)The Supreme Court on Monday negated a Public Interest Litigation seeking disqualification of Bihar Chief Minister, Nitish Kumar for alleged concealment of a criminal case against him in his election affidavit.",
+        "url": "http://www.uniindia.com/apex-court-throws-out-pil-to-disqualify-bihar-cm/india/news/1172521.html",
+        "urlToImage": "http://www.uniindia.com//images/stripad.png",
+        "publishedAt": "2018-03-19T08:12:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": null,
+        "title": "Rahul Gandhi just doesn't get it; beyond trashing Modinomics, there's nothing in Congress' economic resolution",
+        "description": "Much of the economic resolution presents vague generalities, apart from the section that lambasts the Modi government’s economic management record.",
+        "url": "http://www.firstpost.com/india/rahul-gandhi-just-doesnt-get-it-beyond-trashing-modinomics-theres-nothing-in-congress-economic-resolution-4395853.html",
+        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/03/Rahul-Congress-plenary.png",
+        "publishedAt": "2018-03-19T06:44:57Z"
+    }, {
+        "source": {
+            "id": null,
             "name": "Indianexpress.com"
         },
         "author": "Ashameera Aiyappan",
