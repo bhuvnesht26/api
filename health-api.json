@@ -4,6 +4,226 @@
     "articles": [{
         "source": {
             "id": null,
+            "name": "Deccanchronicle.com"
+        },
+        "author": "ANI",
+        "title": "How hidden calories can ruin your weight loss plan",
+        "description": "One dietitian reveals how a diet meal can be full of extra calories.",
+        "url": "https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/210318/how-hidden-calories-can-ruin-your-weight-loss-plan.html",
+        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-osb7i3b7m6f034s7qlgcgd3df2-20180321091315.Medi.jpeg",
+        "publishedAt": "2018-03-21T03:47:34Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "News18.com"
+        },
+        "author": "IANS",
+        "title": "Lap-Band Surgery May Lower Chronic Knee Pain",
+        "description": "Obese people experience knee pain relief from lap-band surgery.",
+        "url": "https://www.news18.com/news/lifestyle/health-and-fitness-lap-band-surgery-may-lower-chronic-knee-pain-1695333.html",
+        "urlToImage": "https://images.news18.com/ibnlive/uploads/2017/08/knee-implasnt.jpg",
+        "publishedAt": "2018-03-21T03:47:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Pharmabiz.com"
+        },
+        "author": null,
+        "title": "Chugai Pharma receives Japanese approval for long-acting erythropoiesis stimulating agent, Mircera to treat renal ...",
+        "description": null,
+        "url": "http://www.pharmabiz.com/NewsDetails.aspx?aid=107908&sid=2",
+        "urlToImage": null,
+        "publishedAt": "2018-03-21T03:26:53Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Deccanchronicle.com"
+        },
+        "author": null,
+        "title": "Depression can cause memory problems, says study",
+        "description": "New Delhi, Mar 21 (ANI): Depression is a serious and common mood disorder. Living with depression can lead to a",
+        "url": "https://www.deccanchronicle.com/videos/health-fitness/depression-can-cause-memory-problems-says-study.html",
+        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/videos/video-Cover-mar21v7__NO8415QL_640x480-45298.jpg",
+        "publishedAt": "2018-03-21T02:17:31Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Financialexpress.com"
+        },
+        "author": "FE Online",
+        "title": "TB in India: Doctors, chemists, hospital authorities can land in jail; here is why",
+        "description": "With an aim to eradicate tuberculosis (TB) in India, the Centre has issued stringent rules. The Union Health Ministry has issued a notification stating that doctors, druggists, chemists and hospital authorities could face a jail term of six months to two year…",
+        "url": "http://www.financialexpress.com/india-news/tb-in-india-doctors-chemists-hospital-authorities-can-land-in-jail-here-is-why/1105760/",
+        "urlToImage": "http://images.financialexpress.com/2018/03/tb-99.jpg",
+        "publishedAt": "2018-03-21T02:12:28Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "News18.com"
+        },
+        "author": "IANS",
+        "title": "Poor Dental Health Linked To Diabetes Risk",
+        "description": "Dental examination may provide a way to identify the risk of developing Diabetes.",
+        "url": "https://www.news18.com/news/lifestyle/health-and-fitness-poor-dental-health-linked-to-diabetes-risk-1695265.html",
+        "urlToImage": "https://images.news18.com/ibnlive/uploads/2016/12/Teeth.jpg",
+        "publishedAt": "2018-03-21T01:58:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": "Smitha R",
+        "title": "Want to take care of your heart? Don't ignore your teeth!",
+        "description": "The study compared the oral hygiene and periodontal status between 30 patients who suffered from acute myocardial infarction (commonly known as heart attack) and 30 healthy individuals",
+        "url": "http://www.dnaindia.com/health/report-want-to-take-care-of-your-heart-don-t-ignore-your-teeth-2596015",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/21/663015-dentists-and-dental-students-032118.jpg",
+        "publishedAt": "2018-03-21T01:10:29Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Express News Service",
+        "title": "Campaign highlights TB-tobacco use link, urges smokers to get tested",
+        "description": "India became the first country in the world to run a national tobacco control campaign with the launch of 'Cough' on World No Tobacco Day in 2017.",
+        "url": "http://indianexpress.com/article/cities/pune/campaign-highlights-tb-tobacco-use-link-urges-smokers-to-get-tested/",
+        "urlToImage": "http://images.indianexpress.com/2018/01/tobacco-759.jpg?w=759",
+        "publishedAt": "2018-03-21T00:56:45Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Adil Akhzer",
+        "title": "Fighting vector-borne diseases: 15 notices issued, says health dept",
+        "description": "Dr Upendrajeet Singh Gill, Assistant Director Malaria, union territory health department, said that the malaria wing has been directed to take strict action against the violators of the city’s civic norms",
+        "url": "http://indianexpress.com/article/cities/chandigarh/fighting-vector-borne-diseases-15-notices-issued-says-health-dept-5105277/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/vector.jpg?w=759",
+        "publishedAt": "2018-03-21T00:06:23Z"
+    }, {
+        "source": {
+            "id": "daily-mail",
+            "name": "Daily Mail"
+        },
+        "author": "http://www.dailymail.co.uk/home/search.html?s=&authornamef=Press+Association, By Press Association",
+        "title": "Double mastectomy increases survival chances of women with breast cancer gene",
+        "description": "Removal of both breasts reduces chances of cancer death for BRCA1 but not BRCA2 gene mutation carriers",
+        "url": "http://www.dailymail.co.uk/wires/pa/article-5524957/Double-mastectomy-increases-survival-chances-women-breast-cancer-gene.html",
+        "urlToImage": "http://i.dailymail.co.uk/1/2018/03/20/23/wire-2541640-1521587072-523_636x382.jpg",
+        "publishedAt": "2018-03-20T23:04:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Vanguardngr.com"
+        },
+        "author": "View all posts by Tony →",
+        "title": "USAID, other stakeholders brainstorm on sustainable financing for TB programmes",
+        "description": "ABUJA - The United States Agency for International Development, USAID, the World Health Organisation, WHO, and other stakeholders in the Stop Tuberculosis (TB) Partnership, on Tuesday, deliberated on ways to ensure increased financing to end TB scourge in Nig…",
+        "url": "https://www.vanguardngr.com/2018/03/usaid-stakeholders-brainstorm-sustainable-financing-tb-programmes/",
+        "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2018/02/Tuberculosis.png",
+        "publishedAt": "2018-03-20T22:27:21Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "PREETI DAS",
+        "title": "Gujarat: Doctors' panel decides against surgery on 11-yr-old rape victim's child",
+        "description": "The baby girl, who was born on March 17 at the civil hospital in Rajkot, was shifted to Ahmedabad on the same day because of a congenital defect called spina bifida, a condition in which her spine and spinal cord have failed to develop fully, leaving her para…",
+        "url": "http://indianexpress.com/article/cities/ahmedabad/gujarat-doctors-panel-decides-against-surgery-on-rape-victims-child-5105170/",
+        "urlToImage": "http://images.indianexpress.com/2017/12/doctors-759.jpg?w=759",
+        "publishedAt": "2018-03-20T21:47:45Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Theonlineclarion.com"
+        },
+        "author": "Jessica Deegan",
+        "title": "Stress Reduction Workshop held twice a month during spring",
+        "description": "By student request, Madison College will hold a Stress Reduction Workshop every first and third Thursday throughout the spring semester. The goal for Massage Therapy Program Director and instructor Amy Nicholson is to connect with individuals around campus wh…",
+        "url": "https://www.theonlineclarion.com/news/2018/03/20/stress-reduction-workshop-held-twice-month-spring/",
+        "urlToImage": "/wp-content/uploads/2014/06/clarion-website-logo-2014.png",
+        "publishedAt": "2018-03-20T21:09:59Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Thv11.com"
+        },
+        "author": null,
+        "title": "Pope Co. Sheriff's Office receives Naloxone overdose kits",
+        "description": "The 40 kits are for all deputies at the department.",
+        "url": "http://www.thv11.com/article/news/health/opioids/saving-a-generation/pope-co-sheriffs-office-receives-naloxone-overdose-kits/91-530305964",
+        "urlToImage": "http://content.thv11.com/photo/2018/03/20/popedeputies_1521570446637_13653016_ver1.0.png",
+        "publishedAt": "2018-03-20T18:28:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Medscape.com"
+        },
+        "author": null,
+        "title": "Ketogenic Diet: Which Patients Benefit?",
+        "description": "Long a treatment for epilepsy, ketogenic diets are being studied for conditions ranging from cancer to diabetes.",
+        "url": "https://www.medscape.com/viewarticle/894041",
+        "urlToImage": "https://img.medscape.com/thumbnail_library/is_180314_ketogenic_diet_800x600.jpg",
+        "publishedAt": "2018-03-20T16:40:31Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Propublica.org"
+        },
+        "author": "ProPublica",
+        "title": "How We Collected Nearly 5000 Stories of Maternal Harm",
+        "description": "Asking if readers knew women who died or almost died in childbirth drew an outpouring that carries lessons for both traditional and engaged journalism.",
+        "url": "https://www.propublica.org/article/how-we-collected-nearly-5-000-stories-of-maternal-harm",
+        "urlToImage": "https://assets.propublica.org/images/articles/20170210-maternal-mortality-1200x630.jpg?1521589636",
+        "publishedAt": "2018-03-20T15:28:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Telanganatoday.com"
+        },
+        "author": "TelanganaToday",
+        "title": "TS Govt to set up cancer screening units in all districts",
+        "description": "The Medical and Health Department is trying to set up cancer screening centres in all the district headquarters of the State, Minister for Medical and Health C Laxma Reddy said here on Tuesday.",
+        "url": "http://telanganatoday.com/cancer-screening-units-in-all-districts-soon",
+        "urlToImage": "https://cdn.telanganatoday.com/wp-content/uploads/2017/12/Telangana-Tday-News.jpg",
+        "publishedAt": "2018-03-20T15:00:32Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Columbusparent.com"
+        },
+        "author": "Christina Ching, M.D.",
+        "title": "Pediatric HealthSource: Urinary Tract Infections",
+        "description": "Tips on treatment and prevention",
+        "url": "http://www.columbusparent.com/lifestyle/20180319/pediatric-healthsource-urinary-tract-infections",
+        "urlToImage": "http://www.columbusparent.com/storyimage/OH/20180319/LIFESTYLE/303199917/AR/0/AR-303199917.jpg",
+        "publishedAt": "2018-03-20T14:43:23Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "Oral health may indicate a person's diabetes risk: Research",
+        "description": "People with poor oral health may have an increased risk of developing diabetes, a new study warns.",
+        "url": "https://www.hindustantimes.com/health/oral-health-may-indicate-a-person-s-diabetes-risk-research/story-bYPZqNYjW9A3tr36T9DhHI.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/20/Pictures/_c407e838-2c3e-11e8-a965-f54d0b6b9edf.jpg",
+        "publishedAt": "2018-03-20T13:05:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Financialexpress.com"
+        },
+        "author": "FE Online",
+        "title": "Delhi kids highly affected by Type 1 diabetes; out of 1 lakh children, 32 are suffering from this disease",
+        "description": "India is host to 97,000 children who suffer from Type 1 Diabetes with near about 32 per lakh affected in Delhi. It is a disease where the immune system in a person destroys the insulin-producing cells living in the pancreas which leaves the child dependent on…",
+        "url": "http://www.financialexpress.com/lifestyle/health/delhi-kids-highly-affected-by-type-1-diabetes-out-of-1-lakh-children-32-are-suffering-from-this-disease/1105165/",
+        "urlToImage": "http://images.financialexpress.com/2018/03/diabetes.jpg",
+        "publishedAt": "2018-03-20T12:54:41Z"
+    }, {
+        "source": {
+            "id": null,
             "name": "Webindia123.com"
         },
         "author": null,
@@ -320,764 +540,6 @@
         "url": "http://www.greensboro.com/news/local_news/delicate-and-disposable-small-strips-that-measure-blood-sugar-levels/article_4995b31a-f59d-5960-959e-c067e6a8f181.html",
         "urlToImage": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/9/f4/9f465287-e9f9-57f3-a346-15f3f7c75bcc/5aac955da7946.image.jpg?crop=1485%2C1114%2C187%2C0&resize=840%2C630&order=crop%2Cresize",
         "publishedAt": "2018-03-18T00:41:45Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Dnaindia.com"
-        },
-        "author": "dna Correspondent",
-        "title": "For a healthy body, take care of your mouth",
-        "description": "Oral health is the gateway for overall good health and teeth are the guardians of this health, says Patel",
-        "url": "http://www.dnaindia.com/ahmedabad/report-for-a-healthy-body-take-care-of-your-mouth-2594938",
-        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/18/661915-dentists.jpg",
-        "publishedAt": "2018-03-18T00:35:55Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Dnaindia.com"
-        },
-        "author": "Maitri Porecha",
-        "title": "DNA Exclusive | Medanta Hospital found guilty of charging five times more for blood: Report",
-        "description": "DNA has an exclusive copy of the probe report, which found that while the state-government has fixed the price of Random Donor Platelets (RDPs) at Rs 400 per unit, Medanta charged close to five times more per unit: Rs 1,950 per unit.",
-        "url": "http://www.dnaindia.com/delhi/report-dna-exclusive-medanta-hospital-found-guilty-of-charging-five-times-more-for-blood-report-2594930",
-        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/18/661909-medantahosp.jpg",
-        "publishedAt": "2018-03-18T00:11:02Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Thefreepress.ca"
-        },
-        "author": "Wire Service",
-        "title": "Free breast cancer screening",
-        "description": "<p>Early detection saving lives </p>",
-        "url": "https://www.thefreepress.ca/local-news/free-breast-cancer-screening/",
-        "urlToImage": "https://www.thefreepress.ca/wp-content/uploads/2018/03/10956928_web1_smp-mobile-mammography-service.jpg",
-        "publishedAt": "2018-03-17T20:43:43Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Asianage.com"
-        },
-        "author": "B. R. Srikanth",
-        "title": "Brain dead: The great tragedy of Alzheimer's disease",
-        "description": "Since changes in the brain begin long before the first signs of memory loss, catching the risk for AD at early stages could well be the key.",
-        "url": "http://www.asianage.com/decaf/180318/brain-dead-the-great-tragedy-of-alzheimers-disease.html",
-        "urlToImage": "http://images.asianage.com/images/aa-Cover-kftenijo4dj9hnphoq8h82f605-20180318015858.Medi.jpeg",
-        "publishedAt": "2018-03-17T20:38:44Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Interestingengineering.com"
-        },
-        "author": "",
-        "title": "New 3D Tissue Heart Model Could Save Expecting Mothers",
-        "description": "A team of bioengineers redesigned how stem cells formed tissues to mimic how a baby's heart forms in the womb. This could streamline how researchers test and prescribe medication for mothers.",
-        "url": "https://interestingengineering.com/new-3d-tissue-heart-model-could-save-expecting-mothers",
-        "urlToImage": "https://static.interestingengineering.com/images/MARCH/sizes/cardiac_muscle_tissue_md.jpg",
-        "publishedAt": "2018-03-17T20:22:37Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Hindustantimes.com"
-        },
-        "author": null,
-        "title": "Mumbai gets five immunity test machines for HIV patients",
-        "description": "Aayushi Pratap aayushi.pratap@hindustantimes.com MumbaiThe city got five new machines for a crucial test that patients with human immunodeficiency virus (HIV) have to undergo...",
-        "url": "https://www.hindustantimes.com/mumbai-news/mumbai-gets-five-immunity-test-machines-for-hiv-patients/story-0Z1oytTUAJNE7uGZrcM1qM.html",
-        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/18/Pictures/_6fb52604-2a1a-11e8-9f95-06a811d7e716.jpg",
-        "publishedAt": "2018-03-17T19:53:00Z"
-    }, {
-        "source": {
-            "id": "the-hindu",
-            "name": "The Hindu"
-        },
-        "author": "Shubashree Desikan",
-        "title": "A knowledge hub for Indian medicinal plants",
-        "description": "Open source record of plants with “druggable” chemicals will help validate traditional systems",
-        "url": "http://www.thehindu.com/sci-tech/science/a-knowledge-hub-for-medicinal-plants/article23280990.ece",
-        "urlToImage": "http://www.thehindu.com/sci-tech/energy-and-environment/article23284189.ece/ALTERNATES/LANDSCAPE_615/Kariyat",
-        "publishedAt": "2018-03-17T18:56:32Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Pakistantoday.com.pk"
-        },
-        "author": null,
-        "title": "Around 0.6 million children smoke cigarettes daily",
-        "description": "Share this on WhatsApp",
-        "url": "https://www.pakistantoday.com.pk/2018/03/17/around-0-6-million-children-smoke-cigarettes-daily/",
-        "urlToImage": "https://cache.pakistantoday.com.pk/cig-640x360.jpg",
-        "publishedAt": "2018-03-17T18:34:23Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Deccanchronicle.com"
-        },
-        "author": "PTI",
-        "title": "Smart software can diagnose prostate cancer, says study",
-        "description": "Prostate cancer is the most common male cancer, with around 1.1 million diagnoses ever year.",
-        "url": "https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/170318/smart-software-can-diagnose-prostate-cancer-says-study.html",
-        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-mjf2ie462jt4nri9o0gjan0p02-20180106163948.Medi.jpeg",
-        "publishedAt": "2018-03-17T13:03:09Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Orissadiary.com"
-        },
-        "author": "Odisha Diary bureau",
-        "title": "Conditions That Increase The Risk for Heart Disease",
-        "description": "Dr. Naveen Bhamri  Some factors such as having a family history of heart troubles, getting older, smoking, having high cholesterol and blood pressure, and being obese can raise a person’s chances of developing a heart disease. However, there are lesser-known …",
-        "url": "https://orissadiary.com/conditions-increase-risk-heart-disease/",
-        "urlToImage": null,
-        "publishedAt": "2018-03-17T13:01:43Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "New Mobile Application May Reduce Stroke Risk; Try These Foods That May Help Too!",
-        "description": "According to a study published in the journal Circulation, a new mobile application has been developed that can detect atrial fibrillation, a leading cause of stroke, and can timely prevent heart-related complications",
-        "url": "https://www.ndtv.com/food/new-mobile-application-may-reduce-stroke-risk-try-these-foods-that-may-help-too-1825103",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-02/heart-disease-in-women_650x400_51519711377.jpg",
-        "publishedAt": "2018-03-17T10:16:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indiaeducationdiary.in"
-        },
-        "author": "India Education Diary Bureau Admin",
-        "title": "Women Surgeon's Summit 2018 kicked off in Hyderabad to empower all women ophthalmologists in India",
-        "description": "Hyderabad: Over150 women ophthalmologists from all over India congregated in Hyderabad at Women Surgeon’s Summit 2018 to discuss the future of modern eye care. The event was held by Women Ophthalmologists Society (WOS) in association with Alcon, the global le…",
-        "url": "http://indiaeducationdiary.in/women-surgeons-summit-2018-kicked-off-hyderabad-empower-women-ophthalmologists-india/",
-        "urlToImage": "http://indiaeducationdiary.in/wp-content/uploads/2018/03/Dr-5.jpg",
-        "publishedAt": "2018-03-17T12:55:13Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Thehealthsite.com"
-        },
-        "author": "Agencies",
-        "title": "Experimental obesity drug may prevent kidney stones",
-        "description": "Japanese scientists have found that an experimental obesity drug can potentially prevent the formation of kidney stones.",
-        "url": "http://www.thehealthsite.com/news/experimental-obesity-drug-may-prevent-kidney-stones-ag0318/",
-        "urlToImage": "http://www.thehealthsite.com/wp-content/uploads/2018/01/kidney-stones.jpg",
-        "publishedAt": "2018-03-17T12:28:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Canindia.com"
-        },
-        "author": "Author: CanIndia New Wire Service",
-        "title": "Easy ways to improve your diet",
-        "description": "London, March 17 (IANS) If you are finding it difficult to keep a check on your diet than it is time to improve it in a...",
-        "url": "https://www.canindia.com/easy-ways-to-improve-your-diet/",
-        "urlToImage": "",
-        "publishedAt": "2018-03-17T12:04:46Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Tribuneindia.com"
-        },
-        "author": "Tribune News Service",
-        "title": "Exercising during pregnancy reduces time spent in labour",
-        "description": "LONDON: Health starts in the womb and exercising is one of the best ways to give your baby a healthy start, also reducing your time spent in labour.",
-        "url": "http://www.tribuneindia.com/news/health/exercising-during-pregnancy-reduces-time-spent-in-labour/559233.html",
-        "urlToImage": "http://images.tribuneindia.com/cms/gall_content/2018/3/2018_3$largeimg17_Saturday_2018_172314108.jpg",
-        "publishedAt": "2018-03-17T11:53:23Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "IANS",
-        "title": "Omega-3 levels may better predict mortality risk than cholesterol",
-        "description": "\"We all know that the serum cholesterol level is a major risk factor for coronary heart disease (CHD), and since the latter is a major cause of death, it would be reasonable to expect that a high cholesterol level would portend higher risk for premature death…",
-        "url": "http://indianexpress.com/article/lifestyle/health/omega-3-levels-may-better-predict-mortality-risk-than-cholesterol-5101327/",
-        "urlToImage": "http://images.indianexpress.com/2016/09/fish-oil-omega-3-acid-759.jpg?w=759",
-        "publishedAt": "2018-03-17T11:46:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "IANS",
-        "title": "Alzheimer's patients may benefit from cell therapy",
-        "description": "\"We took advantage of the fact that transplanted interneurons can integrate remarkably well into new brain tissues, and that each interneuron can control thousands of excitatory neurons\", said a researcher.",
-        "url": "http://indianexpress.com/article/lifestyle/health/alzheimers-patients-may-benefit-from-cell-therapy-5101319/",
-        "urlToImage": "http://images.indianexpress.com/2016/06/alzheimer_759_thinkstockphotos.jpg?w=759",
-        "publishedAt": "2018-03-17T11:29:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Newindianexpress.com"
-        },
-        "author": null,
-        "title": "Programme to provide free Hepatitis B drugs being developed: Union Health Minister JP Nadda",
-        "description": "The minister also announced free vaccination against Hepatitis B for all health care workers across India.",
-        "url": "http://www.newindianexpress.com/nation/2018/mar/17/programme-to-provide-free-hepatitis-b-drugs-being-developed-union-health-minister-j-p-nadda-1788647.html",
-        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2017/3/21/w600X390/J_P_Nadda_PTI.jpg",
-        "publishedAt": "2018-03-17T11:09:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "New Mobile Application May Reduce Stroke Risk; Try These Foods That May Help Too!",
-        "description": "According to a study published in the journal Circulation, a new mobile application has been developed that can detect atrial fibrillation, a leading cause of stroke, and can timely prevent heart-related complications",
-        "url": "https://www.ndtv.com/food/new-mobile-application-may-reduce-stroke-risk-try-these-foods-that-may-help-too-1825103",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-02/heart-disease-in-women_650x400_51519711377.jpg",
-        "publishedAt": "2018-03-17T10:16:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Pulse.com.gh"
-        },
-        "author": "Abu Mubarik",
-        "title": "Sperm blocking contraceptive being developed",
-        "description": "Male contraceptive that blocks sperm from leaving the penis being developed",
-        "url": "http://www.pulse.com.gh/lifestyle/beauty-health/sperm-blocking-contraceptive-being-developed-id8128970.html",
-        "urlToImage": "https://static.pulse.com.gh/img/incoming/crop8128972/3531849281-chorizontal-w470-h246/4A33047100000578-5502213-image-a-10-1521067647474.jpg",
-        "publishedAt": "2018-03-17T09:53:07Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Thestatesman.com"
-        },
-        "author": null,
-        "title": "How to get that perfect smile",
-        "description": "Regular oral care is an important aspect of overall well-being. From greater self-confidence to a soaring career, healthy teeth can truly transform the positivity of your mind-set and also create that perfect impression.",
-        "url": "https://www.thestatesman.com/lifestyle/how-to-get-that-perfect-smile-1502603279.html",
-        "urlToImage": "https://www.thestatesman.com/wp-content/uploads/2018/03/smile.jpg",
-        "publishedAt": "2018-03-17T09:09:59Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "IANS",
-        "title": "Infant deaths doubled after getting Pentavalent vaccine than DPT: Study",
-        "description": "Government records show that there were 10,612 deaths following vaccination",
-        "url": "http://www.business-standard.com/article/economy-policy/infant-deaths-doubled-after-getting-pentavalent-vaccine-than-dpt-study-118031700229_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2017-12/09/full/1512764604-3792.jpg",
-        "publishedAt": "2018-03-17T08:58:55Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Hindustantimes.com"
-        },
-        "author": null,
-        "title": "6.25 lakh children smoke cigarettes daily in India: Tobacco atlas report",
-        "description": "According to the Global Tobacco Atlas study,  tobacco consumption claims 17,887 lives in India every week, and the economic cost of smoking in India is Rs 1,818,691 million.",
-        "url": "https://www.hindustantimes.com/health/over-6-25-lakh-children-smoke-cigarette-in-india-daily-finds-study/story-EbtXZHTaUpaLn7K4UmsMzL.html",
-        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/17/Pictures/cigarette-in-the-hand_fce7719a-29ba-11e8-a8dd-98cd3615fcfa.jpg",
-        "publishedAt": "2018-03-17T08:34:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Regular Exercise May Prevent Dementia In Women; Try These Foods That May Help Too!",
-        "description": "According to a study published in the medical journal of the American Academy of Neurology, regular exercise and a healthy lifestyle may help prevent dementia in women.",
-        "url": "https://www.ndtv.com/food/regular-exercise-may-prevent-dementia-in-women-try-these-foods-that-may-help-too-1825052",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-02/exercises-for-abs_650x400_51517989065.jpg",
-        "publishedAt": "2018-03-17T07:53:00Z"
-    }, {
-        "source": {
-            "id": "daily-mail",
-            "name": "Daily Mail"
-        },
-        "author": "http://www.dailymail.co.uk/home/search.html?s=&authornamef=Cheyenne+Macdonald+For+Dailymail.com, By Cheyenne Macdonald For Dailymail.com",
-        "title": "Sorry, fellas: Ladies are much more likely to orgasm when they have sex with other WOMEN, according to new research",
-        "description": "In a study of 2,300 women, researchers found ladies were 32 percent more likely to orgasm when romping with the same sex, despite the fact that heterosexual couples had sex more frequently.",
-        "url": "http://www.dailymail.co.uk/sciencetech/article-5511839/Ladies-likely-orgasm-sex-WOMEN.html",
-        "urlToImage": "http://i.dailymail.co.uk/i/newpix/2018/03/17/00/4A445A0300000578-0-image-a-11_1521245535025.jpg",
-        "publishedAt": "2018-03-17T00:47:14Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "Abantika Ghosh",
-        "title": "India's reverse trend: More women have cancer than men",
-        "description": "In new Lancet paper, researchers call for large-scale study to know why",
-        "url": "http://indianexpress.com/article/lifestyle/health/indias-reverse-trend-more-women-have-cancer-than-men-5100713/",
-        "urlToImage": "http://images.indianexpress.com/2018/03/cancer.jpg?w=759",
-        "publishedAt": "2018-03-17T00:22:23Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Aliveforfootball.com"
-        },
-        "author": "By Emily Walters",
-        "title": "Tech Billionaire Pays $10000 To Be Killed And Have His Mind Preserved",
-        "description": "",
-        "url": "http://aliveforfootball.com/2018/03/tech-billionaire-pays-10000-to-be-killed-and-have-his-mind/",
-        "urlToImage": null,
-        "publishedAt": "2018-03-17T00:13:55Z"
-    }, {
-        "source": {
-            "id": "cbc-news",
-            "name": "CBC News"
-        },
-        "author": null,
-        "title": "Platypus milk has protein with potential to fight superbugs",
-        "description": "The milk of the duck-billed platypus has a unique protein with antimicrobial properties that Australian scientists believe could be a new lead in creating antibiotics effective against superbugs.",
-        "url": "http://www.cbc.ca/news/health/platypus-milk-protein-superbugs-1.4579595",
-        "urlToImage": "https://i.cbc.ca/1.4579596.1521219497!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/platypus.jpeg",
-        "publishedAt": "2018-03-16T18:57:28Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Infosurhoy.com"
-        },
-        "author": "Denis Bedoya",
-        "title": "What does a fourth-century beer taste like?",
-        "description": null,
-        "url": "http://www.infosurhoy.com/cocoon/saii/xhtml/en_GB/news/what-does-a-fourth-century-beer-taste-like/",
-        "urlToImage": null,
-        "publishedAt": "2018-03-16T12:56:15Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": "ANI",
-        "title": "World Sleep Day: You can literally just meditate your way to a good night's sleep",
-        "description": "Lack of proper sleep at night leads to anger, anxiety and depression.",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/world-sleep-day-you-can-literally-just-meditate-your-way-to-a-good-nights-sleep/articleshow/63329420.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-63329543,width-672,resizemode-4,imgsize-228530/world-sleep-day-you-can-literally-just-meditate-your-way-to-a-good-nights-sleep.jpg",
-        "publishedAt": "2018-03-16T07:48:23Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "World Sleep Day: Common Mistakes That Could Be Ruining Your Sleep & 5 Foods That May Help",
-        "description": "World Sleep Day: According to experts, one must sleep eight hours a day. Inadequate sleep for a prolonged period of time can trigger a host of health issues like high-stress levels, decreased metabolism and depression.",
-        "url": "https://www.ndtv.com/food/world-sleep-day-common-mistakes-that-could-be-ruining-your-sleep-5-foods-that-may-help-1824603",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-02/sound-sleep_650x400_81519818910.jpg",
-        "publishedAt": "2018-03-16T06:20:26Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indiatvnews.com"
-        },
-        "author": "Edited by : India TV Lifestyle Desk",
-        "title": "Are you suffering from insomnia? These tips can help",
-        "description": "Health News – Lavender, Jasmine, Neroli, and ylang-ylang are very useful for the natural oil therapy for insomnia. The soothing and calm effect of essential oil can prevent you from sleeplessness.",
-        "url": "https://www.indiatvnews.com/lifestyle/health-are-you-suffering-from-insomnia-these-tips-can-help-431944",
-        "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/03/pppp-1520687580.jpg",
-        "publishedAt": "2018-03-10T13:20:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Deccanchronicle.com"
-        },
-        "author": "PTI",
-        "title": "Stored blood may have adverse effects on critically injured patients: Study",
-        "description": "Compared to fresh blood, resuscitation with the stored blood significantly increased bacterial lung injury.",
-        "url": "http://www.deccanchronicle.com/lifestyle/health-and-wellbeing/100318/stored-blood-may-have-adverse-effects-on-critically-injured-patients.html",
-        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vl9j06fr50cmv2ng5900nc2sd3-20180310183518.Medi.jpeg",
-        "publishedAt": "2018-03-10T13:15:22Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Deccanchronicle.com"
-        },
-        "author": "PTI",
-        "title": "Regular exercise slows down ageing process, keeps body active: Study",
-        "description": "Loss of muscle mass and strength did not occur in those who exercise regularly.",
-        "url": "https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/100318/regular-exercise-slows-down-ageing-process-keeps-body-active-study.html",
-        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vl9j06fr50cmv2ng5900nc2sd3-20180310182710.Medi.jpeg",
-        "publishedAt": "2018-03-10T13:01:07Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Hindustantimes.com"
-        },
-        "author": null,
-        "title": "Silent killer: Chronic kidney disease is hurting young adults, and they don't even know it",
-        "description": "If you use steroids or painkillers, have hypertension or high blood pressure, you could be at risk.",
-        "url": "https://www.hindustantimes.com/health/silent-killer-chronic-kidney-disease-is-hurting-young-adults-and-they-don-t-even-know-it/story-AedR2KDSQ2mzmPPevDaxmO.html",
-        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/09/Pictures/medical-accessories_64f9c848-23b0-11e8-925c-925443ac9dfa.jpg",
-        "publishedAt": "2018-03-10T12:25:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Hindustantimes.com"
-        },
-        "author": null,
-        "title": "Diabetes debate: Do I need tight glycemic control?",
-        "description": "How aggressively should one treat Type 2 diabetes? New norms have sparked a debate.",
-        "url": "https://www.hindustantimes.com/columns/diabetes-debate-do-i-need-tight-glycemic-control/story-USOzs6KGs3hIod6Cw2JU2H.html",
-        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/10/Pictures/_9d4c9148-245b-11e8-8baa-23f2d497fa41.jpg",
-        "publishedAt": "2018-03-10T12:11:53Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Your Stress Can Affect Your Partner's Brain Too, Says Study; Eat These Foods To Beat Stress",
-        "description": "A study published in the journal Nature Neuroscience has found that stress may be contagious and even its effects on the brain may be transferred to people around.",
-        "url": "https://www.ndtv.com/food/your-stress-can-affect-your-partners-brain-too-says-study-eat-these-foods-to-beat-stress-1822182",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-02/stress_650x400_41519282837.jpg",
-        "publishedAt": "2018-03-10T11:50:34Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Deccanchronicle.com"
-        },
-        "author": "reuters",
-        "title": "Experts offer advice for extreme allergic reaction",
-        "description": "Anaphylaxis is a serious and potentially life-threatening condition that typically occurs within seconds to minutes of an allergic exposure.",
-        "url": "https://www.deccanchronicle.com/lifestyle/health-and-wellbeing/100318/experts-offer-advice-for-extreme-allergic-reaction.html",
-        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-vl9j06fr50cmv2ng5900nc2sd3-20180310164629.Medi.jpeg",
-        "publishedAt": "2018-03-10T11:20:34Z"
-    }, {
-        "source": {
-            "id": "mirror",
-            "name": "Mirror"
-        },
-        "author": "Tim Wyatt",
-        "title": "Scientists warn of mysterious and deadly new epidemic called Disease X that could kill millions around the world",
-        "description": "The World Health Organisation has added the unknown future pathogen to a list of deadly threats to mankind",
-        "url": "https://www.mirror.co.uk/news/world-news/scientists-warn-mysterious-deadly-new-12160964",
-        "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article12160973.ece/ALTERNATES/s1200/Filamentous-Ebola-virus-particles-colored-blue-budding-from-a-chronically-infected-VERO-E6-cell-c.jpg",
-        "publishedAt": "2018-03-10T11:03:45Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Livemint.com"
-        },
-        "author": "PTI",
-        "title": "Insomnia may be genetic, say scientists",
-        "description": "Scientists have identified genes that may trigger the development of sleep problems, and have also found a genetic link between insomnia and psychiatric disorders",
-        "url": "http://www.livemint.com/Science/x7AuUZKTcA19TgCVONhVSO/Insomnia-may-be-genetic-say-scientists.html",
-        "urlToImage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/03/12/Photos/Processed/sleep-kd3D--621x414@LiveMint.jpg",
-        "publishedAt": "2018-03-10T10:46:35Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Protein In Saliva Can Prevent Traveller's Diarrhoea; 5 Dietary Tips To Follow For Safe Travel",
-        "description": "Researchers have identified a protein in human saliva that can protect the body from the bacterium that is responsible for causing traveller's diarrhoea.",
-        "url": "https://www.ndtv.com/food/protein-in-saliva-can-prevent-travellers-diarrhoea-5-dietary-tips-to-follow-for-safe-travel-1822151",
-        "urlToImage": "https://i.ndtvimg.com/i/2017-12/loose-motions_650x400_41513081613.jpg",
-        "publishedAt": "2018-03-10T10:12:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Dnaindia.com"
-        },
-        "author": "PTI",
-        "title": "Scientists establish connection between bowel inflammation and heart diseases",
-        "description": "Scientists have found strong connections between Inflammatory Bowel Disease (IBD) and heart attacks.",
-        "url": "http://www.dnaindia.com/health/report-scientists-establish-connection-between-bowel-inflammation-and-heart-diseases-2592543",
-        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/10/659423-478261-437733-436509-heart-attack-afp.jpg",
-        "publishedAt": "2018-03-10T09:50:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Thehealthsite.com"
-        },
-        "author": "Upneet Pansare",
-        "title": "Weight loss of 65: MP inspector, fat-shamed by Shobhaa De, undergoes bariatric surgery",
-        "description": "Famous bariatric surgeon, Dr Muffazal Lakdawala, conducted the weight loss surgery on Jogawat at Saifee Hospital after the MP inspector was fat-shamed by Shobhaa De in her viral tweet.",
-        "url": "http://www.thehealthsite.com/news/weight-loss-of-65-mp-inspector-fat-shamed-by-shobhaa-de-undergoes-bariatric-surgery-x0318/",
-        "urlToImage": "http://www.thehealthsite.com/wp-content/uploads/2018/03/Untitled.png",
-        "publishedAt": "2018-03-10T09:46:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Vitamin D May Cut Heart Failure Risk After Heart Attack; Top 5 Foods Rich In Vitamin D",
-        "description": "A recent study conducted on mice has found that regular consumption of vitamin D can reduce risk of heart failure after a heart attack.",
-        "url": "https://www.ndtv.com/food/vitamin-d-may-cut-heart-failure-risk-after-heart-attack-top-5-foods-rich-in-vitamin-d-1822119",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-01/fish_650x400_61516012013.jpg",
-        "publishedAt": "2018-03-10T08:39:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Uniindia.com"
-        },
-        "author": "Uniindia News Service",
-        "title": "Global leaders meeting in Delhi next week to fast-track End TB efforts",
-        "description": "Kolkata, Mar 10 (UNI)  Building on the momentum being created globally to end tuberculosis, world’s top infectious killer disease, leaders from across the globe are converging here for an End TB Summit beginning March 13 to review ongoing efforts and accelera…",
-        "url": "http://www.uniindia.com/global-leaders-meeting-in-delhi-next-week-to-fast-track-end-tb-efforts/states/news/1163287.html",
-        "urlToImage": "http://www.uniindia.com//images/stripad.png",
-        "publishedAt": "2018-03-10T07:47:37Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "27 prisoners in UP's Dasna Jail found HIV positive",
-        "description": "27 prisoners in UP’s Dasna Jail found HIV positive.At least 27 prisoners in Ghaziabad’s Dasna Jail have been found to be infected with HIV virus. In light of the matter, medical officers have ordered an HIV test for all 5,000 inmates. Ghaziabad Chief Medical …",
-        "url": "https://timesofindia.indiatimes.com/videos/city/lucknow/27-prisoners-in-ups-dasna-jail-found-hiv-positive/videoshow/63244173.cms",
-        "urlToImage": "https://timesofindia.indiatimes.com/photo/63244173.cms",
-        "publishedAt": "2018-03-10T07:44:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Deccanchronicle.com"
-        },
-        "author": "deccan chronicle",
-        "title": "Genes that make elephants resistant to cancer also found in humans",
-        "description": "The study says that since all vertebrates evolved from a common ancestor, humans also have these anti-cancer genes.",
-        "url": "http://www.deccanchronicle.com/lifestyle/health-and-wellbeing/100318/discovery-genes-elephants-cancer-resistant-humans.html",
-        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-ml81qs8givqn4anbp20aloce01-20180310124834.Medi.jpeg",
-        "publishedAt": "2018-03-10T07:25:46Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Newindianexpress.com"
-        },
-        "author": null,
-        "title": "Can menopause increase the risk of cardiovascular diseases?",
-        "description": "While cardiovascular diseases are generally considered a man's issue, globally, they claim more lives of women than men.",
-        "url": "http://www.newindianexpress.com/lifestyle/health/2018/mar/10/can-menopause-increase-the-risk-of-cardiovascular-diseases-1784989.html",
-        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/3/10/w600X390/ECG-Pexels.jpeg",
-        "publishedAt": "2018-03-10T07:18:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "High-Fiber Diet May Lead To Better Blood Sugar Control And Weight Loss In Type-2 Diabetes Patients",
-        "description": "A new study published in the journal Science has found consuming more dietary fiber can help in the fight against Type 2 diabetes, by promoting a group of healthy gut bacteria.",
-        "url": "https://www.ndtv.com/food/high-fiber-diet-may-lead-to-better-blood-sugar-control-and-weight-loss-in-type-2-diabetes-patients-1822097",
-        "urlToImage": "https://i.ndtvimg.com/i/2017-11/oats-have-great-health-benefits_650x400_51511776820.jpg",
-        "publishedAt": "2018-03-10T07:14:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Citytoday.news"
-        },
-        "author": "CTBUREAU_HS",
-        "title": "Second phase of Pulse Polio campaign from tomorrow",
-        "description": "Mysuru, March 10:- \"Though the World Health Organisation has certified that India is free from polio in 2014, the pulse polio programme will be continued to build a healthy nation. The second phase of",
-        "url": "https://citytoday.news/pulse-polio-immunisation-tomorrow/",
-        "urlToImage": "https://citytoday.news/wp-content/uploads/2018/03/polio.jpg",
-        "publishedAt": "2018-03-10T06:53:54Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Mid-day.com"
-        },
-        "author": null,
-        "title": "Uttar Pradesh forest department learns how leopards and humans co-exist in Aarey Colony, SGNP",
-        "description": "After Uttarakhand, Uttar Pradesh forest dept officials takes note of how leopards and humans co-exist in Aarey Colony and SGNP want to implement the Mumbai model",
-        "url": "https://www.mid-day.com/articles/uttar-pradesh-forest-department-learns-how-leopards-and-humans-co-exist-in-aarey-colony-sgnp/19175196",
-        "urlToImage": "https://images.mid-day.com/images/2018/mar/Dr-Utkarsh-Shukla-l.jpg",
-        "publishedAt": "2018-03-10T05:38:45Z"
-    }, {
-        "source": {
-            "id": "news24",
-            "name": "News24"
-        },
-        "author": null,
-        "title": "Genetic tweak makes plants use 25% less water",
-        "description": "Researchers unveiled a genetic modification that enables plants to use a quarter less water with scant reduction in yield.",
-        "url": "https://www.news24.com/Green/News/genetic-tweak-makes-plants-use-25-less-water-20180307",
-        "urlToImage": "http://cdn.24.co.za/files/Cms/General/d/2549/9dfe1c8003674c0f9bc4f562e8b5e796.jpg",
-        "publishedAt": "2018-03-08T18:48:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Www.nhs.uk"
-        },
-        "author": "NHS Choices",
-        "title": "Vitamin D may reduce the risk of some cancers",
-        "description": "'Vitamin D may offer protection against cancers, study says' The Guardian reports",
-        "url": "https://www.nhs.uk/news/cancer/vitamin-d-may-reduce-risk-some-cancers/",
-        "urlToImage": "https://www.nhs.uk/static/nhsuk_behind_the_headlines/img/open-graph.b2674bec1a4b.png",
-        "publishedAt": "2018-03-08T18:19:59Z"
-    }, {
-        "source": {
-            "id": "reuters",
-            "name": "Reuters"
-        },
-        "author": "Cheryl Platzman Weinstock",
-        "title": "A menthol cigarette ban may influence smokers to quit",
-        "description": "By Cheryl Platzman Weinstock(Reuters Health) - One month after Ontario fully banned menthol in cigarettes, twice as many menthol smokers attempted to quit compared to how many had predicted they would do so in the months leading up to the ban, according to a …",
-        "url": "https://www.reuters.com/article/us-health-smoking-menthol/a-menthol-cigarette-ban-may-influence-smokers-to-quit-idUSKCN1GK2L0",
-        "urlToImage": "https://s4.reutersmedia.net/resources_v2/images/rcom-default.png",
-        "publishedAt": "2018-03-08T18:08:10Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Iflscience.com"
-        },
-        "author": "Robin Andrews",
-        "title": "A Corpse Sent For An Autopsy Turned Out To Have A Pulse",
-        "description": "There’s very little more nightmarish a thought than still being alive while medical professionals cut you open in the mistaken belief that you’re actually",
-        "url": "http://www.iflscience.com/health-and-medicine/corpse-sent-autopsy-turned-out-have-pulse/",
-        "urlToImage": "http://cdn.iflscience.com/images/e884b310-b330-535e-b83a-fa7d2059646f/default-1520519964-cover-image.jpg",
-        "publishedAt": "2018-03-08T18:00:59Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Iol.co.za"
-        },
-        "author": null,
-        "title": "Women's weight gain linked to anxiety",
-        "description": "Women who pile on the kilograms after the menopause are also likely to become more anxious, research suggests.",
-        "url": "https://www.iol.co.za/lifestyle/health/mind/womens-weight-gain-linked-to-anxiety-13656802",
-        "urlToImage": "https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/2018/03/08/iol/822/pexels-photo-801616.jpeg",
-        "publishedAt": "2018-03-08T17:43:58Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Yahoo.com"
-        },
-        "author": "Reuters",
-        "title": "Sanofi may seek US approval for Dengvaxia despite Philippines outrage",
-        "description": "(This story corrects timeframe of filing decision in the United States in paragraphs 10-11)  PARIS (Reuters) - French pharmaceuticals group Sanofi says it will decide shortly whether to seek regulatory approval for dengue vaccine Dengvaxia in the United State…",
-        "url": "https://au.news.yahoo.com/a/39449091/sanofi-may-seek-u-s-approval-for-dengvaxia-despite-philippines-outrage/",
-        "urlToImage": "https://s.yimg.com/yt/y7-assets/0.0.7/images/y7-placeholder.jpg",
-        "publishedAt": "2018-03-08T17:39:23Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": "ET CONTRIBUTORS",
-        "title": "World Kidney Day: Experiencing nausea, weight gain and itching? Here's why you need to be careful",
-        "description": "The number of women taking proper treatment of kidney diseases and dialysis is lower than men.",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/world-kidney-day-experiencing-nausea-weight-gain-and-itching-heres-why-you-need-to-be-careful/articleshow/63219601.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-63220329,width-672,resizemode-4,imgsize-244034/magazines/panache/world-kidney-day-experiencing-nausea-weight-gain-and-itching-heres-why-you-need-to-be-careful.jpg",
-        "publishedAt": "2018-03-08T17:21:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Nydailynews.com"
-        },
-        "author": "Joe Dziemianowicz",
-        "title": "Living in a sunny climate may shield you from MS",
-        "description": "Growing up in a place where there’s lot of sun may guard you from multiple sclerosis decades later.",
-        "url": "http://www.nydailynews.com/life-style/health/living-sunny-climate-shield-ms-article-1.3863094",
-        "urlToImage": "http://assets.nydailynews.com/polopoly_fs/1.3863091.1520527180!/img/httpImage/image.jpg_gen/derivatives/landscape_1200/137086244.jpg",
-        "publishedAt": "2018-03-08T16:44:00Z"
-    }, {
-        "source": {
-            "id": "the-telegraph",
-            "name": "The Telegraph"
-        },
-        "author": "Anne Gulland",
-        "title": "India's most popular diabetes drugs may be harming patients",
-        "description": "Some of the most commonly used drugs for diabetes in India should be banned because they may be harming patients, researchers have warned.",
-        "url": "https://www.telegraph.co.uk/news/0/indias-popular-diabetes-drugs-may-harming-patients/",
-        "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2018/03/06/TELEMMGLPICT000156597543-xlarge_trans_NvBQzQNjv4BqWxBGFlOUcUmFsyFms10hB_IluF4a99fyqLO_rGemLvE.jpeg",
-        "publishedAt": "2018-03-08T16:21:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Thehealthsite.com"
-        },
-        "author": "Debjani Arora",
-        "title": "3 yoga poses for people suffering from type II diabetes",
-        "description": "These asanas help to secrete more insulin, control blood sugar and help in weight management too.",
-        "url": "http://www.thehealthsite.com/fitness/yoga/yoga-poses-for-people-suffering-from-type-2-diabetes-d0318/",
-        "urlToImage": "http://www.thehealthsite.com/wp-content/uploads/2017/10/Yoga-asanas-to-do-after-a-run-to-tone-your-abs-1.jpg",
-        "publishedAt": "2018-03-08T16:13:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Iol.co.za"
-        },
-        "author": null,
-        "title": "#InternationalWomensDay Men must do domestic chores",
-        "description": "South African medical research studies showed that one in three girls and one in four boys were victims of sexual harassment.",
-        "url": "https://www.iol.co.za/sunday-tribune/news/internationalwomensday-men-must-do-domestic-chores-13661370",
-        "urlToImage": "https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/2018/03/08/iol/100/KEEP-THE-PROMISE-2-_1_.jpg",
-        "publishedAt": "2018-03-08T15:46:15Z"
-    }, {
-        "source": {
-            "id": "daily-mail",
-            "name": "Daily Mail"
-        },
-        "author": "http://www.dailymail.co.uk/home/search.html?s=&authornamef=Jack+Flanagan+For+Mailonline, By Jack Flanagan For Mailonline",
-        "title": "Deadly sepsis could be treated by a new drug that ramps up the immune system to fight back",
-        "description": "A new drug to treat sepsis infections could be on the horizon following clinical trials, which acts by revving up a patient's immune system. This is unusual, because antibiotic treatment is more common",
-        "url": "http://www.dailymail.co.uk/health/article-5477603/Sepsis-treated-new-drug-revs-immune-system.html",
-        "urlToImage": "http://i.dailymail.co.uk/i/newpix/2018/03/08/13/4A0169C000000578-0-image-a-74_1520514447717.jpg",
-        "publishedAt": "2018-03-08T14:55:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Genengnews.com"
-        },
-        "author": "Jeffrey S. Buguliskis",
-        "title": "Diarrheal Disease Protection May Literally Be within Spitting Distance",
-        "description": "Researchers have identified a protein in saliva that protects the body from traveler's diarrhea",
-        "url": "https://www.genengnews.com/gen-news-highlights/diarrheal-disease-protection-may-literally-be-within-spitting-distance/81255565",
-        "urlToImage": "https://www.genengnews.com/media/images/genhighlight/Saliva_Baby2159834111.jpg",
-        "publishedAt": "2018-03-08T14:54:47Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Latimes.com"
-        },
-        "author": "Melissa Healy",
-        "title": "DIY or die: How an Australian outback nurse diagnosed his own heart attack and saved his life",
-        "description": "What do you do if you're having a heart attack in a nursing outpost but you're nearly 100 miles away from the nearest medical facility? A 44-year-old nurse in remote Western Australia found himself in that very predicament.",
-        "url": "http://www.latimes.com/science/sciencenow/la-sci-sn-heart-attack-nurse-20180308-story.html",
-        "urlToImage": "http://www.latimes.com/resizer/UaIaCxtrAX95u5eAxHkWzwXfa6U=/1200x0/www.trbimg.com/img-5aa11709/turbine/la-sci-sn-heart-attack-nurse-20180308-thumbnail",
-        "publishedAt": "2018-03-08T13:00:21Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "Trying liquid diet for weight Loss? It can lead to some horrible medical issues!",
-        "description": "Weight loss should not be an impossible process.",
-        "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/weight-loss/trying-liquid-diet-for-weight-loss-it-can-lead-to-some-horrible-medical-issues/articleshow/63218449.cms",
-        "urlToImage": "https://static.toiimg.com/photo/msid-63218534/63218534.jpg?27625",
-        "publishedAt": "2018-03-08T11:43:05Z"
-    }, {
-        "source": {
-            "id": "the-guardian-au",
-            "name": "The Guardian (AU)"
-        },
-        "author": "",
-        "title": "Living kidney donation in UK at eight-year low, says NHS",
-        "description": "Health officials report ‘worrying’ fall in a year in which hundreds died waiting for a transplant",
-        "url": "https://www.theguardian.com/society/2018/mar/08/living-kidney-donation-uk-eight-year-low-nhs",
-        "urlToImage": "https://i.guim.co.uk/img/media/aee81d07c764ef01f5fd6e882002c57e401fae20/675_1011_3642_2185/master/3642.jpg?w=1200&h=630&q=55&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8zMS9mYWNlYm9va19kZWZhdWx0LnBuZw&s=dc4a67fc83e3777b5bc67a862f1feb73",
-        "publishedAt": "2018-03-08T11:13:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Webindia123.com"
-        },
-        "author": null,
-        "title": "Casual, social smoking on rise among young working women in urban India: Survey",
-        "description": "Casual and social smoking is on rise amid young working women across metros in India, noted a recent survey conducted by ASSOCHAM Social Development Foundation ahead of International Women's Day",
-        "url": "https://news.webindia123.com/news/Articles/India/20180308/3293422.html",
-        "urlToImage": null,
-        "publishedAt": "2018-03-08T10:55:12Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Usnews.com"
-        },
-        "author": null,
-        "title": "Study: Babies Who Resemble Fathers Are Healthier",
-        "description": null,
-        "url": "https://www.usnews.com/news/health-care-news/articles/2018-03-07/study-babies-who-resemble-fathers-are-healthier",
-        "urlToImage": null,
-        "publishedAt": "2018-03-07T18:43:36Z"
+
     }]
 }

@@ -1,7 +1,40 @@
 {
     "status": "ok",
-    "totalResults": 20,
+    "totalResults": 1,
     "articles": [{
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": null,
+        "title": "Raj Babbar resigns as Uttar Pradesh Congress chief, say media reports; party yet to accept his resignation",
+        "description": "Actor-turned-politician Raj Babbar has resigned as Uttar Pradesh Congress party president, media reports have said, adding that the party hierarchy is yet to accept his resignation.",
+        "url": "http://www.firstpost.com/politics/raj-babbar-resigns-as-uttar-pradesh-congress-chief-say-media-reports-party-yet-to-accept-his-resignation-4398999.html",
+        "urlToImage": "https://images.firstpost.com/wp-content/uploads/2017/06/Raj_Babbar_AFP.jpg",
+        "publishedAt": "2018-03-21T03:17:53Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "News18.com"
+        },
+        "author": "D P Satish",
+        "title": "As Call for Separate Lingayat Religion Resonates, Here's Why the Sect Matters in Karnataka Politics",
+        "description": "According to political analysts, Lingayats decide the outcome in close to 100 Assembly seats and 14 Lok Sabha seats in the state.",
+        "url": "https://www.news18.com/news/india/analysis-as-call-for-separate-lingayat-religion-resonates-heres-why-the-sect-matters-in-karnataka-politics-1695287.html",
+        "urlToImage": "https://images.news18.com/ibnlive/uploads/2018/03/Lingayat.jpg",
+        "publishedAt": "2018-03-21T02:33:44Z"
+    }, {
+        "source": {
+            "id": "the-hindu",
+            "name": "The Hindu"
+        },
+        "author": "Karthik Madhavan & Wilson Thomas",
+        "title": "Petrol bomb hurled at BJP leader's house in Coimbatore",
+        "description": "According to police, miscreants initially poured fuel on the car and later threw a projectile.",
+        "url": "http://www.thehindu.com/news/national/tamil-nadu/petrol-bomb-hurled-at-bjp-leaders-house-in-coimbatore/article23308823.ece",
+        "urlToImage": "http://www.thehindu.com/news/national/tamil-nadu/article23308822.ece/ALTERNATES/LANDSCAPE_615/BJP%20car%20bomb",
+        "publishedAt": "2018-03-21T04:16:08Z"
+    }, {
         "source": {
             "id": null,
             "name": "Uniindia.com"
@@ -243,335 +276,6 @@
         "url": "https://www.ndtv.com/india-news/up-by-elections-congress-blames-samajwadi-party-for-ruining-joint-front-against-bjp-1822181",
         "urlToImage": "https://i.ndtvimg.com/i/2017-08/raj-babbar_650x400_81502611111.jpg",
         "publishedAt": "2018-03-10T11:39:00Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Scroll.in"
-        },
-        "author": "Scroll Staff",
-        "title": "Tibetan National Uprising Day: PM-in-exile urges China to hold a dialogue with the Dalai Lama",
-        "description": "Lobsang Sangay said 152 Tibetans had self-immolated since 2009 demanding freedom for the region.",
-        "url": "https://scroll.in/latest/871541/tibetan-national-uprising-day-pm-in-exile-urges-china-to-hold-a-dialogue-with-the-dalai-lama",
-        "urlToImage": "https://d1u4oo4rb13yy8.cloudfront.net/book/84156-iudjuhqvet-1520678700.jpg",
-        "publishedAt": "2018-03-10T11:08:45Z"
-}, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": "ET Online",
-        "title": "No decision on GST return simplification, E-Way bill to be implemented from April 1",
-        "description": "“We have decided to form a GoM that will look into the matter and deliberate with IT experts to come up with a possible solution,” said Jaitley.",
-        "url": "https://economictimes.indiatimes.com/small-biz/policy-trends/gst-council-meet-gst-rate-cut-gst-return-form-e-way-bill-composition-scheme-gstr-3b/articleshow/63242719.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-63242721,width-672,resizemode-4,imgsize-3341260/thinkstockphotos-845542008.jpg",
-        "publishedAt": "2018-03-10T10:47:00Z"
-}, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "The only person to benefit from a US-North Korea meeting is Kim Jong-un",
-        "description": "US News: Donald Trump declared while running for the presidency that he would be happy to sit down and “have a hamburger” with Kim Jong-un.",
-        "url": "https://timesofindia.indiatimes.com/world/us/the-only-person-to-benefit-from-a-us-north-korea-meeting-is-kim-jong-un/articleshow/63245684.cms",
-        "urlToImage": "https://static.toiimg.com/photo/msid-63245950/63245950.jpg?718712",
-        "publishedAt": "2018-03-10T10:26:52Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Indiatoday.in"
-        },
-        "author": "India Today",
-        "title": "Shami fiasco: Delhi Daredevils reviewing situation ahead of IPL",
-        "description": "By Kushan Sarkar  New Delhi, Mar 9 (PTI) Indian Premier League franchise Delhi Daredevils are keeping a close",
-        "url": "https://www.indiatoday.in/pti-feed/story/shami-fiasco-delhi-daredevils-reviewing-situation-ahead-of-ipl-1186274-2018-03-09",
-        "urlToImage": "Shami fiasco: Delhi Daredevils reviewing situation ahead of IPL",
-        "publishedAt": "2018-03-10T10:17:57Z"
-}, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "Indian Coast Guard helicopter crashes in Maharashtra's Nandgaon",
-        "description": "India News: NEW DELHI: An Indian Coast Guard helicopter crash landed near Nandgaon in Maharashtra's Raigad district on Saturday, injuring a woman pilot.",
-        "url": "https://timesofindia.indiatimes.com/india/indian-coast-guard-helicopter-crashes-in-maharashtras-nandgaon/articleshow/63245651.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-63246385,width-1070,height-580,imgsize-1198457,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2018-03-10T10:13:00Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Indiatoday.in"
-        },
-        "author": "IndiaToday.in",
-        "title": "Suresh Prabhu gets additional charge of Aviation after TDP quits Modi Cabinet",
-        "description": "Commerce and Industry Minister Suresh Prabhu was today given the additional charge of the Civil Aviation Ministry. Th",
-        "url": "https://www.indiatoday.in/india/story/suresh-prabhu-appointed-civil-aviation-minister-1186236-2018-03-10",
-        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/Suresh-Prabhu-Reuters.jpeg?UpaGSBaUe7GCvfgNIaBBRqUPdJehvu.t",
-        "publishedAt": "2018-03-10T09:34:08Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Livemint.com"
-        },
-        "author": "PTI",
-        "title": "Delhi sealing drive: Arvind Kejriwal seeks appointments from PM Modi, Rahul Gandhi",
-        "description": "Arvind Kejriwal has written to PM Narendra Modi, Congress president Rahul Gandhi, seeking time to meet them for resolving the issue of sealing of shops in the national capital",
-        "url": "http://www.livemint.com/Politics/Ndsr8y1SbvIBS3qk2Obe9L/Delhi-sealing-Arvind-Kejriwal-seeks-appointments-from-PM-Mo.html",
-        "urlToImage": "http://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/03/12/Photos/Processed/AK-km8F--621x414@LiveMint.jpg",
-        "publishedAt": "2018-03-10T08:07:43Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Digit.in"
-        },
-        "author": "Digit NewsDesk",
-        "title": "Lenovo S5 with dual rear cameras, metal unibody design revealed in images ahead of March 20 launch",
-        "description": "The smartphone will be launched in China and the company’s CEO has teased the device in images ahead of the launch. The device is expected to make way to Indi",
-        "url": "https://www.digit.in/mobile-phones/lenovo-s5-with-dual-rear-cameras-metal-unibody-design-revealed-in-images-ahead-of-march-20-launch-39938.html",
-        "urlToImage": "https://static.digit.in/default/755bc34ab3572d2c6a07a24cea5136d758910f40.jpeg",
-        "publishedAt": "2018-03-10T07:51:59Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Indiatoday.in"
-        },
-        "author": "IndiaToday.in",
-        "title": "Jaya Prada says Khilji in Padmaavat reminded her of Azam Khan",
-        "description": "Once Samajwadi Party's star candidate, Jaya Prada has hit out against senior Samajwadi Party leader Azam Khan and com",
-        "url": "https://www.indiatoday.in/india/story/while-watching-padmaavat-khilji-reminded-me-of-azam-khan-says-jaya-prada-1186145-2018-03-10",
-        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/azam_khan-jaya_prada.png?9QkGdFrR.9zthpL5u1ExVU_0TnXgHC7z",
-        "publishedAt": "2018-03-10T07:32:28Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "BS Web Team",
-        "title": "Jain monk hails euthanasia ruling; Catholic priests slam it: Highlights",
-        "description": "Supreme Court gave legal sanction on 'living will' for passive euthanasia in a landmark verdict and says it's right to die with dignity. What is  passive euthanasia and what is living will in India.",
-        "url": "http://www.business-standard.com/article/current-affairs/sc-allows-passive-euthanasia-living-will-explained-top-10-developments-118030900566_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2016-05/11/full/1462909989-321.jpg",
-        "publishedAt": "2018-03-10T03:45:00Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Dnaindia.com"
-        },
-        "author": "DNA Web Team",
-        "title": "Outgoing Tripura CM Manik Sarkar accepts BJP's invitation to attend swearing-in ceremony of Biplab Deb",
-        "description": "Outgoing Chief Minister Manik Sarkar and former ministers of his cabinet would attend the swearing-in ceremony of the new BJP-IPFT combine government tomorrow, Left Front convener Bijan Dhar said today.",
-        "url": "http://www.dnaindia.com/india/report-outgoing-tripura-cm-manik-sarkar-accepts-bjp-s-invitation-to-attend-swearing-in-ceremony-of-biplab-deb-2592053",
-        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/09/658940-biplab-deb-ani.jpg",
-        "publishedAt": "2018-03-08T18:35:25Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Hindustantimes.com"
-        },
-        "author": null,
-        "title": "Budget 2018-19: Maha finance minister has task cut out for him",
-        "description": "Farm loan waiver and Seventh Pay Commission may not leave room for big-ticket projects",
-        "url": "https://www.hindustantimes.com/mumbai-news/budget-2018-19-maha-finance-minister-has-task-cut-out-for-him/story-cwN0YUd7vLA79ylDR4BA7H.html",
-        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/08/Pictures/budget-session_74026e12-22fc-11e8-81db-e6399ce35310.jpg",
-        "publishedAt": "2018-03-08T18:17:00Z"
-}, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": "ET CONTRIBUTORS",
-        "title": "Why French President Emmanuel Macron's visit to India is important",
-        "description": "France has valued the independence of our foreign policy. It has not intruded itself into our relations with our neighbours, and ceased arming Pakistan years ago.",
-        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/why-french-president-emmanuel-macrons-visit-to-india-is-important/articleshow/63224181.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-63224180,width-672,resizemode-4,imgsize-44201/why-french-president-emmanuel-macrons-visit-to-india-is-important.jpg",
-        "publishedAt": "2018-03-08T18:12:12Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Newindianexpress.com"
-        },
-        "author": null,
-        "title": "Aarushi-Hemraj murder case: CBI moves Supreme Court challenging acquittal of Talwars",
-        "description": "The move by the agency came months after Hemraj's wife had in December last year approached the top court against the Allahabad High Court verdict of October 12 last year acquitting the couple.",
-        "url": "http://www.newindianexpress.com/nation/2018/mar/08/aarushi-hemraj-murder-case-cbi-moves-supreme-court-challenging-acquittal-of-talwars-1784139.html",
-        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/3/8/w600X390/Rajesh_and_Nupur_Talwar_PTI.jpg",
-        "publishedAt": "2018-03-08T18:06:54Z"
-}, {
-        "source": {
-            "id": "usa-today",
-            "name": "USA Today"
-        },
-        "author": "Mike Snider",
-        "title": "Trump to talk with video game makers, critics at Thursday White House meeting",
-        "description": "President Trump is holding a White House meeting to discuss video games and violence Thursday with the makers of such games as 'Doom' and 'Grand Theft Auto'.",
-        "url": "https://www.usatoday.com/story/tech/news/2018/03/08/trump-talk-video-game-makers-critics-thursday-white-house-meeting/406374002/",
-        "urlToImage": "https://www.gannett-cdn.com/-mm-/6a36850d0a06c07448148cc72dc2d3fbde567e8d/c=0-0-580-326&r=x1683&c=3200x1680/local/-/media/2017/11/01/USATODAY/usatsports/take-twos-game-art-for-gta-online_large.jpg",
-        "publishedAt": "2018-03-08T17:56:00Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "News18.com"
-        },
-        "author": "PTI",
-        "title": "'BJP's Nasty Politics Has Created Atmosphere of Intimidation': Rahul Gandhi in Singapore",
-        "description": "On the recent controversy of four senior SC judges holding an unprecedented press conference, the Congress president said that BJP has launched a very very aggressive and organised attack on the system and on the judiciary.",
-        "url": "https://www.news18.com/news/politics/bjps-nasty-politics-has-created-atmosphere-of-intimidation-rahul-gandhi-in-singapore-1683709.html",
-        "urlToImage": "https://images.news18.com/ibnlive/uploads/2018/03/rahul-gandhi1.jpg",
-        "publishedAt": "2018-03-08T17:54:00Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Hindustantimes.com"
-        },
-        "author": null,
-        "title": "Female foeticide matter of deep shame: PM Modi on Women's Day",
-        "description": "PM Modi expanded the “Beti Bachao, Beti Padhao (BBBP)” campaign to cover all districts of the country and launched a new programme, National Nutrition Mission (NNM) from Jhunjhunu in Rajasthan.",
-        "url": "https://www.hindustantimes.com/india-news/daughters-not-a-burden-female-foeticide-matter-of-deep-shame-pm-modi-on-women-s-day/story-4gwrprieCpKdQzw4G8s3FM.html",
-        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/08/Pictures/jhunjhunu-narendra-modi-launches-national-poshan-mission_31186f68-22cd-11e8-81db-e6399ce35310.jpg",
-        "publishedAt": "2018-03-08T17:27:00Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Indiatoday.in"
-        },
-        "author": "India Today",
-        "title": "Manik Sarkar to make CPI(M) office his new home",
-        "description": "Agartala, Mar 8 (PTI)  Tripuras outgoing chief minister Manik Sarkar will be today shifting to his new residence--the",
-        "url": "https://www.indiatoday.in/pti-feed/story/manik-sarkar-to-make-cpim-office-his-new-home-1184895-2018-03-08",
-        "urlToImage": "Manik Sarkar to make CPI(M) office his new home",
-        "publishedAt": "2018-03-08T17:14:28Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "Shruti Dhapola",
-        "title": "Samsung Galaxy S9+ first impressions: Five things you should know about this flagship",
-        "description": "Samsung Galaxy S9+ is officially here with a camera that claims to be the best in business, ahead of the arch-rivals Apple iPhone X and Google Pixel 2 XL. Here's what we thought after using the phone for two days.",
-        "url": "http://indianexpress.com/article/technology/mobile-tabs/samsung-galaxy-s9-first-impressions-five-things-you-should-know-about-this-flagship-5091088/",
-        "urlToImage": "http://images.indianexpress.com/2018/03/galaxys9plus_review_1.jpg?w=759",
-        "publishedAt": "2018-03-08T17:05:47Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Indiatoday.in"
-        },
-        "author": "IndiaToday.in",
-        "title": "Mohammed Shami on wife Hasin Jahan: I think she's lost her mental balance",
-        "description": "India fast bowler Mohammed Shami on Thursday suggested that his wife Hasin Jahan might have lost her mental balance o",
-        "url": "https://www.indiatoday.in/sports/cricket/story/mohammed-shami-on-wife-hasin-jahan-i-think-she-s-lost-her-mental-balance-1184884-2018-03-08",
-        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/mohd.jpeg?sSpB4UTRiADvZyZ_k1Qe5uETFiRlZstX",
-        "publishedAt": "2018-03-08T16:51:29Z"
-}, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "TDP ministers resign from Union cabinet over AP special status issue: Key highlights",
-        "description": "India News: NEW DELHI: In a day of dramatic developments, which saw a last-ditch attempt by Prime Minister Narendra Modi to pacify BJP's sulking partner, TDP, ove.",
-        "url": "https://timesofindia.indiatimes.com/india/tdp-ministers-resign-from-union-cabinet-over-ap-special-status-issue-key-highlights/articleshow/63222971.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-63223081,width-1070,height-580,imgsize-1398230,resizemode-1,overlay-toi_sw,pt-32/photo.jpg",
-        "publishedAt": "2018-03-08T16:36:38Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "BS Web Team",
-        "title": "Dawood aide Takla sent to CBI custody till March 19: Why his arrest matters",
-        "description": "Dawood Ibrahim's aide Yasin Mansoor Mohamed Farooq alias Farooq Takla wanted in 1993 Mumbai blasts brought to India after being arrested in Dubai. Who is Farooq Takla, and know Dawood Ibrahim latest news.",
-        "url": "http://www.business-standard.com/article/current-affairs/dawood-aide-takla-deported-by-uae-back-in-india-why-his-return-matters-118030800185_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-03/08/full/1520524372-4355.jpg",
-        "publishedAt": "2018-03-08T16:36:07Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "PNB Fraud Case: CBI Widens Probe Against Nirav Modi",
-        "description": "The Punjab National Bank has filed a new complaint against Nirav Modi, the diamond tycoon it has accused of being part of the fraud",
-        "url": "https://www.ndtv.com/business/pnb-fraud-case-cbi-widens-probe-against-nirav-modi-1821462",
-        "urlToImage": "https://i.ndtvimg.com/i/2017-12/cbi_650x400_81513161996.jpg",
-        "publishedAt": "2018-03-08T16:21:00Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "India.com"
-        },
-        "author": "Ritika Handoo",
-        "title": "Janhvi Kapoor, Sonam Kapoor and sisters trolled for posting a 'smiling' family pic post Sridevi's death",
-        "description": "Sridevi was cremated with full state honours at the Celebration Sports Club Garden No. 5, Lokhandwala Complex, Andheri West on February 28, 2018.",
-        "url": "http://zeenews.india.com/people/janhvi-kapoor-sonam-kapoor-and-sisters-trolled-for-posting-a-smiling-family-pic-post-sridevis-death-2087866.html",
-        "urlToImage": "http://ste.india.com/sites/default/files/2018/03/08/666425-kapoor-daughters.jpg",
-        "publishedAt": "2018-03-08T16:17:00Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Thehindubusinessline.com"
-        },
-        "author": "Our Bureau",
-        "title": "Karnataka unveils proposed State flag",
-        "description": "",
-        "url": "https://www.thehindubusinessline.com/news/national/karnataka-unveils-proposed-state-flag/article22985800.ece",
-        "urlToImage": "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg",
-        "publishedAt": "2018-03-08T16:11:18Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Businesstoday.in"
-        },
-        "author": null,
-        "title": "Is gender diversity loosely used term in corporate India?",
-        "description": "Though most HR professionals talk about the various initiatives they have to retain women, in reality it's a daunting task to retain female employees at the middle management level",
-        "url": "https://www.businesstoday.in/current/corporate/is-gender-diversity-loosely-used-term-in-corporate-india/story/272256.html",
-        "urlToImage": "https://smedia2.intoday.in/btmt/images/stories/tcs505_102014054327_030818093845.jpg",
-        "publishedAt": "2018-03-08T16:11:00Z"
-}, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "Was sacked as chief selector for backing Virat Kohli in 2008: Dilip Vengsarkar",
-        "description": "Was sacked as chief selector for backing Virat Kohli in 2008: Dilip Vengsarkar.The former chief selector of BCCI, Dilip Vengsarkar, the man behind backing current India captain Virat Kohli in 2008, has voiced on how that particular move made him the black hat…",
-        "url": "https://timesofindia.indiatimes.com/videos/sports/cricket/was-sacked-as-chief-selector-for-backing-virat-kohli-in-2008-dilip-vengsarkar/videoshow/63217720.cms",
-        "urlToImage": "https://timesofindia.indiatimes.com/photo/63217720.cms",
-        "publishedAt": "2018-03-08T16:03:50Z"
-}, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "'Quad' move will dissipate like sea foam: China",
-        "description": "China News: Asked if the Indo-Pacific strategy being furthered by the four-nation grouping (US, Japan, Australia and India) will affect China's multi-billion doll",
-        "url": "https://timesofindia.indiatimes.com/world/china/quad-move-will-dissipate-like-sea-foam-china/articleshow/63221055.cms",
-        "urlToImage": "https://static.toiimg.com/photo/msid-63221056/63221056.jpg?179187",
-        "publishedAt": "2018-03-08T14:20:00Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "Enca.com"
-        },
-        "author": "",
-        "title": "SAP admits paying R130-million for state contracts in SA",
-        "description": "The German software company says its  employees will no longer receive commission on public sector contracts.",
-        "url": "https://www.enca.com/money/sap-admits-paying-r130-million-for-state-contracts-in-sa",
-        "urlToImage": "https://images.enca.com/encadrupal/styles/600_383/s3/SAP_MAIN_LOGO_WIKIPEDIA.jpg",
-        "publishedAt": "2018-03-08T13:58:14Z"
-}, {
-        "source": {
-            "id": null,
-            "name": "News18.com"
-        },
-        "author": "Cricketnext Staff",
-        "title": "Live Cricket Score, India vs Bangladesh T20I, Nidahas Trophy in Colombo: Vijay Shankar Gets Mahmudullah",
-        "description": "Catch all the highlights of the 2nd T20I of the tri-nation series between India and Bangladesh.",
-        "url": "https://www.news18.com/cricketnext/news/live-cricket-score-india-vs-bangladesh-t20i-nidahas-trophy-in-colombo-vijay-shankar-gets-mushfiqur-rahim-1683237.html",
-        "urlToImage": "https://images.news18.com/ibnlive/uploads/761x506/jpg/2018/03/INDSL5.jpg",
-        "publishedAt": "2018-03-08T13:03:05Z"
+
 }]
 }
