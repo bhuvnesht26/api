@@ -4,850 +4,222 @@
     "articles": [{
         "source": {
             "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "Agencies",
-        "title": "Sixth FedEx parcel bomb blast in Austin, Texas: 2 dead, Trump terms it sick",
-        "description": "In Texas FedEx explosion, total killed two people and several injured in Austin, Texas. Know more about FedEx explosion, schertz fedex facility and US bomb blast. Find latest news on Austin bombing or FedEx explosion.",
-        "url": "http://www.business-standard.com/article/international/sixth-fedex-parcel-bomb-blast-in-austin-texas-2-dead-trump-terms-it-sick-118032100147_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-03/21/full/1521601589-8457.jpg",
-        "publishedAt": "2018-03-21T03:52:02Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Moneycontrol.com"
-        },
-        "author": null,
-        "title": "Govt releases money from NSSF for Air India's VVIP planes purchase",
-        "description": "The government has released required funds to Air India for purchase and modification of two VVIP aircraft from the National Small Savings Funds (NSSF) account, Union minister Jayant Sinha said today.",
-        "url": "https://www.moneycontrol.com/news/india/govt-releases-money-from-nssf-for-air-indias-vvip-planes-purchase-2532811.html",
-        "urlToImage": "https://static-news.moneycontrol.com/static-mcnews/2018/02/jayantsinha_1280_720-770x433.jpg",
-        "publishedAt": "2018-03-21T03:38:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Firstpost.com"
-        },
-        "author": null,
-        "title": "Raj Babbar resigns as Uttar Pradesh Congress chief, say media reports; party yet to accept his resignation",
-        "description": "Actor-turned-politician Raj Babbar has resigned as Uttar Pradesh Congress party president, media reports have said, adding that the party hierarchy is yet to accept his resignation.",
-        "url": "http://www.firstpost.com/politics/raj-babbar-resigns-as-uttar-pradesh-congress-chief-say-media-reports-party-yet-to-accept-his-resignation-4398999.html",
-        "urlToImage": "https://images.firstpost.com/wp-content/uploads/2017/06/Raj_Babbar_AFP.jpg",
-        "publishedAt": "2018-03-21T03:17:53Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Dnaindia.com"
-        },
-        "author": "DNA Web Team",
-        "title": "It's time to delete Facebook: Whatsapp co-founder gives stark warning after Cambridge Analytica revelations",
-        "description": "Acton was formerly associated with Facebook.",
-        "url": "http://www.dnaindia.com/technology/report-it-s-time-to-delete-facebook-whatsapp-co-founder-gives-stark-warning-after-cambridge-analytica-revelations-2596034",
-        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/21/663034-mark-zuckerberg.jpg",
-        "publishedAt": "2018-03-21T02:52:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Calgaryherald.com"
-        },
-        "author": null,
-        "title": "Selena Gomez responds to bikini body-shaming trolls",
-        "description": "Selena Gomez is too proud of her strong post-surgery body to take criticism about her recent bikini pictures to heart.The singer and actress was snapped soaking up the sun in Sydney, Australia on a…",
-        "url": "http://calgaryherald.com/entertainment/celebrity/selena-gomez-responds-to-bikini-body-shaming-trolls/wcm/09f944b8-f5e8-4a5b-8b5a-cdcbd1e69779",
-        "urlToImage": "https://postmediacanoe.files.wordpress.com/2018/03/selena-gomez-e1521598779559.jpg",
-        "publishedAt": "2018-03-21T02:20:26Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Deccanchronicle.com"
-        },
-        "author": "Deccan Chronicle.",
-        "title": "MITS Sparkers make mark at Noida event",
-        "description": "Hybrid vehicle presented for technical inspection.",
-        "url": "https://www.deccanchronicle.com/nation/current-affairs/210318/mits-sparkers-make-mark-at-noida-event.html",
-        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-a0qch42uubbuqs39g1osrkm4s0-20180321074131.Medi.jpeg",
-        "publishedAt": "2018-03-21T02:12:50Z"
-    }, {
-        "source": {
-            "id": null,
             "name": "Financialexpress.com"
         },
         "author": "FE Online",
-        "title": "TB in India: Doctors, chemists, hospital authorities can land in jail; here is why",
-        "description": "With an aim to eradicate tuberculosis (TB) in India, the Centre has issued stringent rules. The Union Health Ministry has issued a notification stating that doctors, druggists, chemists and hospital authorities could face a jail term of six months to two year…",
-        "url": "http://www.financialexpress.com/india-news/tb-in-india-doctors-chemists-hospital-authorities-can-land-in-jail-here-is-why/1105760/",
-        "urlToImage": "http://images.financialexpress.com/2018/03/tb-99.jpg",
-        "publishedAt": "2018-03-21T02:12:28Z"
+        "title": "In Yogi Adityanath's Uttar Pradesh, BR Ambedkar to become Bhimrao Ramji Ambedkar",
+        "description": "The Yogi Adityanath-led Uttar Pradesh government on Wednesday passed an order asking all departments and high court benches in Lucknow and Allahabad to change Dr BR Ambedkar's name in all documents and records.",
+        "url": "http://www.financialexpress.com/india-news/in-yogi-adityanaths-uttar-pradesh-br-ambedkar-to-become-bhimrao-ramji-ambedkar/1114566/",
+        "urlToImage": "http://images.financialexpress.com/2018/03/PTI9393-2.jpg",
+        "publishedAt": "2018-03-29T05:16:43Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "Reuters",
+        "title": "China warns US not to open Pandora's Box, unleash trade ills on world",
+        "description": "President Donald Trump's move last week to slap up to $60 billion in tariffs on some Chinese imports has since provoked a warning from Beijing that it could retaliate with duties of up to $3 billion of US imports.",
+        "url": "http://indianexpress.com/article/world/china-warns-us-not-to-open-pandoras-box-unleash-trade-ills-on-world-5115550/",
+        "urlToImage": "http://images.indianexpress.com/2017/11/xi-trump-759.jpg?w=759",
+        "publishedAt": "2018-03-29T05:16:41Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "BS Web Team",
+        "title": "Mamata Banerjee's anti-BJP front with Cong takes shape: Top 10 developments",
+        "description": "West Bengal CM and TMC chief Mamata Banerjee met UPA Chairperson Sonia Gandhi and made clear that Congress was must for 1:1 fight with BJP. Opposition party can be excluded from anti-BJP alliance in Lok Sabha elections 2019.",
+        "url": "http://www.business-standard.com/article/politics/mamata-banerjee-s-anti-bjp-front-with-cong-takes-shape-top-10-developments-118032900184_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-03/29/full/1522297440-2333.jpg",
+        "publishedAt": "2018-03-29T05:11:53Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indianexpress.com"
+        },
+        "author": "AP",
+        "title": "The doctor is in: White House physician nominated to lead Veterans Affiars",
+        "description": "Donald Trump praised Ronny Jackson as \"highly trained and qualified.'' It was a decision that signaled Trump chose to go with someone he knows and trusts, rather than the candidate with the longest resume.",
+        "url": "http://indianexpress.com/article/world/the-doctor-is-in-white-house-physician-nominated-to-lead-veterans-affiars-5115533/",
+        "urlToImage": "http://images.indianexpress.com/2018/03/trump-ronny-759.jpg?w=759",
+        "publishedAt": "2018-03-29T05:06:49Z"
     }, {
         "source": {
             "id": null,
             "name": "Ndtv.com"
         },
         "author": null,
-        "title": "A New Undercover Video Raises Significant Questions About Cambridge Analytica's Elections Work",
-        "description": "One challenge in assessing claims made by Cambridge Analytica in undercover videos released by Britain's Channel 4 News is that the firm, by its nature, misrepresents the truth.",
-        "url": "https://www.ndtv.com/world-news/a-new-undercover-video-raises-significant-questions-about-cambridge-analyticas-elections-work-1826538",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-03/donald-trump-afp_650x400_51519962143.jpg",
-        "publishedAt": "2018-03-21T01:44:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Full Text: Sushma Swaraj's Statement In Rajya Sabha On 39 Indians Killed By ISIS In Iraq",
-        "description": "All the 39 Indians, who were abducted by ISIS in Iraq nearly three years back, were killed and their bodies have been recovered, External Affairs Minister Sushma Swaraj said on Tuesday. As many as 40 Indians were originally abducted by terrorist organisation …",
-        "url": "https://www.ndtv.com/india-news/full-text-sushma-swarajs-statement-in-rajya-sabha-on-39-indians-killed-by-isis-in-iraq-1826537",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-03/sushma-swaraj-rajya-sabha_650x400_71521536988.jpg",
-        "publishedAt": "2018-03-21T01:42:00Z"
+        "title": "On Dalit Atrocities Law, Government To Ask Supreme Court For A Rethink",
+        "description": "Prime Minister Narendra Modi's office has stepped in to help resolve the concerns of Dalits regarding a Supreme Court order, which, the community says, weakens the stringent law protecting them from atrocities. The government has now decided to file a petitio…",
+        "url": "https://www.ndtv.com/india-news/on-sc-st-prevention-of-atrocities-law-government-to-file-review-petition-in-supreme-court-1830083",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-01/pm-narendra-modi-israel_650x400_41516194657.jpg",
+        "publishedAt": "2018-03-29T05:04:59Z"
     }, {
         "source": {
             "id": null,
             "name": "Cricbuzz.com"
         },
         "author": "",
-        "title": "I've always looked up to Dhoni - Karthik",
-        "description": "Karthik has also credited Abhishek Nayar for helping him become mentally stronger",
-        "url": "http://www.cricbuzz.com/cricket-news/101100/indian-cricket-team-news-ms-dhoni-dinesh-karthik-finisher-nidahas-trophy",
-        "urlToImage": "http://i.cricketcb.com/i/news/stories/2018/mar/21//prv_1521604608.jpeg",
-        "publishedAt": "2018-03-21T01:26:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "ANI",
-        "title": "Maharashtra: Two injured in blast at courier shop",
-        "description": "At least two persons were injured after a blast took place inside a courier shop in Ahmednagar city of Maharashtra on Tuesday.According to Superintendent of Police, Rajankumar Sharma, the courier package which exploded consisted of a speaker and a",
-        "url": "http://www.business-standard.com/article/news-ani/maharashtra-two-injured-in-blast-at-courier-shop-118032100115_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
-        "publishedAt": "2018-03-21T01:21:28Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Nyoooz.com"
-        },
-        "author": "NYOOOZ Team",
-        "title": "Govt has increased railway apprentices quota: CM Devendra Fadnavis",
-        "description": "Union Railway Minister Piyush Goyal informed that the protest was called off at 10.35 am.\nHe also held talks with Union Railway Minister Piyush Goyal in this regard.\nFadnavis said, “The railways has increased the reservation for the apprentices from ten per c…",
-        "url": "https://www.nyoooz.com/news/mumbai/1062236/govt-has-increased-railway-apprentices-quota-cm-devendra-fadnavis/",
-        "urlToImage": "http://images.indianexpress.com/2018/01/devendra-fadnavis.jpg?w=759",
-        "publishedAt": "2018-03-20T22:01:36Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "Express News Service",
-        "title": "JNU among 60 institutions to get UGC graded autonomy nod",
-        "description": "Institutions can start new departments, tie up with foreign varsities without seeking UGC nod.",
-        "url": "http://indianexpress.com/article/education/ugc-grants-graded-autonomy-to-60-institutions-5105049/",
-        "urlToImage": "http://images.indianexpress.com/2018/02/ugc759.jpg?w=759",
-        "publishedAt": "2018-03-20T20:21:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "Abhishek Waghmare",
-        "title": "Pricey Indian pulses make open-export policy unfruitful in global market",
-        "description": "Experts say difficult to meet both ends - farmers' welfare and promoting agricultural trade",
-        "url": "http://www.business-standard.com/article/economy-policy/pricey-indian-pulses-make-open-export-policy-unfruitful-in-global-market-118032001303_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2017-11/30/full/1512066212-5949.jpg",
-        "publishedAt": "2018-03-20T18:08:13Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Congress' Plan To Trump BJP With Lingayat Move Runs Into Turbulence",
-        "description": "The Siddaramaiah government's move to give religious minority status to the politically powerful Lingayat community in Karnataka has run into trouble. The key socio religious body of the Veershavai-Lingayats, the Veershavai Lingayat Mahasabha, has objected to…",
-        "url": "https://www.ndtv.com/karnataka-news/congress-plan-to-trump-bjp-with-lingayat-move-runs-into-turbulence-1826460",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-03/siddaramaiah-pti_650x400_51519939731.jpg",
-        "publishedAt": "2018-03-20T16:45:00Z"
-    }, {
-        "source": {
-            "id": "the-guardian-au",
-            "name": "The Guardian (AU)"
-        },
-        "author": "Matthew Taylor, Hannah Ellis-Petersen",
-        "title": "Last male northern white rhino's death highlights 'huge extinction crisis'",
-        "description": "The tragic death of Sudan the rhino should act as a warning of the need to act to prevent mass extinctions around the world, say conservationists",
-        "url": "https://www.theguardian.com/environment/2018/mar/20/last-male-northern-white-rhinos-death-highlights-huge-extinction-crisis",
-        "urlToImage": "https://i.guim.co.uk/img/media/b2f6a301942194c4b87f037d968e82988aecc1f3/0_231_3500_2100/master/3500.jpg?w=1200&h=630&q=55&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxOC8wMS8zMS9mYWNlYm9va19kZWZhdWx0LnBuZw&s=b1022602ce804287b849e96f17a6af5e",
-        "publishedAt": "2018-03-20T16:43:28Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Hindustantimes.com"
-        },
-        "author": null,
-        "title": "At least 3 militants killed in Kupwara gun battle",
-        "description": "Security forces had launched a cordon and operation in the forest area after specific inputs of militant presence.",
-        "url": "https://www.hindustantimes.com/india-news/encounter-between-militants-security-forces-in-jammu-and-kashmir-s-kupwara/story-usj5ONZhdYLaDf6ujF7jWO.html",
-        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/20/Pictures/army-carries-out-encounter-operation_aa0ff7f4-2c2f-11e8-8732-87a46da2a8cc.jpg",
-        "publishedAt": "2018-03-20T16:22:56Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "IANS",
-        "title": "Naidu calls off dinner for MPs",
-        "description": "With the Rajya Sabha stalled for the last 12 days, an upset Chairman M. Venkaiah Naidu has called off the dinner he planned to host on Wednesday for MPs.",
-        "url": "http://www.business-standard.com/article/news-ians/naidu-calls-off-dinner-for-mps-118032001043_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
-        "publishedAt": "2018-03-20T14:02:14Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Scroll.in"
-        },
-        "author": "Scroll Staff",
-        "title": "No public servant can be arrested under the SC/ST Act without inquiry, prior sanction: Supreme Court",
-        "description": "The top court said failure to follow these directives would entail disciplinary action and proceedings for contempt of court.",
-        "url": "https://scroll.in/latest/872677/no-public-servant-can-be-arrested-under-the-sc-st-act-without-inquiry-prior-sanction-supreme-court",
-        "urlToImage": "https://d1u4oo4rb13yy8.cloudfront.net/book/49245-ujvfdcjhoe-1521537771.jpg",
-        "publishedAt": "2018-03-20T11:24:31Z"
+        "title": "It's a stain on the game, I apologise for my part: Warner",
+        "description": "Following Cricket Australia's verdict, reactions pour in from all quarters",
+        "url": "http://www.cricbuzz.com/cricket-news/101307/ca-bans-smith-warner-and-bancroft-cricketing-world-reacts",
+        "urlToImage": "http://i.cricketcb.com/i/news/stories/2018/mar/29//prv_1522299869.jpeg",
+        "publishedAt": "2018-03-29T04:59:11Z"
     }, {
         "source": {
             "id": "the-times-of-india",
             "name": "The Times of India"
         },
-        "author": null,
-        "title": "CBSE Class 12th Mathematics Board Exam 2018: Tips and sample paper",
-        "description": "Education News: The Central Board of Secondary Education (CBSE) is conducting board exams for Class X and XII. Class XII Mathematics paper is going to take place tomo",
-        "url": "https://timesofindia.indiatimes.com/home/education/news/cbse-class-12th-mathematics-board-exam-2018-tips-and-sample-paper/articleshow/63376353.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-63376999,width-1070,height-580,imgsize-1450005,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2018-03-20T05:47:42Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "Reuters",
-        "title": "Transition deal alone won't let banks stall Brexit moves: industry officials",
-        "description": "LONDON (Reuters) - London-based banks and other financial firms won't put their Brexit moves on hold despite a transition deal between Britain and the European Union as it lacks full legal certainty, industry officials said on Monday.",
-        "url": "http://www.business-standard.com/article/reuters/transition-deal-alone-won-t-let-banks-stall-brexit-moves-industry-officials-118031901222_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
-        "publishedAt": "2018-03-19T17:36:54Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "PTI",
-        "title": "Sexual harassment case: JNU students protest against police 'inaction'",
-        "description": "Accusing the police of disregarding the procedures, 54 professors of the university demanded registration of separate FIRs on the basis of all eight sexual harassment complaints against Johri.",
-        "url": "http://indianexpress.com/article/cities/delhi/sexual-harassment-case-jnu-students-protest-against-police-inaction-5103676/",
-        "urlToImage": "http://images.indianexpress.com/2018/03/jnuprotests759.jpg?w=759",
-        "publishedAt": "2018-03-19T17:06:09Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "BS Web Team",
-        "title": "Karnataka Lingayat religion row: Congress' decision a blow for BJP? updates",
-        "description": "Our fight is not new, it has been a 900-year-old fight and it has taken a shape now: Lingayat seers",
-        "url": "http://www.business-standard.com/article/politics/karnataka-polls-siddaramaiah-accepts-lingayat-demand-for-separate-religious-status-10-highlights-118031900672_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-01/13/full/1515838984-1692.jpg",
-        "publishedAt": "2018-03-19T16:36:51Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": "AP",
-        "title": "Facebook data whistleblower: 'fake news to the next level'",
-        "description": "Chris Wylie said the firm, Cambridge Analytica, secured personal data in order to learn about individuals and then used it to create an information cocoon to change their perceptions.",
-        "url": "https://economictimes.indiatimes.com/news/international/business/facebook-data-whistleblower-fake-news-to-the-next-level/articleshow/63370654.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-63370671,width-672,resizemode-4,imgsize-17598/facebook-data-whistleblower-fake-news-to-the-next-level.jpg",
-        "publishedAt": "2018-03-19T16:21:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "IANS",
-        "title": "As Saudi crown prince visits US, he says women are 'absolutely' equal",
-        "description": "Crown Prince acknowledged that Saudi Arabia has been dominated by 'ultraconservative interpretation of Islam' that was wary of non-Muslims",
-        "url": "http://www.business-standard.com/article/international/as-saudi-crown-prince-visits-us-he-says-women-are-absolutely-equal-118031900485_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2017-11/26/full/1511710432-3194.jpg",
-        "publishedAt": "2018-03-19T15:22:07Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Hindustantimes.com"
-        },
-        "author": null,
-        "title": "Mamata non-committal on KCR's proposal to keep Congress out of anti-BJP platform",
-        "description": "K Chandrashekhar Rao has been advocating a non-BJP, non-Congress forum ahead of the 2019 general elections.",
-        "url": "https://www.hindustantimes.com/india-news/mamata-non-committal-on-kcr-s-proposal-to-keep-congress-out-of-anti-bjp-platform/story-h5Ei3Qym1Gh02ImcuvATUI.html",
-        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/19/Pictures/mamata-banerjee-meets-kalvakuntla-chandrashekhar-rao_4bb28b84-2b87-11e8-a5fc-524b5b61153f.jpg",
-        "publishedAt": "2018-03-19T15:20:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "Express News Service",
-        "title": "After Majithia, Arvind Kejriwal says sorry to Nitin Gadkari, Amit Sibal",
-        "description": "Arvind Kejriwal has expressed his regret to Union Minister Nitin Gadkari for unverified allegations and asked to \"put the incident behind\" them \"in the spirit of mutual respect.\"",
-        "url": "http://indianexpress.com/article/india/now-arvind-kejriwal-expresses-regret-to-nitin-gadkari-seeks-closure-of-defamation-case-5103330/",
-        "urlToImage": "http://images.indianexpress.com/2018/03/arvind-kejriwal.jpg?w=759",
-        "publishedAt": "2018-03-19T15:09:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "West Wary As Putin Wins Fourth Term With Record Vote",
-        "description": "Russia's Vladimir Putin secured another six years in power after a record election win, but international leaders were slow to congratulate him Monday amid a new spike in tensions, as opponents accused him of vote rigging",
-        "url": "https://www.ndtv.com/world-news/west-wary-as-vladimir-putin-wins-fourth-term-with-record-vote-1825890",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-03/putin-reuters_650x400_41521459387.jpg",
-        "publishedAt": "2018-03-19T14:14:00Z"
+        "author": "Bloomberg",
+        "title": "India isn't building a military to take on China",
+        "description": "The armys manpower is raised largely from parts of India that are often crucial swing districts in elections.",
+        "url": "https://economictimes.indiatimes.com/news/defence/india-isnt-building-a-military-to-take-on-china/articleshow/63527264.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63527259,width-672,resizemode-4,imgsize-273029/india-china-faceoff.jpg",
+        "publishedAt": "2018-03-29T04:46:00Z"
     }, {
         "source": {
             "id": null,
             "name": "Dnaindia.com"
         },
         "author": "DNA Web Team",
-        "title": "Ceasefire violation: India summons Pak envoy, lodges strong protest over civilian deaths in J&K",
-        "description": "India today summoned the Pakistan envoy and lodged a strong protest against the killing of five civilians in \"unprovoked firing\" by Pakistani forces, terming the incident \"highly deplorable\".",
-        "url": "http://www.dnaindia.com/india/report-ceasefire-violation-india-summons-pak-envoy-lodges-strong-protest-over-civilian-deaths-in-jk-2595438",
-        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/19/662433-jammu-ceasefire-pti-1.jpg",
-        "publishedAt": "2018-03-19T14:08:06Z"
+        "title": "CBSE Paper Leak: Gang sent maths paper to chairperson day before exam, Delhi coaching centre implicated",
+        "description": "Here's how the leak unfolded.",
+        "url": "http://www.dnaindia.com/india/report-cbse-paper-leak-latest-update-maths-paper-was-sent-to-chairperson-day-before-exams-2598949",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/29/666176-cbse.jpg",
+        "publishedAt": "2018-03-29T04:43:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Moneycontrol.com"
+        },
+        "author": null,
+        "title": "ICICI Bank defends Chanda Kochhar: Full text of the statement",
+        "description": "Questions were raised on ICICI bank chief’s involvement in loans disbursed to Videocon Group.",
+        "url": "https://www.moneycontrol.com/news/business/icici-bank-defends-chanda-kochhar-full-text-of-the-statement-2538995.html",
+        "urlToImage": "https://static-news.moneycontrol.com/static-mcnews/2017/03/icici-bank-chanda-kocchar-770x433.jpg",
+        "publishedAt": "2018-03-29T04:23:00Z"
     }, {
         "source": {
             "id": "the-times-of-india",
             "name": "The Times of India"
         },
-        "author": null,
-        "title": "Memory for a lifetime: Dinesh Karthik on last-ball six",
-        "description": "Cricket News: Dinesh Karthik is no Hrishikesh Kanitkar or Joginder Sharma but the Indian batsman is not complaining about the \"memories of a lifetime\" that his last",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-sri-lanka-bangladesh-tri-series/memory-for-a-lifetime-dinesh-karthik-on-last-ball-six/articleshow/63368397.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-63368399,width-1070,height-580,imgsize-1247924,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2018-03-19T13:34:38Z"
+        "author": "PTI",
+        "title": "PM Narendra Modi, Putin, Trump among TIME's most influential people's list",
+        "description": "For more than a decade, the TIME 100 annual list has featured some of the world's most significant artists, leaders, scientists, activists and entrepreneurs. The list will be announced next month.",
+        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/pm-narendra-modi-putin-trump-among-times-most-influential-peoples-list/articleshow/63526900.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63526915,width-672,resizemode-4,imgsize-480143/narendra-modi.jpg",
+        "publishedAt": "2018-03-29T04:14:00Z"
     }, {
         "source": {
             "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "Press Trust of India",
-        "title": "Pak disappointed at India for not issuing visas to pilgrims",
-        "description": "Pakistan today expressed disappointment at  India for not issuing visas to more than 500 Pakistani pilgrims for visiting the famed shrine of Khawaja Moinuddin Chishti in Ajmer, which New Delhi said could not take place in view of the prevailing",
-        "url": "http://www.business-standard.com/article/pti-stories/pak-disappointed-at-india-for-not-issuing-visas-to-pilgrims-118031900860_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
-        "publishedAt": "2018-03-19T13:33:34Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
+            "name": "Ibtimes.co.in"
         },
         "author": null,
-        "title": "Redmi 5, Mi TV 4, Mi TV 4A to Go on Sale in India Tomorrow",
-        "description": "",
-        "url": "https://gadgets.ndtv.com/mobiles/news/redmi-5-next-flash-sale-march-20-amazon-xiaomi-website-mi-tv-4a-sale-flipkart-1825686",
-        "urlToImage": "https://i.gadgets360cdn.com/large/xiaomi_redmi_5_1521445053215.jpg",
-        "publishedAt": "2018-03-19T13:23:10Z"
+        "title": "Like it or not, OnePlus 6 coming with iPhone X-inspired notch display",
+        "description": null,
+        "url": "https://www.ibtimes.co.in/like-it-not-oneplus-6-coming-iphone-x-inspired-notch-display-765271",
+        "urlToImage": null,
+        "publishedAt": "2018-03-29T03:35:39Z"
     }, {
         "source": {
             "id": null,
-            "name": "Indiatoday.in"
+            "name": "Dnaindia.com"
         },
-        "author": "IndiaToday.in,Nisha Singh",
-        "title": "CBSE Class 10 English paper: Board to compensate for textual error in passage section",
-        "description": "Central Board of Secondary Education (CBSE) has recently conducted class 10 English paper on March 12 as part of its",
-        "url": "https://www.indiatoday.in/education-today/news/story/cbse-class-10-english-paper-board-to-compensate-for-textual-error-in-passage-section-1192825-2018-03-19",
-        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/cbse_english_paper.jpeg?YF1uwtmCTr73Ah1q_0w7H_UlJ.6BXdRf",
-        "publishedAt": "2018-03-19T13:09:34Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "News18.com"
-        },
-        "author": "Contributor Content",
-        "title": "APTET 2017-18 Result Expected Soon, Know Passing Criteria!",
-        "description": "Candidates who had appeared for Andhra Pradesh Teacher Eligibility Test (December 2017) must keep a tab on the official website and follow the instructions below to download their result as and when it is released by CSEAP.",
-        "url": "https://www.news18.com/news/india/aptet-2017-18-result-expected-soon-know-passing-criteria-1693823.html",
-        "urlToImage": "https://images.news18.com/ibnlive/uploads/2018/03/APTET.jpg",
-        "publishedAt": "2018-03-19T10:57:00Z"
+        "author": "DNA Web Team",
+        "title": "Vijay Mallya all set to marry girlfriend Pinky Lalwani: Reports",
+        "description": "Mallya met Lalwani in 2011.",
+        "url": "http://www.dnaindia.com/business/report-vijay-mallya-all-set-to-marry-girlfriend-pinky-lalwani-reports-2598930",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/29/666164-vijay-mallya-celebrates-anniversary-with-pinky-lalwani-wheadlines-696x404.jpg",
+        "publishedAt": "2018-03-29T03:25:38Z"
     }, {
         "source": {
             "id": "the-times-of-india",
             "name": "The Times of India"
         },
-        "author": null,
-        "title": "Janhvi Kapoor thanks Madhuri Dixit for stepping into Sridevi's role in Abhishek Varman's next film",
-        "description": "Sridevi’s untimely demise took the country by storm. Not only were the near and dear ones affected but her fans too couldn’t bear the loss. The late actress was going to be a part of Karan Johar's upcoming production being helmed by Abhishek Verman.  Today, S…",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/photo-features/janhvi-kapoor-thanks-madhuri-dixit-for-stepping-into-sridevis-role-in-abhishek-varmans-next-film/photostory/63366217.cms",
-        "urlToImage": "https://static.toiimg.com/photo/63366217.cms",
-        "publishedAt": "2018-03-19T10:56:31Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "BS Web Team",
-        "title": "Fodder scam: CBI convicts Lalu Prasad; RJD blames Modi, BJP: 10 highlights",
-        "description": "The fourth fodder scam case is related to the fraudulent withdrawal of Rs 31.3 million from Dumka treasury in 1990s",
-        "url": "http://www.business-standard.com/article/current-affairs/fourth-fodder-scam-case-lalu-prasad-convicted-jagannath-mishra-acquited-rjp-blames-modi-govt-top-10-developments-118031900536_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-03/19/full/1521455103-2161.jpg",
-        "publishedAt": "2018-03-19T10:49:35Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indiablooms.com"
-        },
-        "author": "Indiablooms",
-        "title": "Kashmir: Geelani resigns as the chairman of Tehreek-e-Hurriyat",
-        "description": "Srinagar, Mar 19 (IBNS): Hurriyat leader Syed Ali Shah Geelani on Monday has stepped down from his post as the chairman of the Tehreek-e-Hurriyat, media reports said.",
-        "url": "https://www.indiablooms.com/news-details/N/38669/kashmir-geelani-resigns-as-the-chairman-of-tehreek-e-hurriyat.html",
-        "urlToImage": "https://www.indiablooms.com/news_pic/2018/1-1521454312.jpg",
-        "publishedAt": "2018-03-19T10:12:54Z"
+        "author": "Anirban Chowdhury",
+        "title": "Will Air India find a buyer? The answer is worth Rs 43000 crore",
+        "description": "This is a clear challenge to the new buyer. Taking on such a huge debt on the balance sheet would be a concern for shareholders if the buyer is a listed entity.",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/will-air-india-find-a-buyer-the-answer-is-worth-rs-43000-crore/articleshow/63525790.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63525869,width-672,resizemode-4,imgsize-513774/air-india-2-bccl.jpg",
+        "publishedAt": "2018-03-29T03:22:00Z"
     }, {
         "source": {
             "id": null,
             "name": "Newindianexpress.com"
         },
         "author": null,
-        "title": "Special status to Andhra Pradesh has become a national topic now, says CM Chandrababu Naidu",
-        "description": "He also did not spare Jana Sena Party and said its chief Pawan Kalyan was indulging in political opportunism too.",
-        "url": "http://www.newindianexpress.com/states/andhra-pradesh/2018/mar/19/special-status-to-andhra-pradesh-has-become-a-national-topic-now-says-cm-chandrababu-naidu-1789356.html",
-        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/3/16/w600X390/Chandrababu_Naidu.jpg",
-        "publishedAt": "2018-03-19T08:56:14Z"
+        "title": "Riot breaks out in Venezuela prison, five inmates dead",
+        "description": "The cause of the riot is still unknown and authorities have not offered any information.",
+        "url": "http://www.newindianexpress.com/nation/2018/mar/29/riot-breaks-out-in-venezuela-prison-five-inmates-dead-1794205.html",
+        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/3/29/w600X390/Prisoners.jpg",
+        "publishedAt": "2018-03-29T02:55:00Z"
     }, {
         "source": {
             "id": null,
-            "name": "Uniindia.com"
-        },
-        "author": "Uniindia News Service",
-        "title": "Apex court throws out PIL to disqualify Bihar CM",
-        "description": "New Delhi, Mar 19 (UNI)The Supreme Court on Monday negated a Public Interest Litigation seeking disqualification of Bihar Chief Minister, Nitish Kumar for alleged concealment of a criminal case against him in his election affidavit.",
-        "url": "http://www.uniindia.com/apex-court-throws-out-pil-to-disqualify-bihar-cm/india/news/1172521.html",
-        "urlToImage": "http://www.uniindia.com//images/stripad.png",
-        "publishedAt": "2018-03-19T08:12:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Firstpost.com"
+            "name": "Ndtv.com"
         },
         "author": null,
-        "title": "Rahul Gandhi just doesn't get it; beyond trashing Modinomics, there's nothing in Congress' economic resolution",
-        "description": "Much of the economic resolution presents vague generalities, apart from the section that lambasts the Modi government’s economic management record.",
-        "url": "http://www.firstpost.com/india/rahul-gandhi-just-doesnt-get-it-beyond-trashing-modinomics-theres-nothing-in-congress-economic-resolution-4395853.html",
-        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/03/Rahul-Congress-plenary.png",
-        "publishedAt": "2018-03-19T06:44:57Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "Ashameera Aiyappan",
-        "title": "Rangasthalam tralier: There is a lot to cheer for Ram Charan's fans",
-        "description": "Rangasthalam trailer: Directed by Sukumar, Rangasthalam stars Ram Charan, Samantha Akkineni, Aadhi Pinsetty and Prakash Raja among others. The film is expected to hit the screens on March 30.",
-        "url": "http://indianexpress.com/article/entertainment/telugu/rangasthalam-trailer-ram-charan-samantha-ruth-prabhu-5102466/",
-        "urlToImage": "http://images.indianexpress.com/2018/03/ram-charan-759.jpg?w=759",
-        "publishedAt": "2018-03-18T16:58:34Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "News18.com"
-        },
-        "author": "News18.com",
-        "title": "There Will be Riots When the Ram Mandir Issue is Resolved, Says Raj Thackeray",
-        "description": "Raj Thackeray has said that riots have been planned in the coming months around the Ram Mandir issue, both by some Muslim organisations and the BJP.",
-        "url": "https://www.news18.com/news/politics/there-will-be-riots-when-the-ram-mandir-issue-is-resolved-says-raj-thackeray-1693139.html",
-        "urlToImage": "https://images.news18.com/ibnlive/uploads/2016/10/rajthackeray.jpg",
-        "publishedAt": "2018-03-18T16:49:42Z"
-    }, {
-        "source": {
-            "id": "the-hindu",
-            "name": "The Hindu"
-        },
-        "author": "Aditya Anand",
-        "title": "Two more IndiGo jets grounded",
-        "description": "The move follows incidents involving the old series of Pratt&Whitney engines that were reported at Delhi and Srinagar.",
-        "url": "http://www.thehindu.com/news/national/two-more-indigo-jets-grounded/article23287847.ece",
-        "urlToImage": "http://www.thehindu.com/news/cities/mumbai/article23276909.ece/ALTERNATES/LANDSCAPE_615/16bm-aditya-couGLL3KJ11N3jpgjpg",
-        "publishedAt": "2018-03-18T16:45:29Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "Press Trust of India",
-        "title": "5 of family killed, 5 Army men among 7 injured in Pak shelling",
-        "description": "Pakistani troops targeted border villages in Jammu and Kashmir's Poonch district with mortar bombs today, killing five members of a family including three minor brothers and injuring five Army personnel and two civilians, officials said.\nThe",
-        "url": "http://www.business-standard.com/article/pti-stories/5-of-family-killed-5-army-men-among-7-injured-in-pak-shelling-118031800600_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
-        "publishedAt": "2018-03-18T16:00:42Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "Liz Mathew",
-        "title": "Rahul Gandhi's 2019 battle cry: Like Kauravas vs Pandavas, fight between truth and lies",
-        "description": "In a scathing attack on Prime Minister Narendra Modi, Rahul Gandhi said, “Modiji thinks he is an avatar of God. Modi is not fighting corruption, he is corruption.”",
-        "url": "http://indianexpress.com/article/india/rahul-gandhis-2019-battle-cry-like-kauravas-vs-pandavas-fight-between-truth-and-lies-congress-plenary-session-5102443/",
-        "urlToImage": "http://images.indianexpress.com/2018/03/rahul-gandhi-congress1.jpg?w=759",
-        "publishedAt": "2018-03-18T15:52:48Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Financialexpress.com"
-        },
-        "author": "PTI",
-        "title": "Yogi Adityanath-led Uttar Pradesh government to celebrate first year in office tomorrow",
-        "description": "To mark the completion of its first year in office tomorrow, the Yogi Adityanath government in Uttar Pradesh would release a film and a booklet highlighting its achievements.",
-        "url": "http://www.financialexpress.com/india-news/yogi-adityanath-led-uttar-pradesh-government-to-celebrate-first-year-in-office-tomorrow/1103050/",
-        "urlToImage": "http://images.financialexpress.com/2018/03/ie_YOGI-1.jpg",
-        "publishedAt": "2018-03-18T15:47:41Z"
+        "title": "At Hyderabad Airport, Panic Over Tyre Burst Of An Indigo Plane, Passengers Safe",
+        "description": "Seventy-seven people on board an Indigo flight faced tense moments after the tyre of their aircraft burst while landing at Hyderabad airport around 11.25 pm, on Wednesday night. All passengers were safely evacuated.",
+        "url": "https://www.ndtv.com/india-news/at-hyderabad-airport-panic-over-tyre-burst-of-an-indigo-plane-passengers-safe-1830046",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-03/indigo_650x400_51522291405.jpg",
+        "publishedAt": "2018-03-29T02:44:00Z"
     }, {
         "source": {
             "id": "the-times-of-india",
             "name": "The Times of India"
-        },
-        "author": "AP",
-        "title": "Facebook's recurring nightmare: Helping muddy up elections",
-        "description": "News reports that Facebook let the Trump-affiliated data mining firm Cambridge Analytica abscond with data from tens of millions of users.",
-        "url": "https://economictimes.indiatimes.com/tech/internet/facebooks-recurring-nightmare-helping-muddy-up-elections/articleshow/63357006.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-63357017,width-672,resizemode-4,imgsize-40366/facebook.jpg",
-        "publishedAt": "2018-03-18T15:44:00Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": "PTI",
-        "title": "India issues 13th Note Verbale to Pak on harassment of its HC staff",
-        "description": "The website of the Indian high commission continues to be intermittently blocked causing inconvenience and affecting the normal functioning of the mission.",
-        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/india-issues-13th-note-verbale-to-pak-on-harassment-of-its-hc-staff/articleshow/63356751.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-63356950,width-672,resizemode-4,imgsize-66967/indo-pak.jpg",
-        "publishedAt": "2018-03-18T15:34:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indiatoday.in"
-        },
-        "author": "IndiaToday.in",
-        "title": "I want to see to what extent Hasin Jahan can go to: Mohammed Shami",
-        "description": "Mohammed Shami ruled out any chances of reconciliation with his wife Hasin Jahan and said that he wants to see up to",
-        "url": "https://www.indiatoday.in/sports/cricket/story/i-want-to-see-to-what-extent-hasin-jahan-can-go-to-mohammed-shami-1192296-2018-03-18",
-        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/Shami_9.jpeg?o.kC6k7QwfkJB7s5ylaYVRl1vmsewpQe",
-        "publishedAt": "2018-03-18T14:31:52Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Hindustantimes.com"
-        },
-        "author": null,
-        "title": "Three AIIMS doctors killed, 4 injured in road crash on Yamuna Expressway",
-        "description": "This 169-km expressway has claimed close to 600 lives since it became operational in 2012.",
-        "url": "https://www.hindustantimes.com/india-news/3-aiims-doctors-killed-in-accident-on-yamuna-expressway/story-ZzwWzmR1ldWWS2nKlkt86H.html",
-        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/03/18/Pictures/expressway-hospital-available-leaving-succumbed-injuries-injured_2adffb74-2a8f-11e8-9f95-06a811d7e716.jpg",
-        "publishedAt": "2018-03-18T14:29:58Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
         },
         "author": "AFP",
-        "title": "Trump attacks fairness of Mueller probe",
-        "description": "US President Donald Trump today attacked special counsel Robert Mueller's investigation into Russia's election meddling as unfair, insisting the probe is staffed with \"hardened\" Democrats.\n\"Does anyone think this is fair? And yet, there is NO",
-        "url": "http://www.business-standard.com/article/pti-stories/trump-attacks-fairness-of-mueller-probe-118031800514_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
-        "publishedAt": "2018-03-18T14:20:32Z"
+        "title": "Malala Yousafzai returns to Pakistan for first time since Taliban attack",
+        "description": "She is expected to meet with Prime Minister Shahid Khaqan Abbasi during the four-day trip.",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/malala-yousafzai-returns-to-pakistan-for-first-time-since-taliban-attack/articleshow/63525778.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63525795,width-672,resizemode-4,imgsize-199704/malala-yousafzai-returns-to-pakistan-for-first-time-since-taliban-attack.jpg",
+        "publishedAt": "2018-03-29T02:30:19Z"
     }, {
         "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
+            "id": null,
+            "name": "Newindianexpress.com"
         },
         "author": null,
-        "title": "Rahul Dravid files police complaint against ponzi firm",
-        "description": "India News: Former Indian cricket team captain Rahul Dravid has lodged a complaint against a Bengaluru-based firm for allegedly cheating him of Rs 4 crore. Though",
-        "url": "https://timesofindia.indiatimes.com/india/rahul-dravid-files-police-complaint-against-ponzi-firm/articleshow/63356101.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-63356109,width-1070,height-580,imgsize-155020,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2018-03-18T14:02:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Firstpost.com"
-        },
-        "author": null,
-        "title": "LIVE Cricket Score, India vs Bangladesh T20 Nidahas Trophy final: Tamim Iqbal falls for 15",
-        "description": "Chahal continues from the other end. Sabbir and Mushfiqur are forced to keep the ball grounded in their shots, collecting five singles off the over. Bangladesh's run-rate is less than seven an over, and unless they play catch-up now, they could end up with a …",
-        "url": "http://www.firstpost.com/firstcricket/sports-news/live-cricket-score-india-vs-bangladesh-t20-nidahas-trophy-final-tamim-iqbal-falls-for-15-4395101.html",
-        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/03/Untitled-design-97.jpg",
-        "publishedAt": "2018-03-18T13:54:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "AP",
-        "title": "Britain, Russia trade blame over poisoning of former spy",
-        "description": "Critics say UK authorities have been slow to investigate the origins of the wealth invested in London's financial district and property market. Russia's ambassador in London, Alexander Yakovenko, called for \"cooler heads,\" telling the Mail on Sunday that the …",
-        "url": "http://indianexpress.com/article/world/britain-russia-trade-blame-over-poisoning-of-former-spy-5102292/",
-        "urlToImage": "http://images.indianexpress.com/2018/03/may-parliament-759.jpg?w=759",
-        "publishedAt": "2018-03-18T13:51:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Tass.com"
-        },
-        "author": null,
-        "title": "Russian presidential election held without incidents in Syria",
-        "description": "The voter turnout is higher than during the Russian parliamentary polls in 2016, according to the Russian Embassy in Syria",
-        "url": "http://tass.com/politics/994796",
-        "urlToImage": "https://phototass4.cdnvideo.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20180318/1189710.jpg",
-        "publishedAt": "2018-03-18T13:14:33Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Uniindia.com"
-        },
-        "author": "Uniindia News Service",
-        "title": "No scam in Rafale deal: Defence Minister",
-        "description": "New Delhi, Mar 18 (UNI) Defence Minister Nirmala Sitharaman has denied allegations of scam in the procurement of the Rafale fighter jets.",
-        "url": "http://www.uniindia.com/no-scam-in-rafale-deal-defence-minister/india/news/1172002.html",
-        "urlToImage": "http://www.uniindia.com//images/stripad.png",
-        "publishedAt": "2018-03-18T12:57:41Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Global Trade War: 50 Nations To Brainstorm At WTO Meet In Delhi",
-        "description": "Protectionism and the crisis in the appellate body of WTO, are among issues likely to be discussed.",
-        "url": "https://www.ndtv.com/business/global-trade-war-50-nations-to-brainstorm-at-wto-meet-in-delhi-1825419",
-        "urlToImage": "https://cdn.ndtv.com/tech/images/gadgets/wto_reuters.jpg",
-        "publishedAt": "2018-03-18T12:03:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "News18.com"
-        },
-        "author": "News18.com",
-        "title": "Big B Has Embarrassing Dad Moment, Posts Shweta's Baby Pic On Instagram",
-        "description": "After posting a rambling blog earlier today about how he finds a copyright law to be rubbish, the megastar just posted a throwback black and white picture of himself with daughter Shweta",
-        "url": "https://www.news18.com/news/movies/amitabh-bachchan-has-embarrassing-dad-moment-posts-shwetas-baby-pic-on-instagram-1692937.html",
-        "urlToImage": "https://images.news18.com/ibnlive/uploads/2017/10/Amitabh-Bachchan-at-Unforgettable-world-tour.jpg",
-        "publishedAt": "2018-03-18T08:11:24Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Oneindia.com"
-        },
-        "author": "Vikas",
-        "title": "Gudi Padwa: Maharashtra celebrating this festival with great fevour and enthusiasm",
-        "description": "Gudi Padwa, which marks the arrival of Spring, is being celebrated with great enthusiasm by Maharashtra on Sunday. This spring-time festival marks the traditional new year for Marathi Hindus. Gudi Padwa is celebrated on the first day of the Chaitra month acco…",
-        "url": "https://www.oneindia.com/india/gudi-padwa-significance-this-famous-maharashtra-festival-2660963.html",
-        "urlToImage": "https://www.oneindia.com/img/2018/03/gudipadwa-1521350779.jpg",
-        "publishedAt": "2018-03-18T05:38:08Z"
+        "title": "Cambridge Analytica row: Whistleblower Wylie reveals larger footprint, says SCL gave JD(U) caste data",
+        "description": "The controversial firm’s services include providing micro-information that will help political parties win elections.",
+        "url": "http://www.newindianexpress.com/nation/2018/mar/29/cambridge-analytica-row-whistleblower-wylie-reveals-larger-footprint-says-scl-gave-jdu-caste-dat-1794022.html",
+        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/3/28/w600X390/Wylie-AP_2.jpg",
+        "publishedAt": "2018-03-29T02:28:22Z"
     }, {
         "source": {
             "id": null,
             "name": "India.com"
         },
         "author": "Zee Media Bureau",
-        "title": "Ola, Uber drivers threaten to go on indefinite strike from Monday in Mumbai, Delhi, Bengaluru",
-        "description": "The call for strike was made after drivers claimed that they were given big assurances but they are even unable to cover their costs.",
-        "url": "http://zeenews.india.com/india/ola-uber-drivers-threaten-to-go-on-indefinite-strike-from-monday-in-mumbai-delhi-bengaluru-2090985.html",
-        "urlToImage": "http://ste.india.com/sites/default/files/2018/03/18/669239-ola.jpg",
-        "publishedAt": "2018-03-18T04:10:28Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Firstpost.com"
-        },
-        "author": "",
-        "title": "Kapil Sharma accuses Sunil Grover of spreading rumours, says 'will not let anyone take advantage of my name'",
-        "description": "Popular comedian Kapil Sharma has accused his former The Kapil Sharma Show co-star Sunil Grover of lying about not calling him for his upcoming show.",
-        "url": "http://www.firstpost.com/entertainment/kapil-sharma-accuses-sunil-grover-of-spreading-rumours-says-will-not-let-anyone-take-advantage-of-my-name-4394991.html",
-        "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/02/Kapil-Sharma-SM.jpg",
-        "publishedAt": "2018-03-18T08:05:39Z"
+        "title": "Mahavir Jayanti: Here's taking a look at some of the interesting facts",
+        "description": "Mahavir was born on Trayodashi Tithi during Shukla Paksha in the Chaitra month.",
+        "url": "http://zeenews.india.com/spirituality/mahavir-jayanti-heres-taking-a-look-at-some-of-the-interesting-facts-2094516.html",
+        "urlToImage": "http://ste.india.com/sites/default/files/2018/03/29/672741-mahavir75.gif",
+        "publishedAt": "2018-03-29T01:34:59Z"
     }, {
         "source": {
             "id": null,
             "name": "Dnaindia.com"
         },
-        "author": "DNA Web Team",
-        "title": "Sore loser? After losing ISL final to Chennaiyin, Bengaluru's Gurpreet Sandhu says BFC 'won' the league",
-        "description": "Chennayin FC coach John Gregory is not pleased with Bengaluru FC goalkeeper Gurpreet Singh Sandhu's comments.",
-        "url": "http://www.dnaindia.com/sports/report-sore-loser-after-losing-isl-final-to-chennaiyin-bengaluru-s-gurpreet-sandhu-says-bfc-won-the-league-2595011",
-        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/18/661986-497650-gurpreet-singh-sandhu-gurpreet-singh-fb-page.jpg",
-        "publishedAt": "2018-03-18T07:56:39Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Financialexpress.com"
-        },
-        "author": "FE Online",
-        "title": "Ola Cabs, Uber drivers' strike from Monday: How it will impact you? Top 10 things to know",
-        "description": "Hyderabad cab drivers have also lent their support to the indefinite strike call that will affect millions of riders and commuters who depend on these taxi app services.",
-        "url": "http://www.financialexpress.com/india-news/ola-cabs-uber-drivers-strike-from-monday-how-it-will-impact-you-top-10-things-to-know/1102761/",
-        "urlToImage": "http://images.financialexpress.com/2018/03/OLA-UBER-620x413.jpg",
-        "publishedAt": "2018-03-18T07:42:46Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "News18.com"
-        },
-        "author": "News18.com",
-        "title": "Sasikala's Husband Natarajan Hospitalised in Bengaluru, on Ventilator Support",
-        "description": "Last November, Natarajan was admitted to a hospital, hours after the Madras High Court upheld a trial court order sentencing him to two years imprisonment in a tax evasion case. The 74-year-old had undergone a kidney and liver transplant at a Chennai hospital…",
-        "url": "https://www.news18.com/news/india/vk-sasikalas-husband-m-natarajan-is-in-critical-condition-and-on-ventilator-support-1692917.html",
-        "urlToImage": "https://images.news18.com/ibnlive/uploads/2016/12/sasikala-husband.jpg",
-        "publishedAt": "2018-03-18T07:22:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Scroll.in"
-        },
-        "author": "Scroll Staff",
-        "title": "New Delhi: Three arrested for beating to death 60-year-old man in fight over water in Wazirpur",
-        "description": "The police have also detained a minor in connection with the incident.",
-        "url": "https://scroll.in/latest/872432/new-delhi-three-arrested-for-beating-to-death-60-year-old-man-in-fight-over-water-in-wazirpur",
-        "urlToImage": "https://d1u4oo4rb13yy8.cloudfront.net/book/84808-uzgalmmchk-1521354114.jpeg",
-        "publishedAt": "2018-03-18T06:58:55Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Mid-day.com"
-        },
-        "author": null,
-        "title": "BCCI anti-graft officials speak to Mohammad Shami's wife on his match-fixing link",
-        "description": "Indian cricket board s anti-corruption wing officials meet beleaguered pacer Mohammad Shami s wife Hasin Jahan over her husband s alleged involvement in match-fixing",
-        "url": "https://www.mid-day.com/articles/bcci-anti-graft-officials-speak-to-mohammad-shamis-wife-on-his-match-fixing-link/19211195",
-        "urlToImage": "https://images.mid-day.com/images/2018/mar/Shami-hassin-l.jpg",
-        "publishedAt": "2018-03-18T06:52:12Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "Express Web Desk",
-        "title": "Congress Plenary Session LIVE UPDATES: Only Congress can take India out of economic crisis, says Chidambaram",
-        "description": "Indian National Congress 84th Plenary Session LIVE UPDATES: The session, which is a first since Gandhi's elevation to the presidential post, is called 'Change is now' and is aimed at projecting young faces of the party at the forefront. Follow this space to t…",
-        "url": "http://indianexpress.com/article/india/congress-plenary-session-live-updates-rahul-gandhi-manmohan-singh-sonia-gandhi-2019-elections-bjp-narendra-modi-5101830/",
-        "urlToImage": "http://images.indianexpress.com/2018/03/rahul-sonia-manmohan.jpg?w=759",
-        "publishedAt": "2018-03-18T06:41:06Z"
+        "author": "Dhaval Kulkarni",
+        "title": "Comptroller and Auditor General exposes FDA's irresponsible lapses",
+        "description": "A report tabled by the Comptroller and Auditor General (CAG) of India in the state legislature on Wednesday revealed that the Food and Drug Administration (FDA) allowed pharmacies and wholesalers to operate on expired licences for a year",
+        "url": "http://www.dnaindia.com/india/report-comptroller-and-auditor-general-exposes-fda-s-irresponsible-lapses-2598855",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/29/666085-cag.jpg",
+        "publishedAt": "2018-03-28T23:52:02Z"
     }, {
         "source": {
             "id": "the-times-of-india",
             "name": "The Times of India"
         },
         "author": null,
-        "title": "3 AIIMS doctors killed in accident on Yamuna Expressway",
-        "description": "3 AIIMS doctors killed in accident on Yamuna Expressway.Three junior doctors including a woman of AIIMS Delhi were killed in the intervening night of Saturday and Sunday on Yamuna expressway, while four other doctors were gravely injured in the accident. The …",
-        "url": "https://timesofindia.indiatimes.com/videos/city/delhi/3-aiims-doctors-killed-in-accident-on-yamuna-expressway/videoshow/63352357.cms",
-        "urlToImage": "https://timesofindia.indiatimes.com/photo/63352357.cms",
-        "publishedAt": "2018-03-18T06:02:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "India.com"
-        },
-        "author": "Zee Media Bureau",
-        "title": "Pakistan says no to WTO meet in New Delhi, to be attended by China and US",
-        "description": "Trade ministers of over 50 nations including the US, China and Pakistan were invited by India to discuss issues related to agriculture and services.",
-        "url": "http://zeenews.india.com/india/pakistan-says-no-to-wto-meet-in-new-delhi-to-be-attended-by-china-and-us-2090989.html",
-        "urlToImage": "http://ste.india.com/sites/default/files/2018/03/18/669244-india-pak.jpg",
-        "publishedAt": "2018-03-18T05:23:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": "NDTVSports.com",
-        "title": "Bangladesh Cricket Board Accepts Team's Conduct vs Sri Lanka Was \"Unacceptable\"",
-        "description": "Bangladesh cricket authorities expressed regret over disciplinary incidents during Friday's ill-tempered T20I against hosts Sri Lanka.",
-        "url": "https://sports.ndtv.com/nidahas-t20-tri-series-2018/nidahas-trophy-bangladesh-cricket-board-accepts-teams-conduct-vs-sri-lanka-was-unacceptable-1825295",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-03/bangladesh-fight-vs-sl-afp_806x605_41521350271.jpg",
-        "publishedAt": "2018-03-18T05:19:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Tass.com"
-        },
-        "author": null,
-        "title": "Russian presidential election 2018",
-        "description": "Eight candidates are running for the highest office in Russia",
-        "url": "http://tass.com/politics/994754",
-        "urlToImage": "https://phototass3.cdnvideo.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20180318/1189684.jpg",
-        "publishedAt": "2018-03-18T05:15:20Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "Shah Rukh Khan's interesting Instagram pics",
-        "description": "Shah Rukh Khan and Katrina Kaif are coming together in Aanand L Rai's 'Zero' and the two are having a blast while shooting for the film. The two keep posting candid clicks from the sets of the film, keeping their fans updated with the latest happenings. The a…",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/photo-features/shah-rukh-khan-recreates-darr-scene-with-katrina-kaif-on-sets-of-zero/photostory/63351926.cms",
-        "urlToImage": "https://static.toiimg.com/photo/63351926.cms",
-        "publishedAt": "2018-03-18T05:15:20Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Cheapest Prepaid Recharge Plans Of Reliance Jio, Airtel, Idea Cellular, BSNL Compared",
-        "description": "Bharti Airtel, Idea Cellular, and Vodafone are all moving offering attractive prepaid recharge plans to customers to outdo Jio's offers.",
-        "url": "https://www.ndtv.com/business/cheapest-prepaid-recharge-plans-of-reliance-jio-airtel-idea-cellular-bsnl-with-unlimited-data-benefi-1825288",
-        "urlToImage": "https://i.ndtvimg.com/i/2017-07/mobile_650x400_51500374213.jpg",
-        "publishedAt": "2018-03-18T04:53:12Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "5 civilians killed in Pakistani shelling in J&K's Balakote",
-        "description": "India News: NEW DELHI: Five civilians were killed and two others were wounded in heavy shelling by Pakistani troops in Balakote sector of Jammu and Kashmir's Poon.",
-        "url": "https://timesofindia.indiatimes.com/india/5-civilians-killed-in-pak-shelling-in-jks-balakote/articleshow/63351659.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-63351653,width-1070,height-580,imgsize-1257957,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2018-03-18T04:31:36Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Dnaindia.com"
-        },
-        "author": "ANI",
-        "title": "Gudi Padwa, Ugadi and Navratri 2018: President Ram Nath Kovind, PM Narendra Modi extend greetings to nation",
-        "description": "As the beginning of the Hindu New Year is being celebrated with great zeal across the nation, President Ram Nath Kovind on Sunday extended his greetings.",
-        "url": "http://www.dnaindia.com/india/report-gudi-padwa-ugadi-and-cheti-chand-2018-president-ram-nath-kovind-pm-narendra-modi-extend-greetings-to-nation-2594959",
-        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/18/661934-653694-kovind-modi-022118.jpg",
-        "publishedAt": "2018-03-18T04:16:11Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indiatoday.in"
-        },
-        "author": "IndiaToday.in",
-        "title": "Haryana Minister Anil Vij urges removal of word 'Adhinayak' from National Anthem",
-        "description": "Bharatiya Janata Party leader and Haryana Health Minister leader Anil Vij on Saturday demanded that the word 'Adhinay",
-        "url": "https://www.indiatoday.in/india/story/haryana-minister-anil-vij-urges-removal-of-word-adhinayak-from-national-anthem-1191929-2018-03-18",
-        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201803/Anil_Vij.jpeg?qVqFa8r1nGRVVhRQ7fgo_2_ywzqovLVP",
-        "publishedAt": "2018-03-18T03:14:07Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Financialexpress.com"
-        },
-        "author": "PTI",
-        "title": "Pakistan 'must do more' against Taliban: Mike Pence tells PM Shahid Khaqani Abbasi",
-        "description": "In a strong message, US Vice President Mike Pence has told Pakistan's Prime Minister Shahid Khaqani Abbasi that his country \"must do more\" against Taliban and other terror groups, the White House said today.",
-        "url": "http://www.financialexpress.com/world-news/pakistan-must-do-more-against-taliban-mike-pence-tells-pm-shahid-khaqani-abbasi/1102645/",
-        "urlToImage": "http://images.financialexpress.com/2018/03/download-33.jpg",
-        "publishedAt": "2018-03-18T03:02:00Z"
-
+        "title": "Maharashtra patients: Vishwajit Rane to meet Devendra Fadnavis today",
+        "description": "PANAJI: Reiterating that there will be no change in the decision taken by the state government to charge outstation patients using public health facil.",
+        "url": "https://timesofindia.indiatimes.com/city/goa/maha-patients-rane-to-meet-fadnavis-today/articleshow/63495071.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-63501319,width-1070,height-580,imgsize-1235298,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2018-03-27T21:31:27Z"
     }]
 }
