@@ -4,6 +4,226 @@
     "articles": [{
         "source": {
             "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": null,
+        "title": "Kolkata: Man mummifies mother's body, keeps it in freezer for three years to withdraw her pension",
+        "description": "Kolkata Police have arrested a man for allegedly preserving his mother's dead body in a refrigerator for two years.",
+        "url": "https://www.firstpost.com/india/kolkata-man-mummifies-mothers-body-keeps-it-in-freezer-for-three-years-to-withdraw-her-pension-4419589.html",
+        "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/03/West-Bengal-police_Social_Reuter.jpg",
+        "publishedAt": "2018-04-05T11:37:49Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Telugucinema.com"
+        },
+        "author": "admin",
+        "title": "Chal Mohan Ranga - Movie Review",
+        "description": "What’s it about!",
+        "url": "http://www.telugucinema.com/reviews/chal-mohan-ranga-movie-review",
+        "urlToImage": "http://www.telugucinema.com/sites/default/files2/chal-mohan-ranga-review.jpg",
+        "publishedAt": "2018-04-05T11:13:50Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Newindianexpress.com"
+        },
+        "author": null,
+        "title": "Pakistani court bars government from 'harassing' Hafiz Saeed",
+        "description": "The petition argued that barring an organisation or party from indulging in charity work was against the Constitution.",
+        "url": "http://www.newindianexpress.com/world/2018/apr/05/pakistani-court-bars-government-from-harassing-hafiz-saeed-1797446.html",
+        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/3/6/w600X390/HafizSaeed_PTI.jpg",
+        "publishedAt": "2018-04-05T11:11:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": null,
+        "title": "Supreme Court grants partial relief to RCom; clears decks for sale of spectrum, optical fibre assets to Reliance Jio",
+        "description": "In much-awaited relief to Reliance Communications (RCOM), SC cleared decks for sale of its spectrum and optical fibre assets to Reliance Jio Infocomm",
+        "url": "https://www.firstpost.com/business/supreme-court-grants-partial-relief-to-rcom-clears-decks-for-sale-of-spectrum-optical-fibre-assets-to-reliance-jio-4419579.html",
+        "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/04/rcom-reuters_social.jpg",
+        "publishedAt": "2018-04-05T11:06:47Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Cricbuzz.com"
+        },
+        "author": "",
+        "title": "Star Sports India bag BCCI media rights for INR 6138.1 Crore",
+        "description": "The successful e-bid is 59.39 percent more than Star's winning bid for the 2012-18 cycle",
+        "url": "http://www.cricbuzz.com/cricket-news/101474/star-sports-india-bag-bcci-media-rights-for-inr-6138-crore",
+        "urlToImage": "http://i.cricketcb.com/i/news/stories/2018/apr/5//prv_1522926979.jpeg",
+        "publishedAt": "2018-04-05T11:03:47Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": null,
+        "title": "Commonwealth Games 2018: Publicity shy P Gururaja basks in spotlight with long-overdue silver in weightlifting",
+        "description": "Gururaja has always enjoyed the anonymity. So while the spotlight has been on the likes of Mirabai Chanu and S Sathish among the weightlifters, it has allowed Gururaja to silently work his way up",
+        "url": "https://www.firstpost.com/sports/commonwealth-games-2018-publicity-shy-p-gururaja-basks-in-spotlight-with-long-overdue-silver-in-weightlifting-4419449.html",
+        "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/04/P-Gururaj-weightlifting_PTI1.jpg",
+        "publishedAt": "2018-04-05T10:59:05Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "DMK Leads Tamil Nadu Shutdown Over Cauvery Water Issue, Normal Life Hit",
+        "description": "The DMK-led opposition parties' bandh, demanding the establishment of Cauvery Management Board to ensure water for farmers as per the Supreme Court orders, began in Tamil Nadu today.",
+        "url": "https://www.ndtv.com/chennai-news/dmk-leads-tamil-nadu-shutdown-over-cauvery-water-issue-normal-life-hit-1833261",
+        "urlToImage": "https://i.ndtvimg.com/i/2018-04/mk-stalin-arrested_650x400_41522920543.jpg",
+        "publishedAt": "2018-04-05T09:33:38Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Firstpost.com"
+        },
+        "author": null,
+        "title": "Indian cricketers, film stars need to counter Shahid Afridi's lies effectively, give his handlers a befitting reply",
+        "description": "Shahid Afridi took to tweeting about his concern for terrorists being picked off like flies in Kashmir, which obviously got his goat.",
+        "url": "https://www.firstpost.com/firstcricket/sports-news/indian-cricketers-film-stars-need-to-counter-shahid-afridis-lies-effectively-give-his-handlers-a-befitting-reply-4419387.html",
+        "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/04/Shahid-Afridi-2012-WT20-Reuters-social.jpg",
+        "publishedAt": "2018-04-05T09:25:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hindustantimes.com"
+        },
+        "author": null,
+        "title": "Islamic scholar Tariq Ramadan, accused of rape, 'paid woman for silence' in 2015",
+        "description": "The Oxford professor was detained by a French court in February over charges that he raped two Muslim women in France. A third woman has since made further allegations of rape.",
+        "url": "https://www.hindustantimes.com/world-news/islamic-scholar-tariq-ramadan-accused-of-rape-paid-woman-for-silence-in-2015/story-8lCpkdxVBGdUMK2wOpyGOM.html",
+        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/04/05/Pictures/journalist-conference-author-mosque-ramadan-nantes-after_e8e4c2ba-38b0-11e8-8aa5-05fdb8d0ae52.jpg",
+        "publishedAt": "2018-04-05T09:20:45Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatvnews.com"
+        },
+        "author": "Edited by : India TV Entertainment Desk",
+        "title": "God willing, we'll work together: Sunil Grover may reconcile with Kapil Sharma",
+        "description": "Tv News – If the Indian Premier League (IPL) has hit on the perfect formula of cricket, glamour and entertainment, then taking the trend further is a new web series Jio Dhan Dhana Dhan Live, headlined by Sunil.",
+        "url": "https://www.indiatvnews.com/entertainment/tv-god-willing-we-will-work-together-sunil-grover-may-reconcile-with-kapil-sharma-436004",
+        "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/04/fd-1522919380.jpg",
+        "publishedAt": "2018-04-05T09:12:55Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Indiatoday.in"
+        },
+        "author": "PTI",
+        "title": "Warner too accepts punishment, says he wont challenge ban",
+        "description": "Melbourne, Apr 5 (PTI) Considered the plotter-in-chief in the ball-tampering scandal, David Warner today said he has",
+        "url": "https://www.indiatoday.in/pti-feed/story/warner-too-accepts-punishment-says-he-wont-challenge-ban-1205302-2018-04-05",
+        "urlToImage": "Warner too accepts punishment, says he wont challenge ban",
+        "publishedAt": "2018-04-05T09:11:25Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Sunil Dhawan",
+        "title": "Despite RBI maintaining status quo on rates, your loans may pinch more",
+        "description": "As things stand today, the interest rate appears to either remain stagnant or there exists a remote possibility for them to move up in the near term.",
+        "url": "https://economictimes.indiatimes.com/wealth/borrow/rbi-keeps-repo-rates-unchanged-home-loan-emis-may-still-rise/articleshow/63613229.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63626308,width-672,resizemode-4,imgsize-32820/homeloan.jpg",
+        "publishedAt": "2018-04-05T09:03:00Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Blackbuck poaching case: Salman Khan gets 5 years in jail, other accused let off",
+        "description": "A Jodhpur trial court today convicted actor Salman Khan in the 1998 blackbuck poaching case. Co-accused Saif Ali Khan, Sonali Bendre, Neelam and Tabu",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/blackbuck-poaching-case-salman-khan-convicted-other-accused-let-off/articleshow/63623658.cms",
+        "urlToImage": "https://static.toiimg.com/photo/msid-63623762/63623762.jpg?151208",
+        "publishedAt": "2018-04-05T08:49:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Business-standard.com"
+        },
+        "author": "IANS",
+        "title": "Duterte closes tourist island over sewage",
+        "description": "Philippines President Rodrigo Duterte has ordered a six-month closure of Boracay island, one of the country's main tourist destinations, and described it as a \"cesspool\" of water pollution, an official confirmed on Thursday.",
+        "url": "http://www.business-standard.com/article/news-ians/duterte-closes-tourist-island-over-sewage-118040500482_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+        "publishedAt": "2018-04-05T08:32:35Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "'Baaghi 2' box-office collection Day 6: Tiger Shroff starrer action flick enters the Rs 100 crore club",
+        "description": "Ahmed Khan's romantic action film 'Baaghi 2' which stars Tiger Shroff and Disha Patani in the lead, has continued its good streak by raking in another",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/baaghi-2-box-office-collection-day-6-tiger-shroff-starrer-action-flick-enters-the-rs-100-crore-club/articleshow/63625951.cms",
+        "urlToImage": "https://static.toiimg.com/photo/msid-63625951/63625951.jpg?95485",
+        "publishedAt": "2018-04-05T08:30:10Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Www.bgr.in"
+        },
+        "author": "Staff",
+        "title": "Xiaomi Redmi 5 to go on sale on Amazon India at 2PM today: Details on pricing and offers",
+        "description": "Redmi 5 is available in two variants - 2GB+16GB and 3GB+32GB.",
+        "url": "http://www.bgr.in/news/xiaomi-redmi-5-to-go-on-sale-on-amazon-india-at-2pm-today-details-on-pricing-and-offers/",
+        "urlToImage": "http://st1.bgr.in/wp-content/uploads/2018/03/xiaomi-redmi-5-front.jpg",
+        "publishedAt": "2018-04-05T08:12:00Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Financialexpress.com"
+        },
+        "author": "FE Online",
+        "title": "Salman Khan convicted: As brand 'Bhaijaan' takes big hit, here's how much money industry stands to lose",
+        "description": "Salman Khan suffered a massive setback in the Jodhpur blackbuck poaching case after the court convicted the actor in the blackbuck poaching case. The others accused in the case Saif Ali Khan, Sonali Bendre, Tabu and Neelam were acquitted in the black buck cas…",
+        "url": "http://www.financialexpress.com/entertainment/salman-khan-verdict-blackbuck-poaching-case-how-much-money-industry-stands-to-lose/1122280/",
+        "urlToImage": "http://images.financialexpress.com/2018/04/salman_khan_accused_NEW.jpg",
+        "publishedAt": "2018-04-05T06:33:03Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Ndtv.com"
+        },
+        "author": null,
+        "title": "Facebook Says Most of Its 2 Billion Users Had Their Data 'Scraped' From Profiles",
+        "description": "",
+        "url": "https://gadgets.ndtv.com/social-networking/news/facebook-says-most-of-its-2-billion-users-had-their-data-scraped-from-profiles-1833126",
+        "urlToImage": "https://i.gadgets360cdn.com/large/facebook_privacy_mark_zuckerberg_wp_full_1522906793496.jpg",
+        "publishedAt": "2018-04-05T05:56:50Z"
+    }, {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": null,
+        "title": "Ranveer Singh and Deepika Padukone's alleged love life",
+        "description": "Speculations were rife that Ranveer Singh and Deepika Padukone are tying the knot this year-end. There were reports which claimed the rumoured bride-to-be has even started shopping for her big day.  Recently, the actress revealed her marriage plans and said t…",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/photo-features/heres-what-deepika-padukone-had-to-say-about-her-marriage-plans/photostory/63622501.cms",
+        "urlToImage": "https://static.toiimg.com/photo/63622501.cms",
+        "publishedAt": "2018-04-05T04:17:27Z"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Dnaindia.com"
+        },
+        "author": null,
+        "title": "Jammu and Kashmir cop suspended over killing of 22-year-old",
+        "description": null,
+        "url": "http://www.dnaindia.com/india/report-jammu-and-kashmir-cop-suspended-over-killing-of-22-year-old-2601143",
+        "urlToImage": null,
+        "publishedAt": "2018-04-05T00:12:03Z"
+    },{
+        "source": {
+            "id": null,
             "name": "Newindianexpress.com"
         },
         "author": null,
