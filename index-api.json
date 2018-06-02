@@ -2,653 +2,877 @@
     "status": "ok",
     "totalResults": 20,
     "articles": [{
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": "NDTVSports.com",
-        "title": "Commonwealth Games 2018, Day 2, Live Updates: Sanjita Chanu Gives India Second Gold In Weightlifting",
-        "description": "Commonwealth Games 2018, Day 2, Live Updates: Sanjita Chanu gave India second weightlifting gold on the second day of the games.",
-        "url": "https://sports.ndtv.com/commonwealth-games-2018/commonwealth-games-2018-day-2-live-updates-1833522",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-04/sanjita-chanu_800x600_71522933207.jpg",
-        "publishedAt": "2018-04-06T02:41:59Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Mohammed Bin Salman: A Reformist Prince Who Has Shaken Saudi Arabia",
-        "description": "Saudi Arabia's Mohammed bin Salman, who is set to visit France next week, has shaken up the ultraconservative oil superpower with economic, social and religious reforms since becoming crown prince.",
-        "url": "https://www.ndtv.com/people/mohammed-bin-salman-a-reformist-prince-who-has-shaken-saudi-arabia-1833534",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-03/mohammed-bin-salman-afp_650x400_41521429454.jpg",
-        "publishedAt": "2018-04-06T02:40:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Trump Seeks An Additional $100 Billion In Tariffs Against China In Escalation Of Trade Confrontation",
-        "description": "President Donald Trump ordered his chief trade negotiator to consider imposing tariffs on an additional $100 billion of Chinese products Thursday, in a dramatic escalation of his trade war with China.",
-        "url": "https://www.ndtv.com/world-news/trump-seeks-an-additional-100-billion-in-tariffs-against-china-in-escalation-of-trade-confrontation-1833530",
-        "urlToImage": "https://i.ndtvimg.com/i/2017-12/trump-xi-reuters_650x400_81513672116.jpg",
-        "publishedAt": "2018-04-06T02:33:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Lalu Yadav's Son Tej Pratap To Marry Aishwarya Roy. Details Here",
-        "description": "In less than 10 months after Rabri Devi declared she was bride hunting for her two sons, the Lalu Yadav household seems to have found a match for elder son Tej Pratap Yadav. The 30-year-old is set to marry Aishwarya Roy, who also hails from a political family…",
-        "url": "https://www.ndtv.com/india-news/lalu-yadavs-son-tej-pratap-yadav-to-tie-knot-with-former-bihar-chief-ministers-daughter-1833527",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-01/tej-pratap-yadav_650x400_51517296890.jpg",
-        "publishedAt": "2018-04-06T02:24:48Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Deccanchronicle.com"
-        },
-        "author": "AFP",
-        "title": "I don't know: Trump breaks silence, claims no knowledge of porn star payment",
-        "description": "Stephanie Clifford -- who goes by the screen name Stormy Daniels -- claims she received money to cover up a sexual encounter with Trump.",
-        "url": "https://www.deccanchronicle.com/world/america/060418/trump-claims-no-knowledge-of-porn-star-stormy-daniels-payment.html",
-        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-652ovhkibhg82kh6on274ihkn1-20180406074658.Medi.jpeg",
-        "publishedAt": "2018-04-06T02:23:25Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "India.com"
-        },
-        "author": "Zee Media Bureau",
-        "title": "BJP's 38th Foundation Day: PM Modi, Amit Shah to interact with party workers",
-        "description": "While PM Modi will interact with them via video conference through his app, party president Amit Shah will address a public meeting in Mumbai to mark its foundation day.",
-        "url": "http://zeenews.india.com/india/bjps-38th-foundation-day-pm-modi-amit-shah-to-interact-with-party-workers-2097023.html",
-        "urlToImage": "http://ste.india.com/sites/default/files/2018/04/06/675187-nm1.jpg",
-        "publishedAt": "2018-04-06T02:23:16Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "Express News Service",
-        "title": "BJP Foundation Day: Amit Shah to reflect on election roadmap",
-        "description": "BJP Foundation Day: During his two days visit to Mumbai, Shah will reflect on electoral roadmap for the state BJP. The core committee meeting was confined to senior select leaders.",
-        "url": "http://indianexpress.com/article/india/amit-shah-to-reflect-on-election-roadmap-5125676/",
-        "urlToImage": "http://images.indianexpress.com/2018/04/amit-shah-7591.jpg?w=759",
-        "publishedAt": "2018-04-06T02:12:36Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Firstpost.com"
-        },
-        "author": null,
-        "title": "Salman Khan convicted in blackbuck poaching case LIVE updates: Actor refused dal-roti served to him in Jodhpur jail",
-        "description": null,
-        "url": "https://www.firstpost.com/india/salman-khan-convicted-in-blackbuck-poaching-case-live-updates-bail-hearing-at-10-30-am-actor-spends-night-in-jodhpur-central-jail-4420239.html",
-        "urlToImage": null,
-        "publishedAt": "2018-04-06T02:10:47Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": "Shafaque Alam",
-        "title": "Step by Step students fall ill after lunch, catering co suspended",
-        "description": "NOIDA: Several students of Step by Step, a leading private school in Noida, complained of stomach ache and vomited on campus after eating lunch on Thu.",
-        "url": "https://timesofindia.indiatimes.com/city/noida/step-by-step-students-fall-ill-after-lunch-catering-co-suspended/articleshow/63634502.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-63634695,width-1070,height-580,imgsize-1420348,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2018-04-06T01:39:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Newindianexpress.com"
-        },
-        "author": null,
-        "title": "RBI keeps repo rate at 6%, cuts inflation forecast",
-        "description": "It means interest rate hikes are unlikely anytime soon, provided global crude oil prices or local food prices do not turn upside down.",
-        "url": "http://www.newindianexpress.com/business/2018/apr/06/rbi-keeps-repo-rate-at-6-cuts-inflation-forecast-1797597.html",
-        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/4/6/w600X390/RBI_keeps_repo_rate.jpg",
-        "publishedAt": "2018-04-06T01:14:44Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "Shubhangi Khapre",
-        "title": "CM Devendra Fadnavis: Mega rally will show BJP's vastness to workers",
-        "description": "In the state, there are a total 90,000 booths. In each booth there are at least 10 to 20 workers. The foremost task is to reach out to the people door-to-door in their assigned areas.",
-        "url": "http://indianexpress.com/article/india/cm-devendra-fadnavis-mega-rally-will-show-bjps-vastness-to-workers-5125644/",
-        "urlToImage": "http://images.indianexpress.com/2017/11/devendra-fadnavis1.jpg?w=759",
-        "publishedAt": "2018-04-06T00:50:58Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Financialexpress.com"
-        },
-        "author": "Rashmi Rajput",
-        "title": "Aborted flight? Rajiv Kochhar stopped at Mumbai stopped by CBI",
-        "description": "CBI on Thursday stopped Rajiv Kochhar, brother-in-law of ICICI Bank MD and CEO Chanda Kochhar, at the Chhatrapati Shivaji Maharaj International Airport in Mumbai while he was about to board a flight to Singapore.",
-        "url": "http://www.financialexpress.com/industry/aborted-flight-rajiv-kochhar-stopped-at-mumbai-stopped-by-cbi/1123244/",
-        "urlToImage": "http://images.financialexpress.com/2018/04/cats-55.jpg",
-        "publishedAt": "2018-04-05T23:07:29Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Financialexpress.com"
-        },
-        "author": "FE Bureau",
-        "title": "IndiGo rules itself out of race for Air India",
-        "description": "IndiGo was the only airline that had shown interest in buying into Air India even before the government formally invited EoIs from airlines and other interested parties in writing.",
-        "url": "http://www.financialexpress.com/industry/indigo-rules-itself-out-of-race-for-air-india/1123208/",
-        "urlToImage": "http://images.financialexpress.com/2018/04/indigo-7.jpg",
-        "publishedAt": "2018-04-05T22:08:08Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Latimes.com"
-        },
-        "author": "Joseph Serna, Rong-Gong Lin II",
-        "title": "Magnitude 5.3 earthquake strikes near Channel Islands; no damage reported",
-        "description": "A magnitude 5.3 earthquake was recorded at the Channel Islands Thursday afternoon, the U.S. Geological Survey said.",
-        "url": "http://www.latimes.com/local/lanow/la-me-ln-earthquake-channel-islands-20180405-story.html",
-        "urlToImage": "http://www.latimes.com/resizer/WY86nKSPCr5zAw0ihD40jZEt5SA=/1200x0/www.trbimg.com/img-5ac690f1/turbine/la-me-ln-earthquake-channel-islands-20180405",
-        "publishedAt": "2018-04-05T20:28:18Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Dnaindia.com"
-        },
-        "author": "PTI",
-        "title": "Power supply in three Maharashtra cities to be privatised",
-        "description": "Mumbra-Kausa and Malegaon are known for heavy recovery losses which are more than 50 per cent and 43 per cent, respectively.",
-        "url": "http://www.dnaindia.com/india/report-power-supply-in-three-maharashtra-cities-to-be-privatised-2601464",
-        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/04/05/668790-discoms-pti.jpg",
-        "publishedAt": "2018-04-05T18:23:13Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "IANS",
-        "title": "Jaitley to undergo kidney transplant",
-        "description": "Finance Minister Arun Jaitley is suffering from some kidney related problems and is set to undergo kidney transplant this weekend.",
-        "url": "http://www.business-standard.com/article/news-ians/jaitley-to-undergo-kidney-transplant-118040501156_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
-        "publishedAt": "2018-04-05T15:06:40Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Pak Court Refuses To Lift Ban On Hafiz Saeed's \"Social Welfare Activities\"",
-        "description": "A Pakistani court today allowed Mumbai attack mastermind Hafiz Saeed's two organisations Jamaat-ud-Dawah (JuD) and Falah-i-Insaniyat Foundation (FIF) to work under the ambit of law but did not set aside the government's ban on their 'social welfare activities…",
-        "url": "https://www.ndtv.com/world-news/pak-court-refuses-to-lift-ban-on-hafiz-saeeds-social-welfare-activities-1833415",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-03/hafiz-saeed_650x400_81520651941.jpg",
-        "publishedAt": "2018-04-05T13:53:58Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": "ET Online",
-        "title": "Aadhaar can't stop bank frauds: Supreme Court to Centre",
-        "description": "The bank knows whom it is giving loan to and it is the bank officials who are hand in glove with the fraudster, a five-judge constitution bench said today.",
-        "url": "https://economictimes.indiatimes.com/news/politics-and-nation/aadhaar-cant-stop-bank-frauds-supreme-court-to-centre/articleshow/63627499.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-63627502,width-672,resizemode-4,imgsize-62624/untitled-25.jpg",
-        "publishedAt": "2018-04-05T10:32:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Financialexpress.com"
-        },
-        "author": "FE Online",
-        "title": "WhatsApp security alert: Downloading this fake version could cost you a huge price; here's how",
-        "description": "WhatsApp, one of the most popular messaging application across the globe, has brought new features and updates from time to time. However, being one of the popular application has some shortfalls too. A fake version of the app is floating across the internet.",
-        "url": "http://www.financialexpress.com/industry/technology/whatsapp-security-alert-beware-think-twice-before-downloading-this-version-heres-why/1121218/",
-        "urlToImage": "http://images.financialexpress.com/2018/04/WHatsApp.jpeg",
-        "publishedAt": "2018-04-05T07:36:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Firstpost.com"
-        },
-        "author": null,
-        "title": "Kolkata: Man mummifies mother's body, keeps it in freezer for three years to withdraw her pension",
-        "description": "Kolkata Police have arrested a man for allegedly preserving his mother's dead body in a refrigerator for two years.",
-        "url": "https://www.firstpost.com/india/kolkata-man-mummifies-mothers-body-keeps-it-in-freezer-for-three-years-to-withdraw-her-pension-4419589.html",
-        "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/03/West-Bengal-police_Social_Reuter.jpg",
-        "publishedAt": "2018-04-05T11:37:49Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Telugucinema.com"
-        },
-        "author": "admin",
-        "title": "Chal Mohan Ranga - Movie Review",
-        "description": "What’s it about!",
-        "url": "http://www.telugucinema.com/reviews/chal-mohan-ranga-movie-review",
-        "urlToImage": "http://www.telugucinema.com/sites/default/files2/chal-mohan-ranga-review.jpg",
-        "publishedAt": "2018-04-05T11:13:50Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Newindianexpress.com"
-        },
-        "author": null,
-        "title": "Pakistani court bars government from 'harassing' Hafiz Saeed",
-        "description": "The petition argued that barring an organisation or party from indulging in charity work was against the Constitution.",
-        "url": "http://www.newindianexpress.com/world/2018/apr/05/pakistani-court-bars-government-from-harassing-hafiz-saeed-1797446.html",
-        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/3/6/w600X390/HafizSaeed_PTI.jpg",
-        "publishedAt": "2018-04-05T11:11:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Firstpost.com"
-        },
-        "author": null,
-        "title": "Supreme Court grants partial relief to RCom; clears decks for sale of spectrum, optical fibre assets to Reliance Jio",
-        "description": "In much-awaited relief to Reliance Communications (RCOM), SC cleared decks for sale of its spectrum and optical fibre assets to Reliance Jio Infocomm",
-        "url": "https://www.firstpost.com/business/supreme-court-grants-partial-relief-to-rcom-clears-decks-for-sale-of-spectrum-optical-fibre-assets-to-reliance-jio-4419579.html",
-        "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/04/rcom-reuters_social.jpg",
-        "publishedAt": "2018-04-05T11:06:47Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Cricbuzz.com"
-        },
-        "author": "",
-        "title": "Star Sports India bag BCCI media rights for INR 6138.1 Crore",
-        "description": "The successful e-bid is 59.39 percent more than Star's winning bid for the 2012-18 cycle",
-        "url": "http://www.cricbuzz.com/cricket-news/101474/star-sports-india-bag-bcci-media-rights-for-inr-6138-crore",
-        "urlToImage": "http://i.cricketcb.com/i/news/stories/2018/apr/5//prv_1522926979.jpeg",
-        "publishedAt": "2018-04-05T11:03:47Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Firstpost.com"
-        },
-        "author": null,
-        "title": "Commonwealth Games 2018: Publicity shy P Gururaja basks in spotlight with long-overdue silver in weightlifting",
-        "description": "Gururaja has always enjoyed the anonymity. So while the spotlight has been on the likes of Mirabai Chanu and S Sathish among the weightlifters, it has allowed Gururaja to silently work his way up",
-        "url": "https://www.firstpost.com/sports/commonwealth-games-2018-publicity-shy-p-gururaja-basks-in-spotlight-with-long-overdue-silver-in-weightlifting-4419449.html",
-        "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/04/P-Gururaj-weightlifting_PTI1.jpg",
-        "publishedAt": "2018-04-05T10:59:05Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "DMK Leads Tamil Nadu Shutdown Over Cauvery Water Issue, Normal Life Hit",
-        "description": "The DMK-led opposition parties' bandh, demanding the establishment of Cauvery Management Board to ensure water for farmers as per the Supreme Court orders, began in Tamil Nadu today.",
-        "url": "https://www.ndtv.com/chennai-news/dmk-leads-tamil-nadu-shutdown-over-cauvery-water-issue-normal-life-hit-1833261",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-04/mk-stalin-arrested_650x400_41522920543.jpg",
-        "publishedAt": "2018-04-05T09:33:38Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Firstpost.com"
-        },
-        "author": null,
-        "title": "Indian cricketers, film stars need to counter Shahid Afridi's lies effectively, give his handlers a befitting reply",
-        "description": "Shahid Afridi took to tweeting about his concern for terrorists being picked off like flies in Kashmir, which obviously got his goat.",
-        "url": "https://www.firstpost.com/firstcricket/sports-news/indian-cricketers-film-stars-need-to-counter-shahid-afridis-lies-effectively-give-his-handlers-a-befitting-reply-4419387.html",
-        "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/04/Shahid-Afridi-2012-WT20-Reuters-social.jpg",
-        "publishedAt": "2018-04-05T09:25:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Hindustantimes.com"
-        },
-        "author": null,
-        "title": "Islamic scholar Tariq Ramadan, accused of rape, 'paid woman for silence' in 2015",
-        "description": "The Oxford professor was detained by a French court in February over charges that he raped two Muslim women in France. A third woman has since made further allegations of rape.",
-        "url": "https://www.hindustantimes.com/world-news/islamic-scholar-tariq-ramadan-accused-of-rape-paid-woman-for-silence-in-2015/story-8lCpkdxVBGdUMK2wOpyGOM.html",
-        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/04/05/Pictures/journalist-conference-author-mosque-ramadan-nantes-after_e8e4c2ba-38b0-11e8-8aa5-05fdb8d0ae52.jpg",
-        "publishedAt": "2018-04-05T09:20:45Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indiatvnews.com"
-        },
-        "author": "Edited by : India TV Entertainment Desk",
-        "title": "God willing, we'll work together: Sunil Grover may reconcile with Kapil Sharma",
-        "description": "Tv News – If the Indian Premier League (IPL) has hit on the perfect formula of cricket, glamour and entertainment, then taking the trend further is a new web series Jio Dhan Dhana Dhan Live, headlined by Sunil.",
-        "url": "https://www.indiatvnews.com/entertainment/tv-god-willing-we-will-work-together-sunil-grover-may-reconcile-with-kapil-sharma-436004",
-        "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/04/fd-1522919380.jpg",
-        "publishedAt": "2018-04-05T09:12:55Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indiatoday.in"
-        },
-        "author": "PTI",
-        "title": "Warner too accepts punishment, says he wont challenge ban",
-        "description": "Melbourne, Apr 5 (PTI) Considered the plotter-in-chief in the ball-tampering scandal, David Warner today said he has",
-        "url": "https://www.indiatoday.in/pti-feed/story/warner-too-accepts-punishment-says-he-wont-challenge-ban-1205302-2018-04-05",
-        "urlToImage": "Warner too accepts punishment, says he wont challenge ban",
-        "publishedAt": "2018-04-05T09:11:25Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": "Sunil Dhawan",
-        "title": "Despite RBI maintaining status quo on rates, your loans may pinch more",
-        "description": "As things stand today, the interest rate appears to either remain stagnant or there exists a remote possibility for them to move up in the near term.",
-        "url": "https://economictimes.indiatimes.com/wealth/borrow/rbi-keeps-repo-rates-unchanged-home-loan-emis-may-still-rise/articleshow/63613229.cms",
-        "urlToImage": "https://img.etimg.com/thumb/msid-63626308,width-672,resizemode-4,imgsize-32820/homeloan.jpg",
-        "publishedAt": "2018-04-05T09:03:00Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "Blackbuck poaching case: Salman Khan gets 5 years in jail, other accused let off",
-        "description": "A Jodhpur trial court today convicted actor Salman Khan in the 1998 blackbuck poaching case. Co-accused Saif Ali Khan, Sonali Bendre, Neelam and Tabu",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/blackbuck-poaching-case-salman-khan-convicted-other-accused-let-off/articleshow/63623658.cms",
-        "urlToImage": "https://static.toiimg.com/photo/msid-63623762/63623762.jpg?151208",
-        "publishedAt": "2018-04-05T08:49:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "IANS",
-        "title": "Duterte closes tourist island over sewage",
-        "description": "Philippines President Rodrigo Duterte has ordered a six-month closure of Boracay island, one of the country's main tourist destinations, and described it as a \"cesspool\" of water pollution, an official confirmed on Thursday.",
-        "url": "http://www.business-standard.com/article/news-ians/duterte-closes-tourist-island-over-sewage-118040500482_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
-        "publishedAt": "2018-04-05T08:32:35Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "'Baaghi 2' box-office collection Day 6: Tiger Shroff starrer action flick enters the Rs 100 crore club",
-        "description": "Ahmed Khan's romantic action film 'Baaghi 2' which stars Tiger Shroff and Disha Patani in the lead, has continued its good streak by raking in another",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/baaghi-2-box-office-collection-day-6-tiger-shroff-starrer-action-flick-enters-the-rs-100-crore-club/articleshow/63625951.cms",
-        "urlToImage": "https://static.toiimg.com/photo/msid-63625951/63625951.jpg?95485",
-        "publishedAt": "2018-04-05T08:30:10Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Www.bgr.in"
-        },
-        "author": "Staff",
-        "title": "Xiaomi Redmi 5 to go on sale on Amazon India at 2PM today: Details on pricing and offers",
-        "description": "Redmi 5 is available in two variants - 2GB+16GB and 3GB+32GB.",
-        "url": "http://www.bgr.in/news/xiaomi-redmi-5-to-go-on-sale-on-amazon-india-at-2pm-today-details-on-pricing-and-offers/",
-        "urlToImage": "http://st1.bgr.in/wp-content/uploads/2018/03/xiaomi-redmi-5-front.jpg",
-        "publishedAt": "2018-04-05T08:12:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Financialexpress.com"
-        },
-        "author": "FE Online",
-        "title": "Salman Khan convicted: As brand 'Bhaijaan' takes big hit, here's how much money industry stands to lose",
-        "description": "Salman Khan suffered a massive setback in the Jodhpur blackbuck poaching case after the court convicted the actor in the blackbuck poaching case. The others accused in the case Saif Ali Khan, Sonali Bendre, Tabu and Neelam were acquitted in the black buck cas…",
-        "url": "http://www.financialexpress.com/entertainment/salman-khan-verdict-blackbuck-poaching-case-how-much-money-industry-stands-to-lose/1122280/",
-        "urlToImage": "http://images.financialexpress.com/2018/04/salman_khan_accused_NEW.jpg",
-        "publishedAt": "2018-04-05T06:33:03Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Facebook Says Most of Its 2 Billion Users Had Their Data 'Scraped' From Profiles",
-        "description": "",
-        "url": "https://gadgets.ndtv.com/social-networking/news/facebook-says-most-of-its-2-billion-users-had-their-data-scraped-from-profiles-1833126",
-        "urlToImage": "https://i.gadgets360cdn.com/large/facebook_privacy_mark_zuckerberg_wp_full_1522906793496.jpg",
-        "publishedAt": "2018-04-05T05:56:50Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "Ranveer Singh and Deepika Padukone's alleged love life",
-        "description": "Speculations were rife that Ranveer Singh and Deepika Padukone are tying the knot this year-end. There were reports which claimed the rumoured bride-to-be has even started shopping for her big day.  Recently, the actress revealed her marriage plans and said t…",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/photo-features/heres-what-deepika-padukone-had-to-say-about-her-marriage-plans/photostory/63622501.cms",
-        "urlToImage": "https://static.toiimg.com/photo/63622501.cms",
-        "publishedAt": "2018-04-05T04:17:27Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Dnaindia.com"
-        },
-        "author": null,
-        "title": "Jammu and Kashmir cop suspended over killing of 22-year-old",
-        "description": null,
-        "url": "http://www.dnaindia.com/india/report-jammu-and-kashmir-cop-suspended-over-killing-of-22-year-old-2601143",
-        "urlToImage": null,
-        "publishedAt": "2018-04-05T00:12:03Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Newindianexpress.com"
-        },
-        "author": null,
-        "title": "Christopher Nolan in India: Want to watch more Indian cinema, says 'Dunkirk' director",
-        "description": "Multiple Oscar-nominated filmmaker Christopher Nolan, known for \"Batman Begins\" and \"The Dark Knight\", says he is interested to watch and know more about Indian cinema.",
-        "url": "http://www.newindianexpress.com/nation/2018/apr/01/christopher-nolan-in-india-want-to-watch-more-indian-cinema-says-dunkirk-director-1795542.html",
-        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/4/1/w600X390/chris_nolan.JPG",
-        "publishedAt": "2018-04-01T05:26:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "Follow These Steps To Renew Your Jio Prime Membership Till March 2019",
-        "description": "Jio's prime membership renewal process is not automatic, and subscribers need to do it manually.",
-        "url": "https://www.ndtv.com/business/reliance-jio-prime-membership-extended-follow-these-steps-to-renew-service-till-march-2019-1831279",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-03/jio_650x400_51522418000.jpeg",
-        "publishedAt": "2018-04-01T05:17:45Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Hindustantimes.com"
-        },
-        "author": null,
-        "title": "Indore building collapse: Death toll reaches 10, CM Chouhan announces ex-gratia",
-        "description": "Madhya Pradesh chief minister Shivraj Singh Chouhan on Sunday announced an ex-gratia of Rs 2 lakh each for the next kin of those killed in the building collapse.",
-        "url": "https://www.hindustantimes.com/bhopal/indore-building-collapse-death-toll-reaches-10-cm-chouhan-announces-ex-gratia/story-rwrjPYikvhrdqDQK3SggDN.html",
-        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/04/01/Pictures/_2a1508b4-3567-11e8-9916-7e63ef9446cf.jpg",
-        "publishedAt": "2018-04-01T04:54:44Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Moneycontrol.com"
-        },
-        "author": null,
-        "title": "Videocon Group-ICICI Bank loan controversy: Chanda Kochhar faces her biggest test in final lap of storied career",
-        "description": "Chanda Kochhar is known to be quite an “assertive” boss but some of those who know her say she is a professional person and one who knows when to say “no”.",
-        "url": "https://www.moneycontrol.com/news/business/videocon-group-icici-bank-loan-controversy-chanda-kochhar-faces-her-biggest-test-in-final-lap-of-storied-career-2540263.html",
-        "urlToImage": "https://static-news.moneycontrol.com/static-mcnews/2018/03/RTS1NQMN-770x433.jpg",
-        "publishedAt": "2018-04-01T04:52:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Newindianexpress.com"
-        },
-        "author": null,
-        "title": "Desert Storm rally - not for the weak hearted",
-        "description": "The Desert Storm Rally is not for the weak-hearted. Despite heat and challenging surroundings of Thar desert, the arduo us event attracts scores of cars and bikes every year.",
-        "url": "http://www.newindianexpress.com/sport/other/2018/apr/01/desert-storm-rally---not-for-the-weak-hearted-1795423.html",
-        "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/4/1/w600X390/SAND.jpg",
-        "publishedAt": "2018-04-01T04:49:04Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "Tech Desk",
-        "title": "Huawei could be working on a foldable smartphone, reveals patent",
-        "description": "Huawei, the world's third-largest smartphone maker, is exploring the idea of a smartphone with a foldable display. Apple and Samsung are also rumoured to be working on foldable smartphones.",
-        "url": "http://indianexpress.com/article/technology/mobile-tabs/huawei-could-be-working-on-a-foldable-smartphone-reveals-patent-5119124/",
-        "urlToImage": "http://images.indianexpress.com/2018/04/huawei-main.jpg?w=759",
-        "publishedAt": "2018-04-01T04:39:44Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "Encounters underway in Shopian, 7 terrorists gunned down",
-        "description": "India News: NEW DELHI: Eight terrorists were killed on Sunday in an multiple encounters with security forces in Jammu and Kashmir's Shopian and Anantnag district,.",
-        "url": "https://timesofindia.indiatimes.com/india/encounters-underway-in-shopian-7-terrorists-gunned-down/articleshow/63564305.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-63564297,width-1070,height-580,imgsize-1778267,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2018-04-01T04:37:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": "NDTVSports.com",
-        "title": "David Warner's Wife Candice Blames Herself For Husband's Ball-Tampering Crisis",
-        "description": "Candice Warner said that her husband David was struggling to cope with the ball-tampering fallout.",
-        "url": "https://sports.ndtv.com/cricket/ball-tampering-scandal-its-all-my-fault-says-david-warners-wife-candice-1831271",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-04/david-warner-and-wife-candice-afp_806x605_51522556729.jpg",
-        "publishedAt": "2018-04-01T04:26:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Deccanchronicle.com"
-        },
-        "author": "Deccan Chronicle / ANI",
-        "title": "VK Singh to fly to Mosul today to bring back bodies of 39 Indians",
-        "description": "On March 20, Sushma Swaraj informed the RS that all 39 Indians kidnapped by ISIS in Mosul three years ago were dead.",
-        "url": "https://www.deccanchronicle.com/nation/current-affairs/010418/vk-singh-to-fly-to-mosul-today-to-bring-back-bodies-of-39-slain-indian.html",
-        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-652ovhkibhg82kh6on274ihkn1-20180401094834.Medi.jpeg",
-        "publishedAt": "2018-04-01T04:24:35Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Financialexpress.com"
-        },
-        "author": "Pragya Srivastava",
-        "title": "e-Way Bill rolls out from today: All you need to know in 10 points",
-        "description": "e-Way Bill (Electronic Bill) is all set to roll-out from today for inter-state movement of goods and services for value more than Rs 50,000. It is an online generated document required by the person in charge of the transportation for the movement of goods.",
-        "url": "http://www.financialexpress.com/economy/e-way-bill-rolls-out-from-today-all-you-need-to-know-in-10-points/1117343/",
-        "urlToImage": "http://images.financialexpress.com/2018/03/e-way-bill-1.jpg",
-        "publishedAt": "2018-04-01T04:19:22Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": "Shri Puri",
-        "title": "Emotional reunion for Dalai Lama, retired soldier",
-        "description": "India News: In the last 60 years, they met only once at Guwahati last April. The Dalai Lama thanked India for providing shelter to him and his countrymen and invi",
-        "url": "https://timesofindia.indiatimes.com/india/emotional-reunion-for-dalai-retired-soldier/articleshow/63564099.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-63564116,width-1070,height-580,imgsize-167613,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2018-04-01T04:01:43Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Indianexpress.com"
-        },
-        "author": "A. Kameshwari",
-        "title": "Bollywood heaps praise on Baaghi 2, Hrithik Roshan gives 'Best action hero' title to Tiger Shroff",
-        "description": "Baaghi 2 has become Bollywood’s highest opener of 2018, surpassing Padmaavat. The Tiger Shroff and Disha Patani starrer minted Rs 25 crore on day one. Directed by Ahmed Khan, the romantic actioner is receiving immense love from Bollywood and audience.",
-        "url": "http://indianexpress.com/article/entertainment/bollywood/baaghi-2-tiger-shroff-hrithik-roshan-tweets-5119123/",
-        "urlToImage": "http://images.indianexpress.com/2018/04/tiger-shroff-759.jpg?w=759",
-        "publishedAt": "2018-04-01T03:43:08Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Business-standard.com"
-        },
-        "author": "BS Web Team",
-        "title": "CBSE re-exam: Police get reply from Google over 'paper leak' email; updates",
-        "description": "CBSE announced re-exam for Class 12 economics to be held on April 25, whereas decision on Class 10 maths re-exam to be taken in next 15 days. If required will held only in Delhi NCR and Haryana. Find CBSE latest news and updates.",
-        "url": "http://www.business-standard.com/article/current-affairs/cbse-re-exam-cbse-class-12-economics-exam-on-april-25-cbse-class-10-maths-likely-in-july-check-cbse-nic-in-top-10-developments-118033100083_1.html",
-        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-03/31/full/1522495417-751.jpg",
-        "publishedAt": "2018-04-01T03:33:45Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Hindustantimes.com"
-        },
-        "author": null,
-        "title": "Gazans bury their dead after bloodiest day in years",
-        "description": "Israel defended the army fire at Palestinians who broke away from the main protest of tens of thousands and neared the heavily fortified fence around the Gaza Strip.",
-        "url": "https://www.hindustantimes.com/world-news/gazans-bury-their-dead-after-bloodiest-day-in-years/story-P1QUnC8vXYLfWArqnY9yVP.html",
-        "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/04/01/Pictures/palestinians-israel_2ee31bea-3555-11e8-a509-12b0194ead35.jpg",
-        "publishedAt": "2018-04-01T03:15:00Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": "Chethan Kumar",
-        "title": "48 hours after launch, Isro goes silent on GSAT",
-        "description": "India News: A source said the second orbit-raising exercise around 10am went off well, with the liquid apogee motor (LAM) firing as planned, but a few minutes lat",
-        "url": "https://timesofindia.indiatimes.com/india/48-hours-after-launch-isro-silent-on-gsat/articleshow/63562646.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-63563747,width-1070,height-580,imgsize-168827,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2018-04-01T03:04:21Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Ndtv.com"
-        },
-        "author": null,
-        "title": "In Midnight Drama, Union Minister's Son Arrested For Bihar Violence",
-        "description": "Surrounded by hordes of media personnel, Arijit Shashwat, the son of union minister Ashwini Choubey, was arrested late on Saturday night in Bihar's capital Patna, in connection with the communal clashes in Bhagalpur town in the state two weeks ago.",
-        "url": "https://www.ndtv.com/india-news/arijit-shashwat-son-of-union-minister-arrested-for-violence-in-bihars-bhagalpur-1831253",
-        "urlToImage": "https://i.ndtvimg.com/i/2018-04/arijit-shashwat-arrest_650x400_61522550960.jpg",
-        "publishedAt": "2018-04-01T03:04:14Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "Karnataka win will open doors for BJP in south: Amit Shah",
-        "description": "MYSURU: Winding up his two-day tour of Mysuru, Chamarajanagar and Mandya districts, party’s national president Amit Shah on Saturday said a victory in.",
-        "url": "https://timesofindia.indiatimes.com/city/mysuru/ktaka-win-will-open-doors-for-bjp-in-south-shah/articleshow/63561856.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-63561856,width-1070,height-580,imgsize-1357542,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2018-04-01T02:39:00Z"
-    }, {
-        "source": {
-            "id": "the-times-of-india",
-            "name": "The Times of India"
-        },
-        "author": null,
-        "title": "Two arrested after six stab 25-yr-old to death",
-        "description": "CHANDIGARH: Six persons stabbed a 25-year-old resident of a colony in Sector 25 to death on Friday night.",
-        "url": "https://timesofindia.indiatimes.com/city/chandigarh/two-arrested-after-six-stab-25-yr-old-to-death/articleshow/63561675.cms",
-        "urlToImage": "https://static.toiimg.com/thumb/msid-63564543,width-1070,height-580,imgsize-1223758,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-        "publishedAt": "2018-04-01T02:18:00Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Livemint.com"
-        },
-        "author": "Charles Assisi",
-        "title": "And Jesus Christ was a sailor",
-        "description": "That the Bible has survived in multiple iterations has to do with the ‘Theory of Optimal Fragmentation’. It holds lessons for individuals, businesses and governments",
-        "url": "https://www.livemint.com/Sundayapp/SRcwybC5N0hWV7CLWDM7kI/And-Jesus-Christ-was-a-sailor.html",
-        "urlToImage": "https://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/03/31/Photos/Sundayapp/20160327_KRA-DP-MN_Easter%20Sunday-014-keyD--621x414@LiveMint.JPG",
-        "publishedAt": "2018-03-31T19:46:36Z"
-    }, {
-        "source": {
-            "id": null,
-            "name": "Deccanchronicle.com"
-        },
-        "author": "Indulekha Arakkal",
-        "title": "Arrests dash hopes of Maoists 'sympathy' wave",
-        "description": "The accused were also formerly students of the varsity.",
-        "url": "https://www.deccanchronicle.com/nation/current-affairs/010418/arrests-dash-hopes-of-maoists-sympathy-wave.html",
-        "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-17rrpp5jihtj37qm43kil4v3o0-20180329062200.Medi.jpeg",
-        "publishedAt": "2018-03-31T19:03:09Z"
-    }]
+            "status": "ok",
+            "totalResults": 20,
+            "articles": [{
+                "source": {
+                    "id": "the-times-of-india",
+                    "name": "The Times of India"
+                },
+                "author": null,
+                "title": "J&K: Clashes at funeral procession of youth hit by CRPF vehicle",
+                "description": "India News: Clashes broke out between protesters and security forces in the old city here on Saturday after the death of a youth who was allegedly hit by a CRPF v",
+                "url": "https://timesofindia.indiatimes.com/india/jk-clashes-at-funeral-procession-of-youth-hit-by-crpf-vehicle/articleshow/64428955.cms",
+                "urlToImage": "https://static.toiimg.com/thumb/msid-64428957,width-1070,height-580,imgsize-1162904,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                "publishedAt": "2018-06-02T12:36:00Z"
+            }, {
+                "source": {
+                    "id": null,
+                    "name": "News18.com"
+                },
+                "author": "Pranshu Mishra",
+                "title": "With Lessons From Karnataka and Kairana, Opposition in Talks of Alliance in Madhya Pradesh",
+                "description": "In Madhya Pradesh, a pre-poll alliance or an opposition 'mahagathbandhan' like that in Kairana looks like a strong possibility with both Congress and BSP sending feelers to each other.",
+                "url": "https://www.news18.com/news/politics/with-lessons-from-karnataka-and-kairana-opposition-in-talks-of-alliance-in-madhya-pradesh-1767047.html",
+                "urlToImage": "https://images.news18.com/ibnlive/uploads/2018/05/opposition2.jpg",
+                "publishedAt": "2018-06-02T12:35:00Z"
+            }, {
+                "source": {
+                    "id": null,
+                    "name": "Indianexpress.com"
+                },
+                "author": "Trends Desk",
+                "title": "'Veere Di Wedding' Twitter talk: 'Never heard abuses in films before?' Tweeple debate the 'sexist' criticism",
+                "description": "'Veere Di Wedding' review: Many viewers said that the audience seemed to be fine with other similar films that featured Bollywood actors. Check out all the memes and reactions here.",
+                "url": "http://indianexpress.com/article/trending/trending-in-india/veere-di-wedding-review-sexist-criticism-twitter-kareena-kapoor-sonam-kapoor-swara-bhaskar-5201284/",
+                "urlToImage": "http://images.indianexpress.com/2018/06/veere-di-wedding-cast-759.jpg?w=759",
+                "publishedAt": "2018-06-02T12:19:19Z"
+            }, {
+                "source": {
+                    "id": "the-times-of-india",
+                    "name": "The Times of India"
+                },
+                "author": "Bikash Singh",
+                "title": "Shillong continues to be restive, UDP seeks eviction in Punjabi lane area",
+                "description": "Paul Lyngdoh, Working President of United Democratic Party (UDP), an ally in the six party ruling coalition in Meghalaya said that he will meet the chief minister on Monday.",
+                "url": "https://economictimes.indiatimes.com/news/politics-and-nation/shillong-continues-to-be-restive-udp-seeks-eviction-in-punjabi-lane-area/articleshow/64428601.cms",
+                "urlToImage": "https://img.etimg.com/thumb/msid-64428620,width-672,resizemode-4,imgsize-235777/conrad-sangma.jpg",
+                "publishedAt": "2018-06-02T12:03:00Z"
+            }, {
+                "source": {
+                    "id": "the-times-of-india",
+                    "name": "The Times of India"
+                },
+                "author": null,
+                "title": "IPL betting case: Will continue to cooperate with cops, says Arbaaz Khan",
+                "description": "Speaking to reporters after recording his statement with the Thane Anti-Extortion Cell (AEC), the actor said \"My statement has been recorded. Police a",
+                "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ipl-betting-case-will-continue-to-cooperate-with-cops-says-arbaaz-khan/articleshow/64428571.cms",
+                "urlToImage": "https://static.toiimg.com/photo/msid-64428785/64428785.jpg?207304",
+                "publishedAt": "2018-06-02T11:59:39Z"
+            }, {
+                "source": {
+                    "id": null,
+                    "name": "Indiatoday.in"
+                },
+                "author": "IndiaToday.in",
+                "title": "Al-Qaeda unhappy with Saudi crown for sanctioning WWE event in April",
+                "description": "WWE hosted The Greatest Royal Rumble event at the King Abdullah Sports City in Jeddah on April 27.",
+                "url": "https://www.indiatoday.in/sports/wwe/story/al-qaeda-unhappy-with-saudi-crown-for-sanctioning-wwe-event-in-april-1248814-2018-06-02",
+                "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201806/1_3.jpeg?Wd9DC5wPd2jXL8f4BVIu1kgVQo1OZRXO",
+                "publishedAt": "2018-06-02T11:48:27Z"
+            }, {
+                "source": {
+                    "id": "the-times-of-india",
+                    "name": "The Times of India"
+                },
+                "author": null,
+                "title": "Deepika Padukone is happy for Ranbir Kapoor And Alia Bhatt",
+                "description": "Deepika Padukone reportedly was aware of her ex boyfriend Ranbir Kapoor's relationship with Alia Bhatt.",
+                "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-is-happy-for-ranbir-kapoor-and-alia-bhatt/articleshow/64427734.cms",
+                "urlToImage": "https://static.toiimg.com/photo/msid-64427784/64427784.jpg?73850",
+                "publishedAt": "2018-06-02T10:34:00Z"
+            }, {
+                "source": {
+                    "id": "the-times-of-india",
+                    "name": "The Times of India"
+                },
+                "author": null,
+                "title": "Another person found hanging from high-tension tower in Purulia; triggers protests",
+                "description": "PURULIA (WB): The body of a 35-year-old man was on Saturday found hanging from a high-tension tower here, triggering protests by locals, police said.",
+                "url": "https://timesofindia.indiatimes.com/city/kolkata/another-person-found-hanging-from-tree-in-purulia-triggers-protests/articleshow/64426125.cms",
+                "urlToImage": "https://static.toiimg.com/thumb/msid-64426397,width-1070,height-580,imgsize-1177161,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                "publishedAt": "2018-06-02T10:05:46Z"
+            }, {
+                "source": {
+                    "id": null,
+                    "name": "Ndtv.com"
+                },
+                "author": null,
+                "title": "Petrol, Diesel Prices Cut For 4th Straight Day. Check Fuel Prices Here",
+                "description": "Brent crude had last month touched highest since 2014, around $80 a barrel, leading to the rise in domestic fuel prices.",
+                "url": "https://www.ndtv.com/business/petrol-diesel-prices-cut-for-4th-straight-day-check-fuel-prices-here-1861445",
+                "urlToImage": "https://i.ndtvimg.com/i/2018-03/petrol-diesel-fuel-pump-reuters_650x400_41522500322.jpg",
+                "publishedAt": "2018-06-02T10:03:37Z"
+            }, {
+                "source": {
+                    "id": "the-times-of-india",
+                    "name": "The Times of India"
+                },
+                "author": "PTI",
+                "title": "Rajinikanth should withdraw his comments on Sterlite stir: Puducherry CM",
+                "description": "The actor-turned-politician Rajinikanth had alleged that the protest turned violent on the 100th day (May 22) after it was infiltrated by some some anti-social elements.",
+                "url": "https://economictimes.indiatimes.com/news/politics-and-nation/rajinikanth-should-withdraw-his-comments-on-sterlite-stir-puducherry-cm/articleshow/64426894.cms",
+                "urlToImage": "https://img.etimg.com/thumb/msid-64426982,width-672,resizemode-4,imgsize-158497/puducherry-cm-v-narayanasamy.jpg",
+                "publishedAt": "2018-06-02T09:13:00Z"
+            }, {
+                "source": {
+                    "id": null,
+                    "name": "Newindianexpress.com"
+                },
+                "author": null,
+                "title": "One more death in Kozhikode but Nipah ruled out as cause",
+                "description": "As on Saturday, the death toll due to Nipah in the state still remains 16. The district administration is tracking a contact list of 2000 people which is likely to go higher.",
+                "url": "http://www.newindianexpress.com/states/kerala/2018/jun/02/one-more-death-in-kozhikode-but-nipah-ruled-out-as-cause-1822838.html",
+                "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/6/2/w600X390/Duo.jpg",
+                "publishedAt": "2018-06-02T08:50:00Z"
+            }, {
+                "source": {
+                    "id": null,
+                    "name": "Dnaindia.com"
+                },
+                "author": "Srawan Shukla",
+                "title": "At least 19 dead in dust storms in Uttar Pradesh",
+                "description": "At least 19 people were killed and 9 injured in dust storms that hit different parts of Uttar Pradesh on Friday night. Western Uttar Pradesh was the worst hit where maximum casualties were reported.",
+                "url": "http://www.dnaindia.com/india/report-at-least-19-dead-in-dust-storms-in-uttar-pradesh-2621338",
+                "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/06/02/688958-dust-stor-2.jpg",
+                "publishedAt": "2018-06-02T08:34:52Z"
+            }, {
+                "source": {
+                    "id": null,
+                    "name": "Financialexpress.com"
+                },
+                "author": "Ananya Sundaray",
+                "title": "UPSC Prelims 2018: 5 last day tips to help you score more",
+                "description": "UPSC Prelims 2018: With months of hard work and preparation reaching its fate in just a day, it is important for the candidates to keep their calm so that they can give their best in their run-up to the UPSC merit list.",
+                "url": "https://www.financialexpress.com/education-2/upsc-prelims-2018-5-last-day-tips-to-help-you-score-more/1190860/",
+                "urlToImage": "https://images.financialexpress.com/2018/06/upsc.jpg",
+                "publishedAt": "2018-06-02T07:28:04Z"
+            }, {
+                "source": {
+                    "id": null,
+                    "name": "News18.com"
+                },
+                "author": "News18.com",
+                "title": "Meet Subham Goel, the Youngest Candidate for California Governor",
+                "description": "Shubham is a graduate in economics and cinema from the University of California. He has been working with a virtual reality company after graduating last year.",
+                "url": "https://www.news18.com/news/india/meet-subham-goel-the-youngest-candidate-for-california-governor-1766819.html",
+                "urlToImage": "https://images.news18.com/ibnlive/uploads/2018/06/goel.jpg",
+                "publishedAt": "2018-06-02T06:59:00Z"
+            }, {
+                "source": {
+                    "id": null,
+                    "name": "Dnaindia.com"
+                },
+                "author": "ANI",
+                "title": "Indrani Mukerjea hospitalised after complaining of chest pain",
+                "description": "She is currently admitted in Mumbai's JJ Hospital.",
+                "url": "http://www.dnaindia.com/india/report-indrani-mukerjea-hospitalised-after-complaining-of-chest-pain-2621287",
+                "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/06/02/688884-587967-indrani1.jpg",
+                "publishedAt": "2018-06-02T04:39:48Z"
+            }, {
+                "source": {
+                    "id": "the-times-of-india",
+                    "name": "The Times of India"
+                },
+                "author": "Salil Mekaad",
+                "title": "Farmers' protest fizzles out on day 1 in Mandsaur, Indore",
+                "description": "The 10-day farmers’ protest from Friday fizzled out on day one as supply of milk and vegetables remained unaffected in most parts of Indore and Ujjain",
+                "url": "https://timesofindia.indiatimes.com/city/indore/farmers-protest-fizzles-out-on-day-1-in-mandsaur-indore/articleshow/64414299.cms",
+                "urlToImage": "https://static.toiimg.com/thumb/msid-64414300,width-1070,height-580,imgsize-1189382,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                "publishedAt": "2018-06-01T09:15:00Z"
+            }, {
+                "source": {
+                    "id": null,
+                    "name": "Abplive.in"
+                },
+                "author": "ABP News Bureau",
+                "title": "All 5 accused in Bodh Gaya blasts case get life imprisonment",
+                "description": "On 7 July 2013 a series of ten bombs exploded in and around the Mahabodhi Temple complex, a UNESCO World Heritage Site in Bodh Gaya, India",
+                "url": "http://www.abplive.in/india-news/all-5-accused-in-bodh-gaya-blasts-case-get-life-imprisonment-706101",
+                "urlToImage": "http://images.abplive.in/index.php?url=http://static.abplive.in/wp-content/uploads/2018/06/01132041/402800982-Bodhgayablast_6.jpg&dimension=484:252&action=crop&convertTo=jpeg",
+                "publishedAt": "2018-06-01T07:57:38Z"
+            }, {
+                "source": {
+                    "id": "the-times-of-india",
+                    "name": "The Times of India"
+                },
+                "author": null,
+                "title": "Bypoll results reflect anger against Narendra Modi govt: Arvind Kejriwal",
+                "description": "India News: The BJP lost the crucial Lok Sabha bypolls in Kairana in Uttar Pradesh and Bhandara-Gondiya in Maharashtra. It, however, managed to retain the Palghar",
+                "url": "https://timesofindia.indiatimes.com/india/bypoll-results-reflect-anger-against-narendra-modi-govt-arvind-kejriwal/articleshow/64400048.cms",
+                "urlToImage": "https://static.toiimg.com/thumb/msid-64400062,width-1070,height-580,imgsize-1124488,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+                "publishedAt": "2018-05-31T10:17:44Z"
+            }, {
+                "source": {
+                    "id": null,
+                    "name": "Freepressjournal.in"
+                },
+                "author": null,
+                "title": "Bhopal: Class X results: Bhopal girl students give stellar performance",
+                "description": "Bhopal: Girls once again maintained a lead over boys in pass percentage and also bagged the top positions here in the Class 10 CBSE board examinations, the results of which were declared on Tuesday. Three local girls secured top positions in the city merit li…",
+                "url": "http://www.freepressjournal.in/latest-news/bhopal-class-x-results-bhopal-girl-students-give-stellar-performance/1286566",
+                "urlToImage": "http://www.freepressjournal.in/wp-content/uploads/2018/05/ClAss-X-results.jpg",
+                "publishedAt": "2018-05-30T03:04:25Z"
+            }, {
+                "source": {
+                    "id": "the-times-of-india",
+                    "name": "The Times of India"
+                },
+                "author": "PTI",
+                "title": "Modi biggest victim of political intolerance, says Naqvi",
+                "description": "Enhancing transparency is the hall mark of the government, which took bold and decisive steps like the surgical strike against terrorists, demonetisation and GST.",
+                "url": "https://economictimes.indiatimes.com/news/politics-and-nation/modi-biggest-victim-of-political-intolerance-says-naqvi/articleshow/64371139.cms",
+                "urlToImage": "https://img.etimg.com/thumb/msid-64371256,width-672,resizemode-4,imgsize-58597/naqvi-pti.jpg",
+                "publishedAt": "2018-05-29T12:40:00Z"
+            }, {
+            "source": {
+                "id": null,
+                "name": "Ndtv.com"
+            },
+            "author": "NDTVSports.com",
+            "title": "Commonwealth Games 2018, Day 2, Live Updates: Sanjita Chanu Gives India Second Gold In Weightlifting",
+            "description": "Commonwealth Games 2018, Day 2, Live Updates: Sanjita Chanu gave India second weightlifting gold on the second day of the games.",
+            "url": "https://sports.ndtv.com/commonwealth-games-2018/commonwealth-games-2018-day-2-live-updates-1833522",
+            "urlToImage": "https://i.ndtvimg.com/i/2018-04/sanjita-chanu_800x600_71522933207.jpg",
+            "publishedAt": "2018-04-06T02:41:59Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Ndtv.com"
+            },
+            "author": null,
+            "title": "Mohammed Bin Salman: A Reformist Prince Who Has Shaken Saudi Arabia",
+            "description": "Saudi Arabia's Mohammed bin Salman, who is set to visit France next week, has shaken up the ultraconservative oil superpower with economic, social and religious reforms since becoming crown prince.",
+            "url": "https://www.ndtv.com/people/mohammed-bin-salman-a-reformist-prince-who-has-shaken-saudi-arabia-1833534",
+            "urlToImage": "https://i.ndtvimg.com/i/2018-03/mohammed-bin-salman-afp_650x400_41521429454.jpg",
+            "publishedAt": "2018-04-06T02:40:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Ndtv.com"
+            },
+            "author": null,
+            "title": "Trump Seeks An Additional $100 Billion In Tariffs Against China In Escalation Of Trade Confrontation",
+            "description": "President Donald Trump ordered his chief trade negotiator to consider imposing tariffs on an additional $100 billion of Chinese products Thursday, in a dramatic escalation of his trade war with China.",
+            "url": "https://www.ndtv.com/world-news/trump-seeks-an-additional-100-billion-in-tariffs-against-china-in-escalation-of-trade-confrontation-1833530",
+            "urlToImage": "https://i.ndtvimg.com/i/2017-12/trump-xi-reuters_650x400_81513672116.jpg",
+            "publishedAt": "2018-04-06T02:33:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Ndtv.com"
+            },
+            "author": null,
+            "title": "Lalu Yadav's Son Tej Pratap To Marry Aishwarya Roy. Details Here",
+            "description": "In less than 10 months after Rabri Devi declared she was bride hunting for her two sons, the Lalu Yadav household seems to have found a match for elder son Tej Pratap Yadav. The 30-year-old is set to marry Aishwarya Roy, who also hails from a political family…",
+            "url": "https://www.ndtv.com/india-news/lalu-yadavs-son-tej-pratap-yadav-to-tie-knot-with-former-bihar-chief-ministers-daughter-1833527",
+            "urlToImage": "https://i.ndtvimg.com/i/2018-01/tej-pratap-yadav_650x400_51517296890.jpg",
+            "publishedAt": "2018-04-06T02:24:48Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Deccanchronicle.com"
+            },
+            "author": "AFP",
+            "title": "I don't know: Trump breaks silence, claims no knowledge of porn star payment",
+            "description": "Stephanie Clifford -- who goes by the screen name Stormy Daniels -- claims she received money to cover up a sexual encounter with Trump.",
+            "url": "https://www.deccanchronicle.com/world/america/060418/trump-claims-no-knowledge-of-porn-star-stormy-daniels-payment.html",
+            "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-652ovhkibhg82kh6on274ihkn1-20180406074658.Medi.jpeg",
+            "publishedAt": "2018-04-06T02:23:25Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "India.com"
+            },
+            "author": "Zee Media Bureau",
+            "title": "BJP's 38th Foundation Day: PM Modi, Amit Shah to interact with party workers",
+            "description": "While PM Modi will interact with them via video conference through his app, party president Amit Shah will address a public meeting in Mumbai to mark its foundation day.",
+            "url": "http://zeenews.india.com/india/bjps-38th-foundation-day-pm-modi-amit-shah-to-interact-with-party-workers-2097023.html",
+            "urlToImage": "http://ste.india.com/sites/default/files/2018/04/06/675187-nm1.jpg",
+            "publishedAt": "2018-04-06T02:23:16Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Express News Service",
+            "title": "BJP Foundation Day: Amit Shah to reflect on election roadmap",
+            "description": "BJP Foundation Day: During his two days visit to Mumbai, Shah will reflect on electoral roadmap for the state BJP. The core committee meeting was confined to senior select leaders.",
+            "url": "http://indianexpress.com/article/india/amit-shah-to-reflect-on-election-roadmap-5125676/",
+            "urlToImage": "http://images.indianexpress.com/2018/04/amit-shah-7591.jpg?w=759",
+            "publishedAt": "2018-04-06T02:12:36Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Firstpost.com"
+            },
+            "author": null,
+            "title": "Salman Khan convicted in blackbuck poaching case LIVE updates: Actor refused dal-roti served to him in Jodhpur jail",
+            "description": null,
+            "url": "https://www.firstpost.com/india/salman-khan-convicted-in-blackbuck-poaching-case-live-updates-bail-hearing-at-10-30-am-actor-spends-night-in-jodhpur-central-jail-4420239.html",
+            "urlToImage": null,
+            "publishedAt": "2018-04-06T02:10:47Z"
+        }, {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Shafaque Alam",
+            "title": "Step by Step students fall ill after lunch, catering co suspended",
+            "description": "NOIDA: Several students of Step by Step, a leading private school in Noida, complained of stomach ache and vomited on campus after eating lunch on Thu.",
+            "url": "https://timesofindia.indiatimes.com/city/noida/step-by-step-students-fall-ill-after-lunch-catering-co-suspended/articleshow/63634502.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-63634695,width-1070,height-580,imgsize-1420348,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2018-04-06T01:39:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Newindianexpress.com"
+            },
+            "author": null,
+            "title": "RBI keeps repo rate at 6%, cuts inflation forecast",
+            "description": "It means interest rate hikes are unlikely anytime soon, provided global crude oil prices or local food prices do not turn upside down.",
+            "url": "http://www.newindianexpress.com/business/2018/apr/06/rbi-keeps-repo-rate-at-6-cuts-inflation-forecast-1797597.html",
+            "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/4/6/w600X390/RBI_keeps_repo_rate.jpg",
+            "publishedAt": "2018-04-06T01:14:44Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Shubhangi Khapre",
+            "title": "CM Devendra Fadnavis: Mega rally will show BJP's vastness to workers",
+            "description": "In the state, there are a total 90,000 booths. In each booth there are at least 10 to 20 workers. The foremost task is to reach out to the people door-to-door in their assigned areas.",
+            "url": "http://indianexpress.com/article/india/cm-devendra-fadnavis-mega-rally-will-show-bjps-vastness-to-workers-5125644/",
+            "urlToImage": "http://images.indianexpress.com/2017/11/devendra-fadnavis1.jpg?w=759",
+            "publishedAt": "2018-04-06T00:50:58Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Financialexpress.com"
+            },
+            "author": "Rashmi Rajput",
+            "title": "Aborted flight? Rajiv Kochhar stopped at Mumbai stopped by CBI",
+            "description": "CBI on Thursday stopped Rajiv Kochhar, brother-in-law of ICICI Bank MD and CEO Chanda Kochhar, at the Chhatrapati Shivaji Maharaj International Airport in Mumbai while he was about to board a flight to Singapore.",
+            "url": "http://www.financialexpress.com/industry/aborted-flight-rajiv-kochhar-stopped-at-mumbai-stopped-by-cbi/1123244/",
+            "urlToImage": "http://images.financialexpress.com/2018/04/cats-55.jpg",
+            "publishedAt": "2018-04-05T23:07:29Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Financialexpress.com"
+            },
+            "author": "FE Bureau",
+            "title": "IndiGo rules itself out of race for Air India",
+            "description": "IndiGo was the only airline that had shown interest in buying into Air India even before the government formally invited EoIs from airlines and other interested parties in writing.",
+            "url": "http://www.financialexpress.com/industry/indigo-rules-itself-out-of-race-for-air-india/1123208/",
+            "urlToImage": "http://images.financialexpress.com/2018/04/indigo-7.jpg",
+            "publishedAt": "2018-04-05T22:08:08Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Latimes.com"
+            },
+            "author": "Joseph Serna, Rong-Gong Lin II",
+            "title": "Magnitude 5.3 earthquake strikes near Channel Islands; no damage reported",
+            "description": "A magnitude 5.3 earthquake was recorded at the Channel Islands Thursday afternoon, the U.S. Geological Survey said.",
+            "url": "http://www.latimes.com/local/lanow/la-me-ln-earthquake-channel-islands-20180405-story.html",
+            "urlToImage": "http://www.latimes.com/resizer/WY86nKSPCr5zAw0ihD40jZEt5SA=/1200x0/www.trbimg.com/img-5ac690f1/turbine/la-me-ln-earthquake-channel-islands-20180405",
+            "publishedAt": "2018-04-05T20:28:18Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Dnaindia.com"
+            },
+            "author": "PTI",
+            "title": "Power supply in three Maharashtra cities to be privatised",
+            "description": "Mumbra-Kausa and Malegaon are known for heavy recovery losses which are more than 50 per cent and 43 per cent, respectively.",
+            "url": "http://www.dnaindia.com/india/report-power-supply-in-three-maharashtra-cities-to-be-privatised-2601464",
+            "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/04/05/668790-discoms-pti.jpg",
+            "publishedAt": "2018-04-05T18:23:13Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Business-standard.com"
+            },
+            "author": "IANS",
+            "title": "Jaitley to undergo kidney transplant",
+            "description": "Finance Minister Arun Jaitley is suffering from some kidney related problems and is set to undergo kidney transplant this weekend.",
+            "url": "http://www.business-standard.com/article/news-ians/jaitley-to-undergo-kidney-transplant-118040501156_1.html",
+            "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+            "publishedAt": "2018-04-05T15:06:40Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Ndtv.com"
+            },
+            "author": null,
+            "title": "Pak Court Refuses To Lift Ban On Hafiz Saeed's \"Social Welfare Activities\"",
+            "description": "A Pakistani court today allowed Mumbai attack mastermind Hafiz Saeed's two organisations Jamaat-ud-Dawah (JuD) and Falah-i-Insaniyat Foundation (FIF) to work under the ambit of law but did not set aside the government's ban on their 'social welfare activities…",
+            "url": "https://www.ndtv.com/world-news/pak-court-refuses-to-lift-ban-on-hafiz-saeeds-social-welfare-activities-1833415",
+            "urlToImage": "https://i.ndtvimg.com/i/2018-03/hafiz-saeed_650x400_81520651941.jpg",
+            "publishedAt": "2018-04-05T13:53:58Z"
+        }, {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Online",
+            "title": "Aadhaar can't stop bank frauds: Supreme Court to Centre",
+            "description": "The bank knows whom it is giving loan to and it is the bank officials who are hand in glove with the fraudster, a five-judge constitution bench said today.",
+            "url": "https://economictimes.indiatimes.com/news/politics-and-nation/aadhaar-cant-stop-bank-frauds-supreme-court-to-centre/articleshow/63627499.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-63627502,width-672,resizemode-4,imgsize-62624/untitled-25.jpg",
+            "publishedAt": "2018-04-05T10:32:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Financialexpress.com"
+            },
+            "author": "FE Online",
+            "title": "WhatsApp security alert: Downloading this fake version could cost you a huge price; here's how",
+            "description": "WhatsApp, one of the most popular messaging application across the globe, has brought new features and updates from time to time. However, being one of the popular application has some shortfalls too. A fake version of the app is floating across the internet.",
+            "url": "http://www.financialexpress.com/industry/technology/whatsapp-security-alert-beware-think-twice-before-downloading-this-version-heres-why/1121218/",
+            "urlToImage": "http://images.financialexpress.com/2018/04/WHatsApp.jpeg",
+            "publishedAt": "2018-04-05T07:36:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Firstpost.com"
+            },
+            "author": null,
+            "title": "Kolkata: Man mummifies mother's body, keeps it in freezer for three years to withdraw her pension",
+            "description": "Kolkata Police have arrested a man for allegedly preserving his mother's dead body in a refrigerator for two years.",
+            "url": "https://www.firstpost.com/india/kolkata-man-mummifies-mothers-body-keeps-it-in-freezer-for-three-years-to-withdraw-her-pension-4419589.html",
+            "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/03/West-Bengal-police_Social_Reuter.jpg",
+            "publishedAt": "2018-04-05T11:37:49Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Telugucinema.com"
+            },
+            "author": "admin",
+            "title": "Chal Mohan Ranga - Movie Review",
+            "description": "What’s it about!",
+            "url": "http://www.telugucinema.com/reviews/chal-mohan-ranga-movie-review",
+            "urlToImage": "http://www.telugucinema.com/sites/default/files2/chal-mohan-ranga-review.jpg",
+            "publishedAt": "2018-04-05T11:13:50Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Newindianexpress.com"
+            },
+            "author": null,
+            "title": "Pakistani court bars government from 'harassing' Hafiz Saeed",
+            "description": "The petition argued that barring an organisation or party from indulging in charity work was against the Constitution.",
+            "url": "http://www.newindianexpress.com/world/2018/apr/05/pakistani-court-bars-government-from-harassing-hafiz-saeed-1797446.html",
+            "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/3/6/w600X390/HafizSaeed_PTI.jpg",
+            "publishedAt": "2018-04-05T11:11:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Firstpost.com"
+            },
+            "author": null,
+            "title": "Supreme Court grants partial relief to RCom; clears decks for sale of spectrum, optical fibre assets to Reliance Jio",
+            "description": "In much-awaited relief to Reliance Communications (RCOM), SC cleared decks for sale of its spectrum and optical fibre assets to Reliance Jio Infocomm",
+            "url": "https://www.firstpost.com/business/supreme-court-grants-partial-relief-to-rcom-clears-decks-for-sale-of-spectrum-optical-fibre-assets-to-reliance-jio-4419579.html",
+            "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/04/rcom-reuters_social.jpg",
+            "publishedAt": "2018-04-05T11:06:47Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Cricbuzz.com"
+            },
+            "author": "",
+            "title": "Star Sports India bag BCCI media rights for INR 6138.1 Crore",
+            "description": "The successful e-bid is 59.39 percent more than Star's winning bid for the 2012-18 cycle",
+            "url": "http://www.cricbuzz.com/cricket-news/101474/star-sports-india-bag-bcci-media-rights-for-inr-6138-crore",
+            "urlToImage": "http://i.cricketcb.com/i/news/stories/2018/apr/5//prv_1522926979.jpeg",
+            "publishedAt": "2018-04-05T11:03:47Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Firstpost.com"
+            },
+            "author": null,
+            "title": "Commonwealth Games 2018: Publicity shy P Gururaja basks in spotlight with long-overdue silver in weightlifting",
+            "description": "Gururaja has always enjoyed the anonymity. So while the spotlight has been on the likes of Mirabai Chanu and S Sathish among the weightlifters, it has allowed Gururaja to silently work his way up",
+            "url": "https://www.firstpost.com/sports/commonwealth-games-2018-publicity-shy-p-gururaja-basks-in-spotlight-with-long-overdue-silver-in-weightlifting-4419449.html",
+            "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/04/P-Gururaj-weightlifting_PTI1.jpg",
+            "publishedAt": "2018-04-05T10:59:05Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Ndtv.com"
+            },
+            "author": null,
+            "title": "DMK Leads Tamil Nadu Shutdown Over Cauvery Water Issue, Normal Life Hit",
+            "description": "The DMK-led opposition parties' bandh, demanding the establishment of Cauvery Management Board to ensure water for farmers as per the Supreme Court orders, began in Tamil Nadu today.",
+            "url": "https://www.ndtv.com/chennai-news/dmk-leads-tamil-nadu-shutdown-over-cauvery-water-issue-normal-life-hit-1833261",
+            "urlToImage": "https://i.ndtvimg.com/i/2018-04/mk-stalin-arrested_650x400_41522920543.jpg",
+            "publishedAt": "2018-04-05T09:33:38Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Firstpost.com"
+            },
+            "author": null,
+            "title": "Indian cricketers, film stars need to counter Shahid Afridi's lies effectively, give his handlers a befitting reply",
+            "description": "Shahid Afridi took to tweeting about his concern for terrorists being picked off like flies in Kashmir, which obviously got his goat.",
+            "url": "https://www.firstpost.com/firstcricket/sports-news/indian-cricketers-film-stars-need-to-counter-shahid-afridis-lies-effectively-give-his-handlers-a-befitting-reply-4419387.html",
+            "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/04/Shahid-Afridi-2012-WT20-Reuters-social.jpg",
+            "publishedAt": "2018-04-05T09:25:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Hindustantimes.com"
+            },
+            "author": null,
+            "title": "Islamic scholar Tariq Ramadan, accused of rape, 'paid woman for silence' in 2015",
+            "description": "The Oxford professor was detained by a French court in February over charges that he raped two Muslim women in France. A third woman has since made further allegations of rape.",
+            "url": "https://www.hindustantimes.com/world-news/islamic-scholar-tariq-ramadan-accused-of-rape-paid-woman-for-silence-in-2015/story-8lCpkdxVBGdUMK2wOpyGOM.html",
+            "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/04/05/Pictures/journalist-conference-author-mosque-ramadan-nantes-after_e8e4c2ba-38b0-11e8-8aa5-05fdb8d0ae52.jpg",
+            "publishedAt": "2018-04-05T09:20:45Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Indiatvnews.com"
+            },
+            "author": "Edited by : India TV Entertainment Desk",
+            "title": "God willing, we'll work together: Sunil Grover may reconcile with Kapil Sharma",
+            "description": "Tv News – If the Indian Premier League (IPL) has hit on the perfect formula of cricket, glamour and entertainment, then taking the trend further is a new web series Jio Dhan Dhana Dhan Live, headlined by Sunil.",
+            "url": "https://www.indiatvnews.com/entertainment/tv-god-willing-we-will-work-together-sunil-grover-may-reconcile-with-kapil-sharma-436004",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/04/fd-1522919380.jpg",
+            "publishedAt": "2018-04-05T09:12:55Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Indiatoday.in"
+            },
+            "author": "PTI",
+            "title": "Warner too accepts punishment, says he wont challenge ban",
+            "description": "Melbourne, Apr 5 (PTI) Considered the plotter-in-chief in the ball-tampering scandal, David Warner today said he has",
+            "url": "https://www.indiatoday.in/pti-feed/story/warner-too-accepts-punishment-says-he-wont-challenge-ban-1205302-2018-04-05",
+            "urlToImage": "Warner too accepts punishment, says he wont challenge ban",
+            "publishedAt": "2018-04-05T09:11:25Z"
+        }, {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Sunil Dhawan",
+            "title": "Despite RBI maintaining status quo on rates, your loans may pinch more",
+            "description": "As things stand today, the interest rate appears to either remain stagnant or there exists a remote possibility for them to move up in the near term.",
+            "url": "https://economictimes.indiatimes.com/wealth/borrow/rbi-keeps-repo-rates-unchanged-home-loan-emis-may-still-rise/articleshow/63613229.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-63626308,width-672,resizemode-4,imgsize-32820/homeloan.jpg",
+            "publishedAt": "2018-04-05T09:03:00Z"
+        }, {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": null,
+            "title": "Blackbuck poaching case: Salman Khan gets 5 years in jail, other accused let off",
+            "description": "A Jodhpur trial court today convicted actor Salman Khan in the 1998 blackbuck poaching case. Co-accused Saif Ali Khan, Sonali Bendre, Neelam and Tabu",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/blackbuck-poaching-case-salman-khan-convicted-other-accused-let-off/articleshow/63623658.cms",
+            "urlToImage": "https://static.toiimg.com/photo/msid-63623762/63623762.jpg?151208",
+            "publishedAt": "2018-04-05T08:49:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Business-standard.com"
+            },
+            "author": "IANS",
+            "title": "Duterte closes tourist island over sewage",
+            "description": "Philippines President Rodrigo Duterte has ordered a six-month closure of Boracay island, one of the country's main tourist destinations, and described it as a \"cesspool\" of water pollution, an official confirmed on Thursday.",
+            "url": "http://www.business-standard.com/article/news-ians/duterte-closes-tourist-island-over-sewage-118040500482_1.html",
+            "urlToImage": "http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg",
+            "publishedAt": "2018-04-05T08:32:35Z"
+        }, {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": null,
+            "title": "'Baaghi 2' box-office collection Day 6: Tiger Shroff starrer action flick enters the Rs 100 crore club",
+            "description": "Ahmed Khan's romantic action film 'Baaghi 2' which stars Tiger Shroff and Disha Patani in the lead, has continued its good streak by raking in another",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/baaghi-2-box-office-collection-day-6-tiger-shroff-starrer-action-flick-enters-the-rs-100-crore-club/articleshow/63625951.cms",
+            "urlToImage": "https://static.toiimg.com/photo/msid-63625951/63625951.jpg?95485",
+            "publishedAt": "2018-04-05T08:30:10Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Www.bgr.in"
+            },
+            "author": "Staff",
+            "title": "Xiaomi Redmi 5 to go on sale on Amazon India at 2PM today: Details on pricing and offers",
+            "description": "Redmi 5 is available in two variants - 2GB+16GB and 3GB+32GB.",
+            "url": "http://www.bgr.in/news/xiaomi-redmi-5-to-go-on-sale-on-amazon-india-at-2pm-today-details-on-pricing-and-offers/",
+            "urlToImage": "http://st1.bgr.in/wp-content/uploads/2018/03/xiaomi-redmi-5-front.jpg",
+            "publishedAt": "2018-04-05T08:12:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Financialexpress.com"
+            },
+            "author": "FE Online",
+            "title": "Salman Khan convicted: As brand 'Bhaijaan' takes big hit, here's how much money industry stands to lose",
+            "description": "Salman Khan suffered a massive setback in the Jodhpur blackbuck poaching case after the court convicted the actor in the blackbuck poaching case. The others accused in the case Saif Ali Khan, Sonali Bendre, Tabu and Neelam were acquitted in the black buck cas…",
+            "url": "http://www.financialexpress.com/entertainment/salman-khan-verdict-blackbuck-poaching-case-how-much-money-industry-stands-to-lose/1122280/",
+            "urlToImage": "http://images.financialexpress.com/2018/04/salman_khan_accused_NEW.jpg",
+            "publishedAt": "2018-04-05T06:33:03Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Ndtv.com"
+            },
+            "author": null,
+            "title": "Facebook Says Most of Its 2 Billion Users Had Their Data 'Scraped' From Profiles",
+            "description": "",
+            "url": "https://gadgets.ndtv.com/social-networking/news/facebook-says-most-of-its-2-billion-users-had-their-data-scraped-from-profiles-1833126",
+            "urlToImage": "https://i.gadgets360cdn.com/large/facebook_privacy_mark_zuckerberg_wp_full_1522906793496.jpg",
+            "publishedAt": "2018-04-05T05:56:50Z"
+        }, {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": null,
+            "title": "Ranveer Singh and Deepika Padukone's alleged love life",
+            "description": "Speculations were rife that Ranveer Singh and Deepika Padukone are tying the knot this year-end. There were reports which claimed the rumoured bride-to-be has even started shopping for her big day.  Recently, the actress revealed her marriage plans and said t…",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/photo-features/heres-what-deepika-padukone-had-to-say-about-her-marriage-plans/photostory/63622501.cms",
+            "urlToImage": "https://static.toiimg.com/photo/63622501.cms",
+            "publishedAt": "2018-04-05T04:17:27Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Dnaindia.com"
+            },
+            "author": null,
+            "title": "Jammu and Kashmir cop suspended over killing of 22-year-old",
+            "description": null,
+            "url": "http://www.dnaindia.com/india/report-jammu-and-kashmir-cop-suspended-over-killing-of-22-year-old-2601143",
+            "urlToImage": null,
+            "publishedAt": "2018-04-05T00:12:03Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Newindianexpress.com"
+            },
+            "author": null,
+            "title": "Christopher Nolan in India: Want to watch more Indian cinema, says 'Dunkirk' director",
+            "description": "Multiple Oscar-nominated filmmaker Christopher Nolan, known for \"Batman Begins\" and \"The Dark Knight\", says he is interested to watch and know more about Indian cinema.",
+            "url": "http://www.newindianexpress.com/nation/2018/apr/01/christopher-nolan-in-india-want-to-watch-more-indian-cinema-says-dunkirk-director-1795542.html",
+            "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/4/1/w600X390/chris_nolan.JPG",
+            "publishedAt": "2018-04-01T05:26:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Ndtv.com"
+            },
+            "author": null,
+            "title": "Follow These Steps To Renew Your Jio Prime Membership Till March 2019",
+            "description": "Jio's prime membership renewal process is not automatic, and subscribers need to do it manually.",
+            "url": "https://www.ndtv.com/business/reliance-jio-prime-membership-extended-follow-these-steps-to-renew-service-till-march-2019-1831279",
+            "urlToImage": "https://i.ndtvimg.com/i/2018-03/jio_650x400_51522418000.jpeg",
+            "publishedAt": "2018-04-01T05:17:45Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Hindustantimes.com"
+            },
+            "author": null,
+            "title": "Indore building collapse: Death toll reaches 10, CM Chouhan announces ex-gratia",
+            "description": "Madhya Pradesh chief minister Shivraj Singh Chouhan on Sunday announced an ex-gratia of Rs 2 lakh each for the next kin of those killed in the building collapse.",
+            "url": "https://www.hindustantimes.com/bhopal/indore-building-collapse-death-toll-reaches-10-cm-chouhan-announces-ex-gratia/story-rwrjPYikvhrdqDQK3SggDN.html",
+            "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/04/01/Pictures/_2a1508b4-3567-11e8-9916-7e63ef9446cf.jpg",
+            "publishedAt": "2018-04-01T04:54:44Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol.com"
+            },
+            "author": null,
+            "title": "Videocon Group-ICICI Bank loan controversy: Chanda Kochhar faces her biggest test in final lap of storied career",
+            "description": "Chanda Kochhar is known to be quite an “assertive” boss but some of those who know her say she is a professional person and one who knows when to say “no”.",
+            "url": "https://www.moneycontrol.com/news/business/videocon-group-icici-bank-loan-controversy-chanda-kochhar-faces-her-biggest-test-in-final-lap-of-storied-career-2540263.html",
+            "urlToImage": "https://static-news.moneycontrol.com/static-mcnews/2018/03/RTS1NQMN-770x433.jpg",
+            "publishedAt": "2018-04-01T04:52:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Newindianexpress.com"
+            },
+            "author": null,
+            "title": "Desert Storm rally - not for the weak hearted",
+            "description": "The Desert Storm Rally is not for the weak-hearted. Despite heat and challenging surroundings of Thar desert, the arduo us event attracts scores of cars and bikes every year.",
+            "url": "http://www.newindianexpress.com/sport/other/2018/apr/01/desert-storm-rally---not-for-the-weak-hearted-1795423.html",
+            "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/2018/4/1/w600X390/SAND.jpg",
+            "publishedAt": "2018-04-01T04:49:04Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "Tech Desk",
+            "title": "Huawei could be working on a foldable smartphone, reveals patent",
+            "description": "Huawei, the world's third-largest smartphone maker, is exploring the idea of a smartphone with a foldable display. Apple and Samsung are also rumoured to be working on foldable smartphones.",
+            "url": "http://indianexpress.com/article/technology/mobile-tabs/huawei-could-be-working-on-a-foldable-smartphone-reveals-patent-5119124/",
+            "urlToImage": "http://images.indianexpress.com/2018/04/huawei-main.jpg?w=759",
+            "publishedAt": "2018-04-01T04:39:44Z"
+        }, {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": null,
+            "title": "Encounters underway in Shopian, 7 terrorists gunned down",
+            "description": "India News: NEW DELHI: Eight terrorists were killed on Sunday in an multiple encounters with security forces in Jammu and Kashmir's Shopian and Anantnag district,.",
+            "url": "https://timesofindia.indiatimes.com/india/encounters-underway-in-shopian-7-terrorists-gunned-down/articleshow/63564305.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-63564297,width-1070,height-580,imgsize-1778267,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2018-04-01T04:37:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Ndtv.com"
+            },
+            "author": "NDTVSports.com",
+            "title": "David Warner's Wife Candice Blames Herself For Husband's Ball-Tampering Crisis",
+            "description": "Candice Warner said that her husband David was struggling to cope with the ball-tampering fallout.",
+            "url": "https://sports.ndtv.com/cricket/ball-tampering-scandal-its-all-my-fault-says-david-warners-wife-candice-1831271",
+            "urlToImage": "https://i.ndtvimg.com/i/2018-04/david-warner-and-wife-candice-afp_806x605_51522556729.jpg",
+            "publishedAt": "2018-04-01T04:26:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Deccanchronicle.com"
+            },
+            "author": "Deccan Chronicle / ANI",
+            "title": "VK Singh to fly to Mosul today to bring back bodies of 39 Indians",
+            "description": "On March 20, Sushma Swaraj informed the RS that all 39 Indians kidnapped by ISIS in Mosul three years ago were dead.",
+            "url": "https://www.deccanchronicle.com/nation/current-affairs/010418/vk-singh-to-fly-to-mosul-today-to-bring-back-bodies-of-39-slain-indian.html",
+            "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-652ovhkibhg82kh6on274ihkn1-20180401094834.Medi.jpeg",
+            "publishedAt": "2018-04-01T04:24:35Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Financialexpress.com"
+            },
+            "author": "Pragya Srivastava",
+            "title": "e-Way Bill rolls out from today: All you need to know in 10 points",
+            "description": "e-Way Bill (Electronic Bill) is all set to roll-out from today for inter-state movement of goods and services for value more than Rs 50,000. It is an online generated document required by the person in charge of the transportation for the movement of goods.",
+            "url": "http://www.financialexpress.com/economy/e-way-bill-rolls-out-from-today-all-you-need-to-know-in-10-points/1117343/",
+            "urlToImage": "http://images.financialexpress.com/2018/03/e-way-bill-1.jpg",
+            "publishedAt": "2018-04-01T04:19:22Z"
+        }, {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Shri Puri",
+            "title": "Emotional reunion for Dalai Lama, retired soldier",
+            "description": "India News: In the last 60 years, they met only once at Guwahati last April. The Dalai Lama thanked India for providing shelter to him and his countrymen and invi",
+            "url": "https://timesofindia.indiatimes.com/india/emotional-reunion-for-dalai-retired-soldier/articleshow/63564099.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-63564116,width-1070,height-580,imgsize-167613,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2018-04-01T04:01:43Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Indianexpress.com"
+            },
+            "author": "A. Kameshwari",
+            "title": "Bollywood heaps praise on Baaghi 2, Hrithik Roshan gives 'Best action hero' title to Tiger Shroff",
+            "description": "Baaghi 2 has become Bollywood’s highest opener of 2018, surpassing Padmaavat. The Tiger Shroff and Disha Patani starrer minted Rs 25 crore on day one. Directed by Ahmed Khan, the romantic actioner is receiving immense love from Bollywood and audience.",
+            "url": "http://indianexpress.com/article/entertainment/bollywood/baaghi-2-tiger-shroff-hrithik-roshan-tweets-5119123/",
+            "urlToImage": "http://images.indianexpress.com/2018/04/tiger-shroff-759.jpg?w=759",
+            "publishedAt": "2018-04-01T03:43:08Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Business-standard.com"
+            },
+            "author": "BS Web Team",
+            "title": "CBSE re-exam: Police get reply from Google over 'paper leak' email; updates",
+            "description": "CBSE announced re-exam for Class 12 economics to be held on April 25, whereas decision on Class 10 maths re-exam to be taken in next 15 days. If required will held only in Delhi NCR and Haryana. Find CBSE latest news and updates.",
+            "url": "http://www.business-standard.com/article/current-affairs/cbse-re-exam-cbse-class-12-economics-exam-on-april-25-cbse-class-10-maths-likely-in-july-check-cbse-nic-in-top-10-developments-118033100083_1.html",
+            "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-03/31/full/1522495417-751.jpg",
+            "publishedAt": "2018-04-01T03:33:45Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Hindustantimes.com"
+            },
+            "author": null,
+            "title": "Gazans bury their dead after bloodiest day in years",
+            "description": "Israel defended the army fire at Palestinians who broke away from the main protest of tens of thousands and neared the heavily fortified fence around the Gaza Strip.",
+            "url": "https://www.hindustantimes.com/world-news/gazans-bury-their-dead-after-bloodiest-day-in-years/story-P1QUnC8vXYLfWArqnY9yVP.html",
+            "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/04/01/Pictures/palestinians-israel_2ee31bea-3555-11e8-a509-12b0194ead35.jpg",
+            "publishedAt": "2018-04-01T03:15:00Z"
+        }, {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Chethan Kumar",
+            "title": "48 hours after launch, Isro goes silent on GSAT",
+            "description": "India News: A source said the second orbit-raising exercise around 10am went off well, with the liquid apogee motor (LAM) firing as planned, but a few minutes lat",
+            "url": "https://timesofindia.indiatimes.com/india/48-hours-after-launch-isro-silent-on-gsat/articleshow/63562646.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-63563747,width-1070,height-580,imgsize-168827,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2018-04-01T03:04:21Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Ndtv.com"
+            },
+            "author": null,
+            "title": "In Midnight Drama, Union Minister's Son Arrested For Bihar Violence",
+            "description": "Surrounded by hordes of media personnel, Arijit Shashwat, the son of union minister Ashwini Choubey, was arrested late on Saturday night in Bihar's capital Patna, in connection with the communal clashes in Bhagalpur town in the state two weeks ago.",
+            "url": "https://www.ndtv.com/india-news/arijit-shashwat-son-of-union-minister-arrested-for-violence-in-bihars-bhagalpur-1831253",
+            "urlToImage": "https://i.ndtvimg.com/i/2018-04/arijit-shashwat-arrest_650x400_61522550960.jpg",
+            "publishedAt": "2018-04-01T03:04:14Z"
+        }, {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": null,
+            "title": "Karnataka win will open doors for BJP in south: Amit Shah",
+            "description": "MYSURU: Winding up his two-day tour of Mysuru, Chamarajanagar and Mandya districts, party’s national president Amit Shah on Saturday said a victory in.",
+            "url": "https://timesofindia.indiatimes.com/city/mysuru/ktaka-win-will-open-doors-for-bjp-in-south-shah/articleshow/63561856.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-63561856,width-1070,height-580,imgsize-1357542,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2018-04-01T02:39:00Z"
+        }, {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": null,
+            "title": "Two arrested after six stab 25-yr-old to death",
+            "description": "CHANDIGARH: Six persons stabbed a 25-year-old resident of a colony in Sector 25 to death on Friday night.",
+            "url": "https://timesofindia.indiatimes.com/city/chandigarh/two-arrested-after-six-stab-25-yr-old-to-death/articleshow/63561675.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-63564543,width-1070,height-580,imgsize-1223758,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2018-04-01T02:18:00Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Livemint.com"
+            },
+            "author": "Charles Assisi",
+            "title": "And Jesus Christ was a sailor",
+            "description": "That the Bible has survived in multiple iterations has to do with the ‘Theory of Optimal Fragmentation’. It holds lessons for individuals, businesses and governments",
+            "url": "https://www.livemint.com/Sundayapp/SRcwybC5N0hWV7CLWDM7kI/And-Jesus-Christ-was-a-sailor.html",
+            "urlToImage": "https://www.livemint.com/rf/Image-621x414/LiveMint/Period2/2018/03/31/Photos/Sundayapp/20160327_KRA-DP-MN_Easter%20Sunday-014-keyD--621x414@LiveMint.JPG",
+            "publishedAt": "2018-03-31T19:46:36Z"
+        }, {
+            "source": {
+                "id": null,
+                "name": "Deccanchronicle.com"
+            },
+            "author": "Indulekha Arakkal",
+            "title": "Arrests dash hopes of Maoists 'sympathy' wave",
+            "description": "The accused were also formerly students of the varsity.",
+            "url": "https://www.deccanchronicle.com/nation/current-affairs/010418/arrests-dash-hopes-of-maoists-sympathy-wave.html",
+            "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-17rrpp5jihtj37qm43kil4v3o0-20180329062200.Medi.jpeg",
+            "publishedAt": "2018-03-31T19:03:09Z"
+        }
+    ]
 }
