@@ -4,17 +4,6 @@
     "articles": [{
         "source": {
             "id": null,
-            "name": "Firstpost.com"
-        },
-        "author": null,
-        "title": "Attack on YouTube HQ in California: Shooter's bizarre videos hint at her anger with video-sharing platform",
-        "description": null,
-        "url": "https://www.firstpost.com/world/attack-on-youtube-hq-in-california-shooters-bizarre-videos-hint-at-her-anger-with-video-sharing-platform-4420243.html",
-        "urlToImage": null,
-        "publishedAt": "2018-04-06T02:48:47Z"
-    }, {
-        "source": {
-            "id": null,
             "name": "Ndtv.com"
         },
         "author": "NDTVSports.com",
