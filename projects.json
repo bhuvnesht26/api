@@ -1,10 +1,55 @@
 {
     "status": "ok",
-    "totalResults": 20,
+    "totalResults": 10,
     "articles": [{
         "title": "Latest Meals",
         "url": "https://bhuvnesht26.github.io/latest-meals/",
-        "img": "https://static-news.moneycontrol.com/static-mcnews/2018/02/jayantsinha_1280_720-770x433.jpg"
+        "img": "https://cdn-images-1.medium.com/max/640/1*XaGxIa_JuHc8YTR5Znv6tg.png"
+    },
+    {
+        "title": "Weather Checker",
+        "url": "https://bhuvnesht26.github.io/weather/",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+    },
+    {
+        "title": "Clock",
+        "url": "https://bhuvnesht26.github.io/clock/",
+        "img": "https://cdn.tutsplus.com/active/uploads/legacy/flashtuts/079_DigitalClock/Tutorial/clock_in_flash8.jpg"
+    },
+    {
+        "title": "News Aggregator",
+        "url": "https://nuuz.in/",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+    },
+    {
+        "title": "MIND CONTROLLED FAN FOR ALS OR PARALYZED PATIENTS",
+        "url": "http://www.instructables.com/id/Mind-Controlled-Fan-for-ALS-or-Paralyzed-patients/",
+        "img": "https://i.pinimg.com/originals/4e/7b/62/4e7b62b98915dbd4565098269ddc43cd.png"
+    },
+    {
+        "title": "Jaldhara",
+        "url": "https://jaldharapurifiers.com/",
+        "img": "https://codeinstitute.net/wp-content/uploads/2014/08/css-coding.jpg"
+    },
+    {
+        "title": "Android App - IGSF Events",
+        "url": "https://play.google.com/store/apps/details?id=igsf.org.in&hl=en",
+        "img": "https://pbs.twimg.com/profile_images/875443327835025408/ZvmtaSXW_400x400.jpg"
+    },
+    {
+        "title": "Website - IGSF ",
+        "url": "https://igsf.org.in",
+        "img": "https://codeinstitute.net/wp-content/uploads/2014/08/css-coding.jpg"
+    },
+    {
+        "title": "Website - IGSF ",
+        "url": "https://www.igsf.org.in",
+        "img": "https://codeinstitute.net/wp-content/uploads/2014/08/css-coding.jpg"
+    },
+    {
+        "title": "Website - MyTableTops ",
+        "url": "http://mytabletops.in",
+        "img": "https://codeinstitute.net/wp-content/uploads/2014/08/css-coding.jpg"
     }
-  ]
-}
+    
+]}
