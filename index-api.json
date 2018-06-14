@@ -2,7 +2,6 @@
     "status": "ok",
     "totalResults": 20,
     "articles": [{
-<<<<<<< HEAD
             "status": "ok",
             "totalResults": 20,
             "articles": [{
@@ -1528,4 +1527,3 @@
         "publishedAt": "2018-03-31T19:03:09Z"
     }]
 }
->>>>>>> 57dafeb8f6ceec8113cd2eb0191299a4e38cfd43
